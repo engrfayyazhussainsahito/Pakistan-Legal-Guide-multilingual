@@ -1,0 +1,2858 @@
+{
+ "topics": [
+  {
+   "id": "constitutional-rights",
+   "number": 1,
+   "phase": 1,
+   "category": "constitutional",
+   "title": {
+    "en": "Your constitutional rights",
+    "ur": "آپ کے آئینی حقوق",
+    "sd": "توهان جا آئيني حق"
+   },
+   "description": {
+    "en": "What fundamental rights are, which ones matter most in daily life, and how to enforce them.",
+    "ur": "بنیادی حقوق کیا ہیں، روزمرہ زندگی میں کون سے سب سے اہم ہیں، اور انہیں کیسے نافذ کرایا جائے۔",
+    "sd": "بنيادي حق ڇا آهن، روزمره زندگيءَ ۾ ڪهڙا سڀ کان اهم آهن، ۽ انهن کي ڪيئن لاڳو ڪرايو وڃي."
+   },
+   "intro": {
+    "en": "The Constitution is the highest law. Its fundamental rights — security of person, safeguards on arrest, fair trial, dignity, access to information, equality and education — apply to people in their dealings with the State. A right in the Constitution is not just a promise: if the State violates it, you can ask a court to enforce it. Many rights come with reasonable restrictions set by law, so always read the exact Article.",
+    "ur": "آئین اعلیٰ ترین قانون ہے۔ اس کے بنیادی حقوق — جان کا تحفظ، گرفتاری پر تحفظات، منصفانہ سماعت، وقار، معلومات تک رسائی، برابری اور تعلیم — ریاست کے ساتھ معاملات میں لوگوں پر لاگو ہوتے ہیں۔ آئین میں درج حق محض وعدہ نہیں: ریاست خلاف ورزی کرے تو آپ عدالت سے اس کا نفاذ مانگ سکتے ہیں۔ بہت سے حقوق پر قانون کی معقول پابندیاں ہوتی ہیں، اس لیے ہمیشہ آرٹیکل کے عین الفاظ پڑھیں۔",
+    "sd": "آئين اعليٰ ترين قانون آهي. ان جا بنيادي حق — جان جو تحفظ، گرفتاريءَ تي تحفظ، منصفانه ٻڌڻي، وقار، ڄاڻ تائين رسائي، برابري ۽ تعليم — رياست سان معاملن ۾ ماڻهن تي لاڳو ٿين ٿا. آئين ۾ درج حق رڳو واعدو ناهي: جيڪڏهن رياست ڀڃڪڙي ڪري ته توهان عدالت کان ان جو نفاذ گهري سگهو ٿا. ڪيترن حقن تي قانون جون معقول پابنديون هونديون آهن، تنهن ڪري هميشه آرٽيڪل جا صحيح لفظ پڙهو."
+   },
+   "steps": [
+    {
+     "en": "Write down what happened: dates, names of officials, documents and any reference numbers.",
+     "ur": "جو کچھ ہوا لکھ لیں: تاریخیں، افسران کے نام، دستاویزات اور حوالہ نمبر۔",
+     "sd": "جيڪو ٿيو لکي ڇڏيو: تاريخون، آفيسرن جا نالا، دستاويز ۽ حوالا نمبر."
+    },
+    {
+     "en": "Complain in writing to the authority concerned, and keep a stamped copy or proof of delivery.",
+     "ur": "متعلقہ ادارے کو تحریری شکایت دیں اور مہر شدہ نقل یا ڈیلیوری کا ثبوت رکھیں۔",
+     "sd": "لاڳاپيل اداري کي لکت ۾ شڪايت ڏيو ۽ مهر ٿيل ڪاپي يا پهچائڻ جو ثبوت رکو."
+    },
+    {
+     "en": "Check for another remedy first: an appeal, a tribunal or an ombudsman.",
+     "ur": "پہلے کوئی اور چارہ جوئی دیکھیں: اپیل، ٹربیونل یا محتسب۔",
+     "sd": "پهرين ڪو ٻيو چارو ڏسو: اپيل، ٽربيونل يا محتسب."
+    },
+    {
+     "en": "If no adequate remedy exists, speak to a lawyer or legal-aid office about a constitutional petition in the High Court (Article 199).",
+     "ur": "اگر کوئی مؤثر چارہ نہ ہو تو ہائی کورٹ میں آئینی پٹیشن (آرٹیکل 199) کے لیے وکیل یا قانونی امداد کے دفتر سے بات کریں۔",
+     "sd": "جيڪڏهن ڪو مؤثر چارو نه هجي ته هاءِ ڪورٽ ۾ آئيني پٽيشن (آرٽيڪل 199) لاءِ وڪيل يا قانوني مدد جي آفيس سان ڳالهايو."
+    }
+   ],
+   "faqIds": [
+    "faq-rights-violated",
+    "faq-equal-women"
+   ],
+   "check": [
+    {
+     "q": {
+      "en": "Which Article protects a person from being deprived of life or liberty except in accordance with law?",
+      "ur": "کون سا آرٹیکل کسی شخص کو قانون کے مطابق کارروائی کے بغیر زندگی یا آزادی سے محروم ہونے سے بچاتا ہے؟",
+      "sd": "ڪهڙو آرٽيڪل ڪنهن شخص کي قانون موجب ڪارروائيءَ کانسواءِ زندگي يا آزاديءَ کان محروم ٿيڻ کان بچائي ٿو؟"
+     },
+     "a": {
+      "en": "Article 9 (security of person).",
+      "ur": "آرٹیکل 9 (جان کا تحفظ)۔",
+      "sd": "آرٽيڪل 9 (جان جو تحفظ)."
+     }
+    },
+    {
+     "q": {
+      "en": "Can the State ever restrict a fundamental right?",
+      "ur": "کیا ریاست کبھی کسی بنیادی حق پر پابندی لگا سکتی ہے؟",
+      "sd": "ڇا رياست ڪڏهن ڪنهن بنيادي حق تي پابندي لڳائي سگهي ٿي؟"
+     },
+     "a": {
+      "en": "Some rights allow reasonable restrictions imposed by law (for example Article 19A). The restriction must come from a valid law — it cannot be arbitrary.",
+      "ur": "بعض حقوق قانون کی عائد کردہ معقول پابندیوں کی اجازت دیتے ہیں (مثلاً آرٹیکل 19A)۔ پابندی کسی درست قانون سے آنی چاہیے — من مانی نہیں ہو سکتی۔",
+      "sd": "ڪجهه حق قانون جي لڳايل معقول پابندين جي اجازت ڏين ٿا (مثال طور آرٽيڪل 19A). پابندي ڪنهن صحيح قانون مان اچڻ گهرجي — خود مختياريءَ سان نٿي ٿي سگهي."
+     }
+    }
+   ],
+   "terms": [
+    "equality-before-law",
+    "writ",
+    "habeas-corpus"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "constitution-1973",
+     "sectionId": "art-9"
+    },
+    {
+     "lawId": "constitution-1973",
+     "sectionId": "art-10a"
+    },
+    {
+     "lawId": "constitution-1973",
+     "sectionId": "art-14"
+    },
+    {
+     "lawId": "constitution-1973",
+     "sectionId": "art-25"
+    },
+    {
+     "lawId": "constitution-1973",
+     "sectionId": "art-199"
+    }
+   ],
+   "keywords": [
+    "fundamental rights",
+    "constitution",
+    "article",
+    "writ",
+    "equality"
+   ],
+   "minutes": 6
+  },
+  {
+   "id": "legal-system-and-reading-law",
+   "number": 2,
+   "phase": 1,
+   "category": "constitutional",
+   "title": {
+    "en": "How the legal system works — and how to read a law",
+    "ur": "قانونی نظام کیسے کام کرتا ہے — اور قانون کیسے پڑھیں",
+    "sd": "قانوني نظام ڪيئن ڪم ڪري ٿو — ۽ قانون ڪيئن پڙهجي"
+   },
+   "description": {
+    "en": "Federal and provincial laws, the court ladder, and a step-by-step method for reading a statute.",
+    "ur": "وفاقی اور صوبائی قوانین، عدالتوں کی سیڑھی، اور کسی قانون کو پڑھنے کا مرحلہ وار طریقہ۔",
+    "sd": "وفاقي ۽ صوبائي قانون، عدالتن جو ڏاڪڻ، ۽ ڪنهن قانون کي پڙهڻ جو قدم بہ قدم طريقو."
+   },
+   "intro": {
+    "en": "Laws are made by Parliament (federal) and by the provincial assemblies. Courts then apply them: trial courts first, then the High Court, then the Supreme Court, with special courts and tribunals for particular subjects. A statute is divided into sections and sub-sections. A proviso (“Provided that…”) adds an exception to the rule before it, so never stop reading after the first sentence. Definitions usually appear near the start, and amendments can change the text — which is why this site always points you to the official source.",
+    "ur": "قوانین پارلیمنٹ (وفاقی) اور صوبائی اسمبلیاں بناتی ہیں۔ پھر عدالتیں انہیں لاگو کرتی ہیں: پہلے ٹرائل کورٹس، پھر ہائی کورٹ، پھر سپریم کورٹ، اور مخصوص موضوعات کے لیے خصوصی عدالتیں اور ٹربیونل۔ قانون دفعات اور ذیلی دفعات میں تقسیم ہوتا ہے۔ پرووائزو (“بشرطیکہ…”) اپنے سے پہلے کے اصول میں استثنا شامل کرتا ہے، اس لیے پہلے جملے پر رک نہ جائیں۔ تعریفیں عموماً شروع میں ہوتی ہیں اور ترامیم متن بدل سکتی ہیں — اسی لیے یہ سائٹ ہمیشہ سرکاری ماخذ کی طرف رہنمائی کرتی ہے۔",
+    "sd": "قانون پارليامينٽ (وفاقي) ۽ صوبائي اسيمبلين ٺاهين ٿيون. پوءِ عدالتون انهن کي لاڳو ڪن ٿيون: پهرين ٽرائل ڪورٽون، پوءِ هاءِ ڪورٽ، پوءِ سپريم ڪورٽ، ۽ مخصوص موضوعن لاءِ خاص عدالتون ۽ ٽربيونل. قانون دفعن ۽ ذيلي دفعن ۾ ورهايل هوندو آهي. پرووائيزو (“بشرطيڪه…”) پنهنجي کان اڳ واري اصول ۾ استثنا شامل ڪري ٿو، تنهن ڪري پهرين جملي تي نه روڪجو. وصفون عام طور شروع ۾ هونديون آهن ۽ ترميمون متن بدلائي سگهن ٿيون — ان ڪري هيءَ سائيٽ هميشه سرڪاري ماخذ ڏانهن رهنمائي ڪري ٿي."
+   },
+   "steps": [
+    {
+     "en": "Find the definitions section: key words often have a special legal meaning.",
+     "ur": "تعریفوں والی دفعہ تلاش کریں: اہم الفاظ کا اکثر مخصوص قانونی مطلب ہوتا ہے۔",
+     "sd": "وصفن واري دفعي کي ڳوليو: اهم لفظن جو گهڻو ڪري خاص قانوني مطلب هوندو آهي."
+    },
+    {
+     "en": "Read the main rule, then every sub-section, proviso and explanation attached to it.",
+     "ur": "بنیادی اصول پڑھیں، پھر اس سے منسلک ہر ذیلی دفعہ، پرووائزو اور وضاحت۔",
+     "sd": "بنيادي اصول پڙهو، پوءِ ان سان ڳنڍيل هر ذيلي دفعو، پرووائيزو ۽ وضاحت."
+    },
+    {
+     "en": "Check who the law applies to (federal or provincial, Muslims or non-Muslims, a particular place).",
+     "ur": "دیکھیں قانون کس پر لاگو ہے (وفاقی یا صوبائی، مسلمان یا غیر مسلم، کوئی مخصوص علاقہ)۔",
+     "sd": "ڏسو قانون ڪنهن تي لاڳو آهي (وفاقي يا صوبائي، مسلمان يا غير مسلم، ڪو مخصوص علائقو)."
+    },
+    {
+     "en": "Look for amendments, and confirm the current text on the official source before relying on it.",
+     "ur": "ترامیم دیکھیں اور بھروسا کرنے سے پہلے سرکاری ماخذ پر موجودہ متن کی تصدیق کریں۔",
+     "sd": "ترميمون ڏسو ۽ ڀروسو ڪرڻ کان اڳ سرڪاري ماخذ تي موجوده متن جي تصديق ڪريو."
+    }
+   ],
+   "faqIds": [
+    "faq-law-differs",
+    "faq-which-court"
+   ],
+   "check": [
+    {
+     "q": {
+      "en": "What does a proviso do?",
+      "ur": "پرووائزو کیا کرتا ہے؟",
+      "sd": "پرووائيزو ڇا ڪري ٿو؟"
+     },
+     "a": {
+      "en": "It adds an exception or condition to the rule just before it.",
+      "ur": "یہ اپنے سے پہلے والے اصول میں استثنا یا شرط شامل کرتا ہے۔",
+      "sd": "هي پنهنجي کان اڳ واري اصول ۾ استثنا يا شرط شامل ڪري ٿو."
+     }
+    },
+    {
+     "q": {
+      "en": "Why should you check the official source even after reading this site?",
+      "ur": "اس سائٹ کو پڑھنے کے بعد بھی سرکاری ماخذ کیوں دیکھنا چاہیے؟",
+      "sd": "هيءَ سائيٽ پڙهڻ کانپوءِ به سرڪاري ماخذ ڇو ڏسڻ گهرجي؟"
+     },
+     "a": {
+      "en": "Laws are amended, and explanations here are simplified and not a substitute for the official text.",
+      "ur": "قوانین میں ترامیم ہوتی ہیں اور یہاں کی وضاحتیں آسان بنائی گئی ہیں، سرکاری متن کا متبادل نہیں۔",
+      "sd": "قانونن ۾ ترميمون ٿينديون آهن ۽ هتان جون وضاحتون سادي ڪيل آهن، سرڪاري متن جو متبادل ناهن."
+     }
+    }
+   ],
+   "terms": [
+    "jurisdiction",
+    "plaintiff",
+    "witness"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "cpc-1908",
+     "sectionId": "cpc-9"
+    },
+    {
+     "lawId": "constitution-1973"
+    }
+   ],
+   "keywords": [
+    "court",
+    "jurisdiction",
+    "statute",
+    "proviso",
+    "federal",
+    "provincial"
+   ],
+   "minutes": 5
+  },
+  {
+   "id": "reporting-a-crime-fir",
+   "number": 3,
+   "phase": 2,
+   "category": "criminal",
+   "title": {
+    "en": "Reporting a crime and the FIR",
+    "ur": "جرم کی اطلاع اور ایف آئی آر",
+    "sd": "ڏوهه جي اطلاع ۽ ايف آءِ آر"
+   },
+   "description": {
+    "en": "What an FIR is, how to register one, what to do if police refuse, and what happens next.",
+    "ur": "ایف آئی آر کیا ہے، کیسے درج کرائی جائے، پولیس انکار کرے تو کیا کریں، اور آگے کیا ہوتا ہے۔",
+    "sd": "ايف آءِ آر ڇا آهي، ڪيئن داخل ڪرائجي، پوليس انڪار ڪري ته ڇا ڪجي، ۽ اڳيان ڇا ٿئي ٿو."
+   },
+   "intro": {
+    "en": "An FIR (First Information Report) is the first written record of a crime made by the police. For a cognizable offence — a serious offence where police can act without a warrant — the police must record the information and start an investigation. The FIR is not proof of guilt: it is the starting point. After investigating, the police submit a report to the court (the challan) under Section 173 of the CrPC, and the court then decides whether to try the accused.",
+    "ur": "ایف آئی آر (فرسٹ انفارمیشن رپورٹ) جرم کا پہلا تحریری پولیس ریکارڈ ہے۔ قابلِ دست اندازیٔ پولیس جرم — ایسا سنگین جرم جس میں پولیس وارنٹ کے بغیر کارروائی کر سکتی ہے — میں پولیس کو اطلاع درج کر کے تفتیش شروع کرنا ہوتی ہے۔ ایف آئی آر جرم کا ثبوت نہیں: یہ نقطۂ آغاز ہے۔ تفتیش کے بعد پولیس ضابطۂ فوجداری کی دفعہ 173 کے تحت عدالت کو رپورٹ (چالان) پیش کرتی ہے اور پھر عدالت فیصلہ کرتی ہے کہ ملزم پر مقدمہ چلایا جائے یا نہیں۔",
+    "sd": "ايف آءِ آر (فرسٽ انفارميشن رپورٽ) ڏوهه جو پهريون لکت وارو پوليس رڪارڊ آهي. قابلِ دست اندازيءَ پوليس ڏوهه — اهڙو سنگين ڏوهه جنهن ۾ پوليس وارنٽ کانسواءِ ڪارروائي ڪري سگهي ٿي — ۾ پوليس کي اطلاع درج ڪري تفتيش شروع ڪرڻي پوي ٿي. ايف آءِ آر ڏوهه جو ثبوت ناهي: اها شروعاتي نقطو آهي. تفتيش کانپوءِ پوليس فوجداري ضابطي جي دفعي 173 تحت عدالت کي رپورٽ (چالان) پيش ڪري ٿي ۽ پوءِ عدالت فيصلو ڪري ٿي ته ملزم تي ڪيس هلايو وڃي يا نه."
+   },
+   "steps": [
+    {
+     "en": "Collect the basics: date, time, place, names, witnesses, and any photos, messages or medical reports.",
+     "ur": "بنیادی تفصیلات جمع کریں: تاریخ، وقت، جگہ، نام، گواہ، اور تصاویر، پیغامات یا طبی رپورٹس۔",
+     "sd": "بنيادي تفصيل گڏ ڪريو: تاريخ، وقت، جڳهه، نالا، شاهد، ۽ تصويرون، پيغام يا طبي رپورٽون."
+    },
+    {
+     "en": "Go to the police station and ask the officer to record your information; read it before you sign.",
+     "ur": "تھانے جا کر افسر سے اپنی اطلاع درج کرنے کو کہیں؛ دستخط سے پہلے اسے پڑھیں۔",
+     "sd": "ٿاڻي وڃي آفيسر کي پنهنجي اطلاع درج ڪرڻ لاءِ چئو؛ صحيح ڪرڻ کان اڳ ان کي پڙهو."
+    },
+    {
+     "en": "Ask for a copy of the FIR and note the FIR number and date.",
+     "ur": "ایف آئی آر کی نقل مانگیں اور ایف آئی آر نمبر اور تاریخ نوٹ کریں۔",
+     "sd": "ايف آءِ آر جي ڪاپي گهرو ۽ ايف آءِ آر نمبر ۽ تاريخ نوٽ ڪريو."
+    },
+    {
+     "en": "If refused, send a written complaint to the senior police officer and consider the Justice of the Peace (Section 22-A).",
+     "ur": "انکار کی صورت میں سینئر پولیس افسر کو تحریری شکایت بھیجیں اور جسٹس آف دی پیس (دفعہ 22-A) پر غور کریں۔",
+     "sd": "انڪار جي صورت ۾ سينيئر پوليس آفيسر کي لکت وارو شڪايت موڪليو ۽ جسٽس آف دي پيس (دفعو 22-A) تي غور ڪريو."
+    },
+    {
+     "en": "Cooperate with the investigation, keep evidence safe, and follow the case with a lawyer.",
+     "ur": "تفتیش میں تعاون کریں، شواہد محفوظ رکھیں اور وکیل کے ساتھ مقدمے کی پیروی کریں۔",
+     "sd": "تفتيش ۾ تعاون ڪريو، ثبوت محفوظ رکو ۽ وڪيل سان ڪيس جي پيروي ڪريو."
+    }
+   ],
+   "faqIds": [
+    "faq-fir-register",
+    "faq-fir-refused"
+   ],
+   "check": [
+    {
+     "q": {
+      "en": "What is a cognizable offence?",
+      "ur": "قابلِ دست اندازیٔ پولیس جرم کیا ہے؟",
+      "sd": "قابلِ دست اندازيءَ پوليس ڏوهه ڇا آهي؟"
+     },
+     "a": {
+      "en": "A serious offence where the police can arrest and investigate without a court's prior permission.",
+      "ur": "سنگین جرم جس میں پولیس عدالت کی پیشگی اجازت کے بغیر گرفتار اور تفتیش کر سکتی ہے۔",
+      "sd": "سنگين ڏوهه جنهن ۾ پوليس عدالت جي اڳواٽ اجازت کانسواءِ گرفتار ۽ تفتيش ڪري سگهي ٿي."
+     }
+    },
+    {
+     "q": {
+      "en": "Is an FIR proof that the accused is guilty?",
+      "ur": "کیا ایف آئی آر ملزم کے مجرم ہونے کا ثبوت ہے؟",
+      "sd": "ڇا ايف آءِ آر ملزم جي ڏوهي هئڻ جو ثبوت آهي؟"
+     },
+     "a": {
+      "en": "No. It only starts the investigation; guilt is decided by a court after trial.",
+      "ur": "نہیں۔ یہ صرف تفتیش شروع کرتی ہے؛ مجرم ہونے کا فیصلہ مقدمے کے بعد عدالت کرتی ہے۔",
+      "sd": "نه. هي رڳو تفتيش شروع ڪري ٿي؛ ڏوهي هئڻ جو فيصلو ٻڌڻيءَ کانپوءِ عدالت ڪري ٿي."
+     }
+    }
+   ],
+   "terms": [
+    "fir",
+    "cognizable-offence",
+    "witness"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "crpc-1898",
+     "sectionId": "crpc-154"
+    },
+    {
+     "lawId": "crpc-1898",
+     "sectionId": "crpc-22a"
+    },
+    {
+     "lawId": "crpc-1898",
+     "sectionId": "crpc-173"
+    },
+    {
+     "lawId": "police-order-2002"
+    }
+   ],
+   "keywords": [
+    "fir",
+    "police",
+    "complaint",
+    "cognizable",
+    "crime"
+   ],
+   "minutes": 6
+  },
+  {
+   "id": "arrest-and-remand",
+   "number": 4,
+   "phase": 2,
+   "category": "criminal",
+   "title": {
+    "en": "Arrest, custody and remand",
+    "ur": "گرفتاری، حراست اور ریمانڈ",
+    "sd": "گرفتاري، حراست ۽ ريمانڊ"
+   },
+   "description": {
+    "en": "Your rights at arrest, the 24-hour rule, remand and what family members can do.",
+    "ur": "گرفتاری پر آپ کے حقوق، 24 گھنٹے کا قاعدہ، ریمانڈ اور اہلِ خانہ کیا کر سکتے ہیں۔",
+    "sd": "گرفتاريءَ تي توهان جا حق، 24 ڪلاڪن جو قاعدو، ريمانڊ ۽ گهروارا ڇا ڪري سگهن ٿا."
+   },
+   "intro": {
+    "en": "An arrest takes away a person's liberty, so the Constitution surrounds it with safeguards. The person must be told why they are arrested, can contact and be defended by a lawyer, and must be taken before a magistrate within 24 hours (not counting the journey to court). A magistrate — not the police — decides whether further custody is needed. Torture to extract evidence is prohibited. Where someone is detained without lawful authority, a High Court can order their release through a habeas corpus petition.",
+    "ur": "گرفتاری انسان کی آزادی چھین لیتی ہے، اس لیے آئین نے اس کے گرد تحفظات رکھے ہیں۔ گرفتار شخص کو وجہ بتانا، وکیل سے رابطے اور دفاع کی اجازت دینا، اور 24 گھنٹے کے اندر (عدالت تک سفر کا وقت چھوڑ کر) مجسٹریٹ کے سامنے پیش کرنا لازم ہے۔ مزید حراست کی ضرورت کا فیصلہ پولیس نہیں بلکہ مجسٹریٹ کرتا ہے۔ شواہد حاصل کرنے کے لیے تشدد ممنوع ہے۔ جہاں کسی کو قانونی اختیار کے بغیر حراست میں رکھا جائے وہاں ہائی کورٹ حبسِ بے جا کی پٹیشن پر رہائی کا حکم دے سکتی ہے۔",
+    "sd": "گرفتاري ماڻهوءَ جي آزادي کسي وٺي ٿي، تنهن ڪري آئين ان جي چوڌاري تحفظ رکيا آهن. گرفتار ٿيل شخص کي سبب ٻڌائڻ، وڪيل سان رابطي ۽ دفاع جي اجازت ڏيڻ، ۽ 24 ڪلاڪن اندر (عدالت تائين سفر جو وقت ڇڏي) مئجسٽريٽ آڏو پيش ڪرڻ ضروري آهي. وڌيڪ حراست جي ضرورت جو فيصلو پوليس نه پر مئجسٽريٽ ڪري ٿو. ثبوت ڪڍڻ لاءِ تشدد منع آهي. جتي ڪنهن کي قانوني اختيار کانسواءِ حراست ۾ رکيو وڃي اتي هاءِ ڪورٽ هيبيس ڪارپس پٽيشن تي آزاديءَ جو حڪم ڏئي سگهي ٿي."
+   },
+   "steps": [
+    {
+     "en": "Stay calm, do not resist, and ask the reason for the arrest.",
+     "ur": "پرسکون رہیں، مزاحمت نہ کریں اور گرفتاری کی وجہ پوچھیں۔",
+     "sd": "ٿڌو رهو، مزاحمت نه ڪريو ۽ گرفتاريءَ جو سبب پڇو."
+    },
+    {
+     "en": "Ask to inform your family and to speak to a lawyer; note the officers' names and the time and place of arrest.",
+     "ur": "اہلِ خانہ کو اطلاع دینے اور وکیل سے بات کرنے کا کہیں؛ افسران کے نام، گرفتاری کا وقت اور جگہ نوٹ کریں۔",
+     "sd": "گهروارن کي اطلاع ڏيڻ ۽ وڪيل سان ڳالهائڻ لاءِ چئو؛ آفيسرن جا نالا، گرفتاريءَ جو وقت ۽ جڳهه نوٽ ڪريو."
+    },
+    {
+     "en": "Family members: if the person is not produced within 24 hours, tell a lawyer immediately — a habeas corpus petition may be filed in the High Court.",
+     "ur": "اہلِ خانہ: اگر شخص کو 24 گھنٹے میں پیش نہ کیا جائے تو فوراً وکیل کو بتائیں — ہائی کورٹ میں حبسِ بے جا کی پٹیشن دائر ہو سکتی ہے۔",
+     "sd": "گهروارا: جيڪڏهن شخص کي 24 ڪلاڪن ۾ پيش نه ڪيو وڃي ته فوري وڪيل کي ٻڌايو — هاءِ ڪورٽ ۾ هيبيس ڪارپس پٽيشن داخل ٿي سگهي ٿي."
+    },
+    {
+     "en": "At the magistrate's court, report any ill-treatment and ask for a medical examination if injured.",
+     "ur": "مجسٹریٹ کی عدالت میں کسی بھی بدسلوکی کی اطلاع دیں اور زخمی ہوں تو طبی معائنہ مانگیں۔",
+     "sd": "مئجسٽريٽ جي عدالت ۾ ڪنهن به بدسلوڪي جي اطلاع ڏيو ۽ زخمي هجو ته طبي معائنو گهرو."
+    },
+    {
+     "en": "Arrange a lawyer, or apply for legal aid, to handle remand and bail.",
+     "ur": "ریمانڈ اور ضمانت کے لیے وکیل کا انتظام کریں یا قانونی امداد کے لیے درخواست دیں۔",
+     "sd": "ريمانڊ ۽ ضمانت لاءِ وڪيل جو بندوبست ڪريو يا قانوني مدد لاءِ درخواست ڏيو."
+    }
+   ],
+   "faqIds": [
+    "faq-arrest-rights",
+    "faq-remand"
+   ],
+   "check": [
+    {
+     "q": {
+      "en": "Within how many hours must an arrested person be produced before a magistrate?",
+      "ur": "گرفتار شخص کو کتنے گھنٹوں میں مجسٹریٹ کے سامنے پیش کرنا ضروری ہے؟",
+      "sd": "گرفتار ٿيل شخص کي ڪيترن ڪلاڪن اندر مئجسٽريٽ آڏو پيش ڪرڻ ضروري آهي؟"
+     },
+     "a": {
+      "en": "Within 24 hours, excluding the time needed to travel to the nearest magistrate (Article 10; CrPC s.61).",
+      "ur": "24 گھنٹے کے اندر، قریبی مجسٹریٹ تک سفر کا وقت چھوڑ کر (آرٹیکل 10؛ دفعہ 61)۔",
+      "sd": "24 ڪلاڪن اندر، ويجهي مئجسٽريٽ تائين سفر جو وقت ڇڏي (آرٽيڪل 10؛ دفعو 61)."
+     }
+    },
+    {
+     "q": {
+      "en": "Who decides if more custody is needed after 24 hours?",
+      "ur": "24 گھنٹے کے بعد مزید حراست کی ضرورت کا فیصلہ کون کرتا ہے؟",
+      "sd": "24 ڪلاڪن کانپوءِ وڌيڪ حراست جي ضرورت جو فيصلو ڪير ڪري ٿو؟"
+     },
+     "a": {
+      "en": "A magistrate, not the police.",
+      "ur": "مجسٹریٹ، پولیس نہیں۔",
+      "sd": "مئجسٽريٽ، پوليس نه."
+     }
+    }
+   ],
+   "terms": [
+    "arrest",
+    "remand",
+    "habeas-corpus",
+    "cognizable-offence"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "constitution-1973",
+     "sectionId": "art-10"
+    },
+    {
+     "lawId": "constitution-1973",
+     "sectionId": "art-14"
+    },
+    {
+     "lawId": "constitution-1973",
+     "sectionId": "art-199"
+    },
+    {
+     "lawId": "crpc-1898",
+     "sectionId": "crpc-61"
+    },
+    {
+     "lawId": "crpc-1898",
+     "sectionId": "crpc-167"
+    }
+   ],
+   "keywords": [
+    "arrest",
+    "custody",
+    "remand",
+    "24 hours",
+    "police",
+    "torture",
+    "habeas corpus"
+   ],
+   "minutes": 6
+  },
+  {
+   "id": "bail-explained",
+   "number": 5,
+   "phase": 2,
+   "category": "criminal",
+   "title": {
+    "en": "Bail explained",
+    "ur": "ضمانت کی وضاحت",
+    "sd": "ضمانت جي وضاحت"
+   },
+   "description": {
+    "en": "Bailable vs non-bailable offences, pre-arrest bail, sureties and what happens after bail is granted.",
+    "ur": "قابلِ ضمانت اور ناقابلِ ضمانت جرائم، ضمانتِ قبل از گرفتاری، ضامن اور ضمانت ملنے کے بعد کیا ہوتا ہے۔",
+    "sd": "قابلِ ضمانت ۽ ناقابلِ ضمانت ڏوهه، گرفتاريءَ کان اڳ ضمانت، ضامن ۽ ضمانت ملڻ کانپوءِ ڇا ٿئي ٿو."
+   },
+   "intro": {
+    "en": "Bail balances two things: the presumption that an accused person is innocent until proven guilty, and the court's need to be sure the accused will return for trial. For a bailable offence the accused is entitled to bail. For a non-bailable offence there is no automatic right: the court examines whether there are reasonable grounds to believe the accused committed the offence, the risk of flight or interference with evidence, and special factors such as age, illness or gender. Bail can be cancelled if its conditions are broken.",
+    "ur": "ضمانت دو چیزوں میں توازن رکھتی ہے: جرم ثابت ہونے تک ملزم کو بے گناہ سمجھنے کا اصول، اور عدالت کی یہ ضرورت کہ ملزم مقدمے کے لیے واپس آئے گا۔ قابلِ ضمانت جرم میں ملزم ضمانت کا حق دار ہے۔ ناقابلِ ضمانت جرم میں خودکار حق نہیں: عدالت دیکھتی ہے کہ کیا یہ یقین کرنے کے معقول اسباب ہیں کہ ملزم نے جرم کیا، فرار یا شواہد میں مداخلت کا خطرہ کیا ہے، اور عمر، بیماری یا جنس جیسے خصوصی عوامل۔ شرائط توڑنے پر ضمانت منسوخ ہو سکتی ہے۔",
+    "sd": "ضمانت ٻن شين ۾ توازن رکي ٿي: ڏوهه ثابت ٿيڻ تائين ملزم کي بيگناهه سمجهڻ جو اصول، ۽ عدالت جي اها ضرورت ته ملزم ٻڌڻيءَ لاءِ موٽي ايندو. قابلِ ضمانت ڏوهه ۾ ملزم ضمانت جو حقدار آهي. ناقابلِ ضمانت ڏوهه ۾ خودڪار حق ناهي: عدالت ڏسي ٿي ته ڇا اهو يقين ڪرڻ جا معقول سبب آهن ته ملزم ڏوهه ڪيو، ڀڄڻ يا ثبوتن ۾ مداخلت جو خطرو ڇا آهي، ۽ عمر، بيماري يا جنس جهڙا خاص عنصر. شرط ڀڃڻ تي ضمانت منسوخ ٿي سگهي ٿي."
+   },
+   "steps": [
+    {
+     "en": "Find out the offence and whether it is bailable (the classification is in the CrPC schedule; ask your lawyer).",
+     "ur": "جرم اور اس کے قابلِ ضمانت ہونے کا پتہ کریں (درجہ بندی ضابطۂ فوجداری کے شیڈول میں ہے؛ اپنے وکیل سے پوچھیں)۔",
+     "sd": "ڏوهه ۽ ان جي قابلِ ضمانت هئڻ جو پتو لڳايو (درجه بندي فوجداري ضابطي جي شيڊول ۾ آهي؛ پنهنجي وڪيل کان پڇو)."
+    },
+    {
+     "en": "Your lawyer files a bail application in the correct court (magistrate, Sessions Court or High Court).",
+     "ur": "آپ کا وکیل درست عدالت (مجسٹریٹ، سیشن کورٹ یا ہائی کورٹ) میں ضمانت کی درخواست دائر کرتا ہے۔",
+     "sd": "توهان جو وڪيل صحيح عدالت (مئجسٽريٽ، سيشن ڪورٽ يا هاءِ ڪورٽ) ۾ ضمانت جي درخواست داخل ڪري ٿو."
+    },
+    {
+     "en": "If bail is granted, arrange sureties and the bail bond as the court directs.",
+     "ur": "ضمانت منظور ہو تو عدالت کی ہدایت کے مطابق ضامن اور مچلکے کا انتظام کریں۔",
+     "sd": "ضمانت منظور ٿئي ته عدالت جي هدايت مطابق ضامن ۽ مچلڪي جو بندوبست ڪريو."
+    },
+    {
+     "en": "Attend every hearing and follow all conditions; missing hearings can lead to cancellation.",
+     "ur": "ہر سماعت پر حاضر ہوں اور تمام شرائط پر عمل کریں؛ سماعت چھوڑنے سے ضمانت منسوخ ہو سکتی ہے۔",
+     "sd": "هر ٻڌڻي تي حاضر ٿيو ۽ سڀ شرط مڃو؛ ٻڌڻي ڇڏڻ سان ضمانت منسوخ ٿي سگهي ٿي."
+    }
+   ],
+   "faqIds": [
+    "faq-bail-what",
+    "faq-pre-arrest-bail"
+   ],
+   "check": [
+    {
+     "q": {
+      "en": "Is bail a right in a bailable offence?",
+      "ur": "کیا قابلِ ضمانت جرم میں ضمانت حق ہے؟",
+      "sd": "ڇا قابلِ ضمانت ڏوهه ۾ ضمانت حق آهي؟"
+     },
+     "a": {
+      "en": "Yes (CrPC s.496).",
+      "ur": "ہاں (دفعہ 496)۔",
+      "sd": "ها (دفعو 496)."
+     }
+    },
+    {
+     "q": {
+      "en": "What can lead to bail being cancelled?",
+      "ur": "ضمانت کب منسوخ ہو سکتی ہے؟",
+      "sd": "ضمانت ڪڏهن منسوخ ٿي سگهي ٿي؟"
+     },
+     "a": {
+      "en": "Breaking bail conditions, missing hearings, or interfering with witnesses or evidence.",
+      "ur": "ضمانت کی شرائط توڑنا، سماعت چھوڑنا، یا گواہوں یا شواہد میں مداخلت۔",
+      "sd": "ضمانت جا شرط ڀڃڻ، ٻڌڻي ڇڏڻ، يا شاهدن يا ثبوتن ۾ مداخلت."
+     }
+    }
+   ],
+   "terms": [
+    "bail",
+    "surety",
+    "remand",
+    "arrest"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "crpc-1898",
+     "sectionId": "crpc-496"
+    },
+    {
+     "lawId": "crpc-1898",
+     "sectionId": "crpc-497"
+    },
+    {
+     "lawId": "crpc-1898",
+     "sectionId": "crpc-498"
+    }
+   ],
+   "keywords": [
+    "bail",
+    "pre-arrest",
+    "surety",
+    "non-bailable",
+    "bailable"
+   ],
+   "minutes": 6
+  },
+  {
+   "id": "marriage-and-nikah",
+   "number": 6,
+   "phase": 3,
+   "category": "family",
+   "title": {
+    "en": "Marriage and nikah registration",
+    "ur": "نکاح اور اس کا اندراج",
+    "sd": "نڪاح ۽ ان جو اندراج"
+   },
+   "description": {
+    "en": "Why registering your nikah matters, how to read the nikahnama, and the age question.",
+    "ur": "نکاح کا اندراج کیوں اہم ہے، نکاح نامہ کیسے پڑھیں، اور عمر کا سوال۔",
+    "sd": "نڪاح جو اندراج ڇو اهم آهي، نڪاح نامو ڪيئن پڙهجي، ۽ عمر جو سوال."
+   },
+   "intro": {
+    "en": "A registered marriage is much easier to prove — which matters for dower, maintenance, inheritance, children's documents and travel. The nikahnama records the parties, witnesses, dower and any special conditions agreed by the couple. Because it is a legal document, each column should be read and filled in before signing. The minimum marriage age and some procedures differ between provinces.",
+    "ur": "رجسٹرڈ شادی ثابت کرنا بہت آسان ہوتا ہے — جو حق مہر، نان نفقہ، وراثت، بچوں کی دستاویزات اور سفر کے لیے اہم ہے۔ نکاح نامے میں فریقین، گواہ، حق مہر اور جوڑے کی طے کردہ خصوصی شرائط درج ہوتی ہیں۔ چونکہ یہ قانونی دستاویز ہے، دستخط سے پہلے ہر خانہ پڑھ کر پُر کرنا چاہیے۔ شادی کی کم از کم عمر اور بعض طریقۂ کار صوبوں میں مختلف ہیں۔",
+    "sd": "رجسٽرڊ شادي ثابت ڪرڻ تمام آسان آهي — جيڪو حق مهر، نان نفقي، وراثت، ٻارن جي دستاويزن ۽ سفر لاءِ اهم آهي. نڪاح نامي ۾ ڌريون، شاهد، حق مهر ۽ جوڙي جي مڃيل خاص شرطون درج ٿين ٿيون. ڇاڪاڻ ته هي قانوني دستاويز آهي، صحيح ڪرڻ کان اڳ هر خانو پڙهي ڀرڻ گهرجي. شاديءَ جي گهٽ ۾ گهٽ عمر ۽ ڪجهه طريقا صوبن ۾ مختلف آهن."
+   },
+   "steps": [
+    {
+     "en": "Check the minimum marriage age that applies in your province.",
+     "ur": "اپنے صوبے میں لاگو شادی کی کم از کم عمر معلوم کریں۔",
+     "sd": "پنهنجي صوبي ۾ لاڳو شاديءَ جي گهٽ ۾ گهٽ عمر معلوم ڪريو."
+    },
+    {
+     "en": "Agree openly on dower and any conditions before the nikah, and ensure they are written in the nikahnama.",
+     "ur": "نکاح سے پہلے حق مہر اور شرائط پر کھل کر اتفاق کریں اور انہیں نکاح نامے میں لکھوائیں۔",
+     "sd": "نڪاح کان اڳ حق مهر ۽ شرطن تي کليل اتفاق ڪريو ۽ انهن کي نڪاح نامي ۾ لکرايو."
+    },
+    {
+     "en": "Make sure the Nikah Registrar completes every column; do not sign blank or partly filled forms.",
+     "ur": "یقینی بنائیں کہ نکاح رجسٹرار ہر خانہ مکمل کرے؛ خالی یا ادھورے فارم پر دستخط نہ کریں۔",
+     "sd": "پڪ ڪريو ته نڪاح رجسٽرار هر خانو مڪمل ڪري؛ خالي يا اڌورن فارمن تي صحيح نه ڪريو."
+    },
+    {
+     "en": "Keep the original or certified copy safe and confirm the entry reached the Union Council.",
+     "ur": "اصل یا مصدقہ نقل محفوظ رکھیں اور تصدیق کریں کہ اندراج یونین کونسل تک پہنچا۔",
+     "sd": "اصل يا تصديق ٿيل ڪاپي محفوظ رکو ۽ تصديق ڪريو ته اندراج يونين ڪائونسل تائين پهتو."
+    }
+   ],
+   "faqIds": [
+    "faq-nikah-register",
+    "faq-marriage-age"
+   ],
+   "check": [
+    {
+     "q": {
+      "en": "Which section of the MFLO 1961 deals with registration of marriages?",
+      "ur": "عائلی قوانین آرڈیننس 1961 کی کون سی دفعہ نکاح کے اندراج سے متعلق ہے؟",
+      "sd": "عائلي قانون آرڊيننس 1961 جو ڪهڙو دفعو نڪاح جي اندراج بابت آهي؟"
+     },
+     "a": {
+      "en": "Section 5.",
+      "ur": "دفعہ 5۔",
+      "sd": "دفعو 5."
+     }
+    },
+    {
+     "q": {
+      "en": "Why should every column of the nikahnama be filled in?",
+      "ur": "نکاح نامے کا ہر خانہ پُر کرنا کیوں ضروری ہے؟",
+      "sd": "نڪاح نامي جو هر خانو ڀرڻ ڇو ضروري آهي؟"
+     },
+     "a": {
+      "en": "It is the main legal proof of the marriage, dower and agreed conditions.",
+      "ur": "یہ شادی، حق مہر اور طے شدہ شرائط کا بنیادی قانونی ثبوت ہے۔",
+      "sd": "هي شادي، حق مهر ۽ طئه ٿيل شرطن جو بنيادي قانوني ثبوت آهي."
+     }
+    }
+   ],
+   "terms": [
+    "nikah",
+    "dower",
+    "maintenance"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "mflo-1961",
+     "sectionId": "mflo-5"
+    },
+    {
+     "lawId": "mflo-1961",
+     "sectionId": "mflo-6"
+    },
+    {
+     "lawId": "sindh-child-marriage-2013"
+    },
+    {
+     "lawId": "dowry-bridal-gifts-1976"
+    }
+   ],
+   "keywords": [
+    "marriage",
+    "nikah",
+    "nikahnama",
+    "registration",
+    "dower",
+    "age"
+   ],
+   "minutes": 5
+  },
+  {
+   "id": "divorce-talaq-khula",
+   "number": 7,
+   "phase": 3,
+   "category": "family",
+   "title": {
+    "en": "Divorce, talaq and khula",
+    "ur": "طلاق، تنسیخ اور خلع",
+    "sd": "طلاق، تنسيخ ۽ خلع"
+   },
+   "description": {
+    "en": "The three main routes to end a marriage, and the role of the Union Council and the Family Court.",
+    "ur": "نکاح ختم کرنے کے تین بنیادی راستے، اور یونین کونسل اور فیملی کورٹ کا کردار۔",
+    "sd": "نڪاح ختم ڪرڻ جا ٽي بنيادي رستا، ۽ يونين ڪائونسل ۽ فئملي ڪورٽ جو ڪردار."
+   },
+   "intro": {
+    "en": "There are three main legal routes. (1) Talaq by the husband, which requires written notice to the Union Council Chairman under Section 7 of the MFLO and a waiting period. (2) Dissolution by a court decree on a ground listed in the Dissolution of Muslim Marriages Act, 1939. (3) Khula, where the wife asks the Family Court to dissolve the marriage. In every case the law expects an attempt at reconciliation first. Divorce raises related issues — dower, maintenance during the waiting period, and custody of children — so plan for them together.",
+    "ur": "تین بنیادی قانونی راستے ہیں۔ (1) شوہر کی طلاق، جس کے لیے عائلی قوانین آرڈیننس کی دفعہ 7 کے تحت یونین کونسل کے چیئرمین کو تحریری نوٹس اور انتظار کی مدت لازم ہے۔ (2) تنسیخِ نکاحِ مسلمانان ایکٹ 1939 میں درج بنیاد پر عدالتی ڈگری کے ذریعے تنسیخ۔ (3) خلع، جس میں بیوی فیملی کورٹ سے نکاح ختم کرنے کی درخواست کرتی ہے۔ ہر صورت میں قانون پہلے صلح کی کوشش چاہتا ہے۔ طلاق سے متعلقہ مسائل بھی جڑے ہوتے ہیں — حق مہر، عدت کے دوران نان نفقہ اور بچوں کی تحویل — اس لیے ان کی اکٹھی منصوبہ بندی کریں۔",
+    "sd": "ٽي بنيادي قانوني رستا آهن. (1) مڙس جي طلاق، جنهن لاءِ عائلي قانون آرڊيننس جي دفعي 7 تحت يونين ڪائونسل جي چيئرمين کي لکت وارو نوٽيس ۽ انتظار جي مدت لازمي آهي. (2) ڊزولوشن آف مسلم ميريجز ايڪٽ 1939 ۾ درج بنياد تي عدالتي ڊگري ذريعي تنسيخ. (3) خلع، جنهن ۾ زال فئملي ڪورٽ کان نڪاح ختم ڪرڻ جي درخواست ڪري ٿي. هر صورت ۾ قانون پهرين صلح جي ڪوشش چاهي ٿو. طلاق سان لاڳاپيل مسئلا به ڳنڍيل هوندا آهن — حق مهر، عدت دوران نان نفقو ۽ ٻارن جي سنڀال — تنهن ڪري انهن جي گڏيل منصوبه بندي ڪريو."
+   },
+   "steps": [
+    {
+     "en": "Decide which route applies and gather the nikahnama, CNICs and proof of any grounds (letters, messages, witnesses).",
+     "ur": "فیصلہ کریں کون سا راستہ لاگو ہے اور نکاح نامہ، شناختی کارڈ اور بنیادوں کے ثبوت (خطوط، پیغامات، گواہ) جمع کریں۔",
+     "sd": "فيصلو ڪريو ڪهڙو رستو لاڳو آهي ۽ نڪاح نامو، شناختي ڪارڊ ۽ بنيادن جا ثبوت (خط، پيغام، شاهد) گڏ ڪريو."
+    },
+    {
+     "en": "For talaq: give written notice to the Union Council Chairman and send a copy to the other spouse; keep proof.",
+     "ur": "طلاق کے لیے: یونین کونسل کے چیئرمین کو تحریری نوٹس دیں اور دوسرے فریق کو نقل بھیجیں؛ ثبوت رکھیں۔",
+     "sd": "طلاق لاءِ: يونين ڪائونسل جي چيئرمين کي لکت وارو نوٽيس ڏيو ۽ ٻئي ڌر کي ڪاپي موڪليو؛ ثبوت رکو."
+    },
+    {
+     "en": "For khula or dissolution: a lawyer files a suit in the Family Court where the wife resides.",
+     "ur": "خلع یا تنسیخ کے لیے: وکیل اس فیملی کورٹ میں دعویٰ دائر کرتا ہے جہاں بیوی رہتی ہے۔",
+     "sd": "خلع يا تنسيخ لاءِ: وڪيل ان فئملي ڪورٽ ۾ دعويٰ داخل ڪري ٿو جتي زال رهي ٿي."
+    },
+    {
+     "en": "Attend reconciliation proceedings in good faith and be ready to address dower, maintenance and custody.",
+     "ur": "نیک نیتی سے مصالحتی کارروائی میں شریک ہوں اور حق مہر، نان نفقہ اور تحویل پر بات کے لیے تیار رہیں۔",
+     "sd": "نيڪ نيتيءَ سان صلح واري ڪارروائي ۾ شريڪ ٿيو ۽ حق مهر، نان نفقي ۽ سنڀال تي ڳالهه لاءِ تيار رهو."
+    },
+    {
+     "en": "Keep certified copies of the notice, decree or Union Council certificate.",
+     "ur": "نوٹس، ڈگری یا یونین کونسل کے سرٹیفکیٹ کی مصدقہ نقول رکھیں۔",
+     "sd": "نوٽيس، ڊگري يا يونين ڪائونسل سرٽيفڪيٽ جون تصديق ٿيل ڪاپيون رکو."
+    }
+   ],
+   "faqIds": [
+    "faq-khula",
+    "faq-talaq-process"
+   ],
+   "check": [
+    {
+     "q": {
+      "en": "To whom must a husband give notice of talaq?",
+      "ur": "شوہر کو طلاق کا نوٹس کس کو دینا ہوتا ہے؟",
+      "sd": "مڙس کي طلاق جو نوٽيس ڪنهن کي ڏيڻو آهي؟"
+     },
+     "a": {
+      "en": "The Chairman of the Union Council, with a copy to the wife (MFLO s.7).",
+      "ur": "یونین کونسل کے چیئرمین کو، نقل بیوی کو (دفعہ 7)۔",
+      "sd": "يونين ڪائونسل جي چيئرمين کي، ڪاپي زال کي (دفعو 7)."
+     }
+    },
+    {
+     "q": {
+      "en": "Which court hears khula cases?",
+      "ur": "خلع کے مقدمات کون سی عدالت سنتی ہے؟",
+      "sd": "خلع جا ڪيس ڪهڙي عدالت ٻڌي ٿي؟"
+     },
+     "a": {
+      "en": "The Family Court.",
+      "ur": "فیملی کورٹ۔",
+      "sd": "فئملي ڪورٽ."
+     }
+    }
+   ],
+   "terms": [
+    "divorce",
+    "khula",
+    "dower",
+    "maintenance"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "mflo-1961",
+     "sectionId": "mflo-7"
+    },
+    {
+     "lawId": "dissolution-muslim-marriages-1939",
+     "sectionId": "dmma-2"
+    },
+    {
+     "lawId": "family-courts-act-1964",
+     "sectionId": "fca-10"
+    }
+   ],
+   "keywords": [
+    "divorce",
+    "talaq",
+    "khula",
+    "dissolution",
+    "family court",
+    "union council"
+   ],
+   "minutes": 7
+  },
+  {
+   "id": "maintenance-dower-custody",
+   "number": 8,
+   "phase": 3,
+   "category": "family",
+   "title": {
+    "en": "Maintenance, dower and custody",
+    "ur": "نان نفقہ، حق مہر اور تحویلِ اطفال",
+    "sd": "نان نفقو، حق مهر ۽ ٻارن جي سنڀال"
+   },
+   "description": {
+    "en": "Money and children issues in a family dispute: what you can claim and how courts decide.",
+    "ur": "خاندانی تنازع میں مالی اور بچوں کے مسائل: آپ کیا دعویٰ کر سکتے ہیں اور عدالتیں کیسے فیصلہ کرتی ہیں۔",
+    "sd": "خانداني تڪرار ۾ مالي ۽ ٻارن جا مسئلا: توهان ڇا دعويٰ ڪري سگهو ٿا ۽ عدالتون ڪيئن فيصلو ڪن ٿيون."
+   },
+   "intro": {
+    "en": "Family disputes usually involve three practical questions. Maintenance: a husband must maintain his wife, and parents must maintain their children; claims go to the Family Court. Dower: the amount recorded in the nikahnama is the wife's property and a debt on the husband. Custody: courts focus on the child's welfare, not on who “wins”. Family Courts handle all three and try to settle them by reconciliation first.",
+    "ur": "خاندانی تنازعات میں عموماً تین عملی سوالات ہوتے ہیں۔ نان نفقہ: شوہر پر بیوی اور والدین پر بچوں کا نان نفقہ لازم ہے؛ دعوے فیملی کورٹ میں جاتے ہیں۔ حق مہر: نکاح نامے میں درج رقم بیوی کی ملکیت اور شوہر پر قرض ہے۔ تحویل: عدالتیں بچے کی فلاح دیکھتی ہیں، یہ نہیں کہ کون “جیتا”۔ فیملی کورٹس تینوں معاملات دیکھتی اور پہلے مصالحت سے حل کی کوشش کرتی ہیں۔",
+    "sd": "خانداني تڪرارن ۾ عام طور ٽي عملي سوال هوندا آهن. نان نفقو: مڙس تي زال ۽ والدين تي ٻارن جو نان نفقو لازم آهي؛ دعوائون فئملي ڪورٽ ۾ وڃن ٿا. حق مهر: نڪاح نامي ۾ درج رقم زال جي ملڪيت ۽ مڙس تي قرض آهي. سنڀال: عدالتون ٻار جي ڀلائي ڏسن ٿيون، اهو نه ته ڪير “کٽيو”. فئملي ڪورٽون ٽنهي معاملن کي ڏسن ٿيون ۽ پهرين صلح سان حل جي ڪوشش ڪن ٿيون."
+   },
+   "steps": [
+    {
+     "en": "Collect the nikahnama, proof of income and expenses, children's birth certificates and school or medical records.",
+     "ur": "نکاح نامہ، آمدن اور اخراجات کا ثبوت، بچوں کے پیدائشی سرٹیفکیٹ اور اسکول یا طبی ریکارڈ جمع کریں۔",
+     "sd": "نڪاح نامو، آمدني ۽ خرچن جو ثبوت، ٻارن جا ڄم جا سرٽيفڪيٽ ۽ اسڪول يا طبي رڪارڊ گڏ ڪريو."
+    },
+    {
+     "en": "Try a written demand or a family settlement first; keep it civil and record any agreement.",
+     "ur": "پہلے تحریری مطالبہ یا خاندانی تصفیہ آزمائیں؛ شائستگی رکھیں اور کسی بھی معاہدے کو لکھ لیں۔",
+     "sd": "پهرين لکت وارو مطالبو يا خانداني سمجهوتو آزمايو؛ شائستگي رکو ۽ ڪنهن به معاهدي کي لکي ڇڏيو."
+    },
+    {
+     "en": "File the claim in the Family Court; ask for interim maintenance and an interim custody/visitation arrangement if needed.",
+     "ur": "فیملی کورٹ میں دعویٰ دائر کریں؛ ضرورت ہو تو عبوری نان نفقہ اور عبوری تحویل/ملاقات کا انتظام مانگیں۔",
+     "sd": "فئملي ڪورٽ ۾ دعويٰ داخل ڪريو؛ ضرورت هجي ته عبوري نان نفقو ۽ عبوري سنڀال/ملاقات جو بندوبست گهرو."
+    },
+    {
+     "en": "Put the child's interests first in everything you say and file; courts notice.",
+     "ur": "جو کچھ کہیں اور دائر کریں اس میں بچے کے مفاد کو اولیت دیں؛ عدالتیں اسے محسوس کرتی ہیں۔",
+     "sd": "جيڪو چئو ۽ داخل ڪريو ان ۾ ٻار جي مفاد کي اوليت ڏيو؛ عدالتون ان کي نوٽ ڪن ٿيون."
+    }
+   ],
+   "faqIds": [
+    "faq-maintenance-claim",
+    "faq-dower-unpaid",
+    "faq-custody-who"
+   ],
+   "check": [
+    {
+     "q": {
+      "en": "What is the main test courts apply to custody?",
+      "ur": "تحویل میں عدالتیں بنیادی کسوٹی کیا لگاتی ہیں؟",
+      "sd": "سنڀال ۾ عدالتون بنيادي ڪسوٽي ڪهڙي لڳائين ٿيون؟"
+     },
+     "a": {
+      "en": "The welfare of the child.",
+      "ur": "بچے کی فلاح۔",
+      "sd": "ٻار جي ڀلائي."
+     }
+    },
+    {
+     "q": {
+      "en": "Where is a claim for unpaid dower usually filed?",
+      "ur": "ادا نہ ہونے والے حق مہر کا دعویٰ عموماً کہاں دائر ہوتا ہے؟",
+      "sd": "ادا نه ٿيل حق مهر جو دعويٰ عام طور ڪٿي داخل ٿئي ٿو؟"
+     },
+     "a": {
+      "en": "In the Family Court.",
+      "ur": "فیملی کورٹ میں۔",
+      "sd": "فئملي ڪورٽ ۾."
+     }
+    }
+   ],
+   "terms": [
+    "maintenance",
+    "dower",
+    "custody",
+    "divorce"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "family-courts-act-1964",
+     "sectionId": "fca-5"
+    },
+    {
+     "lawId": "mflo-1961",
+     "sectionId": "mflo-9"
+    },
+    {
+     "lawId": "guardians-wards-1890",
+     "sectionId": "gwa-17"
+    },
+    {
+     "lawId": "guardians-wards-1890",
+     "sectionId": "gwa-25"
+    },
+    {
+     "lawId": "dowry-bridal-gifts-1976"
+    }
+   ],
+   "keywords": [
+    "maintenance",
+    "dower",
+    "custody",
+    "guardian",
+    "child",
+    "family court"
+   ],
+   "minutes": 7
+  },
+  {
+   "id": "inheritance-basics",
+   "number": 9,
+   "phase": 3,
+   "category": "family",
+   "title": {
+    "en": "Inheritance basics",
+    "ur": "وراثت کی بنیادی باتیں",
+    "sd": "وراثت جون بنيادي ڳالهيون"
+   },
+   "description": {
+    "en": "Who inherits, what documents are needed, and how disputes between heirs are resolved.",
+    "ur": "کون وارث ہوتا ہے، کون سے کاغذات درکار ہیں، اور وارثوں کے تنازعات کیسے حل ہوتے ہیں۔",
+    "sd": "ڪير وارث ٿئي ٿو، ڪهڙا ڪاغذ گهرجن ٿا، ۽ وارثن جا تڪرار ڪيئن حل ٿين ٿا."
+   },
+   "intro": {
+    "en": "Inheritance is governed by personal law. For Muslims, shares of the estate are fixed by Islamic law as applied in Pakistan, with Section 4 of the MFLO protecting the children of a predeceased son or daughter. For non-Muslims, the Succession Act, 1925 and community personal law apply. A person can generally leave only a limited part of their estate by will to non-heirs under Muslim law. Because shares depend on exactly which relatives survive, get a lawyer to calculate them.",
+    "ur": "وراثت شخصی قانون کے تابع ہے۔ مسلمانوں کے لیے ترکے کے حصے پاکستان میں لاگو اسلامی قانون سے طے ہوتے ہیں، اور عائلی قوانین آرڈیننس کی دفعہ 4 پہلے فوت ہو جانے والے بیٹے یا بیٹی کی اولاد کو تحفظ دیتی ہے۔ غیر مسلموں پر سکسیشن ایکٹ 1925 اور برادری کا شخصی قانون لاگو ہوتا ہے۔ مسلم قانون کے تحت عموماً کوئی شخص وصیت کے ذریعے غیر وارثوں کو ترکے کا محدود حصہ ہی دے سکتا ہے۔ چونکہ حصے اس پر منحصر ہیں کہ کون سے رشتہ دار زندہ ہیں، وکیل سے حساب کروائیں۔",
+    "sd": "وراثت ذاتي قانون هيٺ آهي. مسلمانن لاءِ ورثي جا حصا پاڪستان ۾ لاڳو اسلامي قانون سان طئه ٿين ٿا، ۽ عائلي قانون آرڊيننس جو دفعو 4 اڳي گذري ويل پٽ يا ڌيءَ جي اولاد کي تحفظ ڏئي ٿو. غير مسلمن تي سڪسيشن ايڪٽ 1925 ۽ برادريءَ جو ذاتي قانون لاڳو ٿئي ٿو. مسلم قانون تحت عام طور ڪو شخص وصيت ذريعي غير وارثن کي ورثي جو محدود حصو ئي ڏئي سگهي ٿو. ڇاڪاڻ ته حصا ان تي منحصر آهن ته ڪهڙا مٽ مائٽ جيئرا آهن، وڪيل کان حساب ڪرايو."
+   },
+   "steps": [
+    {
+     "en": "Obtain the death certificate and identify all legal heirs.",
+     "ur": "موت کا سرٹیفکیٹ حاصل کریں اور تمام قانونی وارث متعین کریں۔",
+     "sd": "موت جو سرٽيفڪيٽ حاصل ڪريو ۽ سڀ قانوني وارث طئه ڪريو."
+    },
+    {
+     "en": "Collect property documents: title, registry, revenue record, bank accounts.",
+     "ur": "جائیداد کے کاغذات جمع کریں: ملکیت، رجسٹری، مالیہ ریکارڈ، بینک اکاؤنٹس۔",
+     "sd": "ملڪيت جا ڪاغذ گڏ ڪريو: مالڪي، رجسٽري، مالياتي رڪارڊ، بئنڪ اڪائونٽ."
+    },
+    {
+     "en": "Apply for the relevant legal-heirs or succession certificate and an inheritance mutation in the revenue record.",
+     "ur": "متعلقہ ورثا یا سکسیشن سرٹیفکیٹ اور مالیہ ریکارڈ میں وراثتی انتقال کے لیے درخواست دیں۔",
+     "sd": "لاڳاپيل وارثن يا سڪسيشن سرٽيفڪيٽ ۽ مالياتي رڪارڊ ۾ وراثتي انتقال لاءِ درخواست ڏيو."
+    },
+    {
+     "en": "If heirs disagree, try family mediation; otherwise a lawyer can file a civil suit for declaration and partition.",
+     "ur": "وارثوں میں اختلاف ہو تو خاندانی ثالثی آزمائیں؛ ورنہ وکیل اعلان اور تقسیم کا دیوانی دعویٰ دائر کر سکتا ہے۔",
+     "sd": "وارثن ۾ اختلاف هجي ته خانداني ثالثي آزمايو؛ نه ته وڪيل اعلان ۽ ورڇ جو ديواني دعويٰ داخل ڪري سگهي ٿو."
+    }
+   ],
+   "faqIds": [
+    "faq-inheritance-docs",
+    "faq-grandchildren"
+   ],
+   "check": [
+    {
+     "q": {
+      "en": "Which law gives protection to the children of a son or daughter who died before the grandparent?",
+      "ur": "کون سا قانون دادا/نانا سے پہلے فوت ہونے والے بیٹے یا بیٹی کی اولاد کو تحفظ دیتا ہے؟",
+      "sd": "ڪهڙو قانون ڏاڏي/ناني کان اڳ گذاري ويل پٽ يا ڌيءَ جي اولاد کي تحفظ ڏئي ٿو؟"
+     },
+     "a": {
+      "en": "Section 4 of the Muslim Family Laws Ordinance, 1961 (for Muslims).",
+      "ur": "عائلی قوانین آرڈیننس 1961 کی دفعہ 4 (مسلمانوں کے لیے)۔",
+      "sd": "عائلي قانون آرڊيننس 1961 جو دفعو 4 (مسلمانن لاءِ)."
+     }
+    }
+   ],
+   "terms": [
+    "inheritance",
+    "dower"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "mflo-1961",
+     "sectionId": "mflo-4"
+    },
+    {
+     "lawId": "succession-act-1925"
+    },
+    {
+     "lawId": "cpc-1908",
+     "sectionId": "cpc-9"
+    }
+   ],
+   "keywords": [
+    "inheritance",
+    "heirs",
+    "succession",
+    "mutation",
+    "partition",
+    "will"
+   ],
+   "minutes": 6
+  },
+  {
+   "id": "civil-disputes-money-contracts",
+   "number": 10,
+   "phase": 3,
+   "category": "civil",
+   "title": {
+    "en": "Civil disputes: money, contracts and injunctions",
+    "ur": "دیوانی تنازعات: رقم، معاہدے اور حکمِ امتناعی",
+    "sd": "ديواني تڪرار: رقم، معاهدا ۽ حڪمِ امتناعي"
+   },
+   "description": {
+    "en": "How to recover money, enforce or challenge a contract, and stop someone from acting while a case is pending.",
+    "ur": "رقم کیسے وصول کریں، معاہدہ کیسے نافذ یا چیلنج کریں، اور مقدمے کے دوران کسی کو کارروائی سے کیسے روکیں۔",
+    "sd": "رقم ڪيئن وصول ڪجي، معاهدو ڪيئن لاڳو يا چئلينج ڪجي، ۽ ڪيس هلندي ڪنهن کي ڪارروائيءَ کان ڪيئن روڪجي."
+   },
+   "intro": {
+    "en": "Civil law deals with private disputes over money, property and agreements. A contract is a legally enforceable agreement (Contract Act, 1872); if it is broken, the innocent party can claim compensation, and in some cases ask the court to order the contract to be performed. While a suit is pending, a court can issue a temporary injunction to preserve the status quo (CPC Order XXXIX). Every claim must be brought within the time allowed by the Limitation Act, 1908, so do not delay.",
+    "ur": "دیوانی قانون رقم، جائیداد اور معاہدوں پر نجی تنازعات سے متعلق ہے۔ معاہدہ قانوناً قابلِ نفاذ سمجھوتا ہے (کنٹریکٹ ایکٹ 1872)؛ ٹوٹنے پر بے قصور فریق ہرجانہ مانگ سکتا ہے اور بعض صورتوں میں عدالت سے معاہدہ پورا کرانے کا حکم۔ دعویٰ زیرِ سماعت ہونے کے دوران عدالت موجودہ صورتِ حال برقرار رکھنے کے لیے عارضی حکمِ امتناعی جاری کر سکتی ہے (ضابطۂ دیوانی آرڈر XXXIX)۔ ہر دعویٰ لمیٹیشن ایکٹ 1908 کی مقررہ مدت میں دائر ہونا ضروری ہے، اس لیے تاخیر نہ کریں۔",
+    "sd": "ديواني قانون رقم، ملڪيت ۽ معاهدن تي نجي تڪرارن بابت آهي. معاهدو قانوناً لاڳو ٿيڻ جوڳو سمجهوتو آهي (ڪانٽريڪٽ ايڪٽ 1872)؛ ڀڄڻ تي بيگناهه ڌر معاوضو گهري سگهي ٿي ۽ ڪجهه صورتن ۾ عدالت کان معاهدو پورو ڪرائڻ جو حڪم. دعويٰ هلندي عدالت موجوده صورتحال قائم رکڻ لاءِ عارضي حڪمِ امتناعي جاري ڪري سگهي ٿي (ديواني ضابطو آرڊر XXXIX). هر دعويٰ لميٽيشن ايڪٽ 1908 جي مقرر مدت اندر داخل ٿيڻ ضروري آهي، تنهن ڪري دير نه ڪريو."
+   },
+   "steps": [
+    {
+     "en": "Gather the contract, receipts, messages, cheques and any proof of payment or delivery.",
+     "ur": "معاہدہ، رسیدیں، پیغامات، چیک اور ادائیگی یا ترسیل کا ثبوت جمع کریں۔",
+     "sd": "معاهدو، رسيدون، پيغام، چيڪ ۽ ادائيگي يا پهچائڻ جو ثبوت گڏ ڪريو."
+    },
+    {
+     "en": "Send a clear written demand or legal notice with a reasonable deadline.",
+     "ur": "واضح تحریری مطالبہ یا قانونی نوٹس معقول مدت کے ساتھ بھیجیں۔",
+     "sd": "واضح لکت وارو مطالبو يا قانوني نوٽيس معقول مدت سان موڪليو."
+    },
+    {
+     "en": "Check the limitation period and the correct court (value and location of the dispute).",
+     "ur": "لمیٹیشن کی مدت اور درست عدالت (تنازع کی مالیت اور مقام) دیکھیں۔",
+     "sd": "لميٽيشن جي مدت ۽ صحيح عدالت (تڪرار جي قيمت ۽ جڳهه) ڏسو."
+    },
+    {
+     "en": "File the suit (or a summary suit if you hold a cheque or similar instrument); apply for an injunction if you must stop an act urgently.",
+     "ur": "دعویٰ دائر کریں (یا چیک جیسی دستاویز ہو تو سمری سوٹ)؛ فوری طور پر کسی عمل کو روکنا ہو تو حکمِ امتناعی کی درخواست دیں۔",
+     "sd": "دعويٰ داخل ڪريو (يا چيڪ جهڙو دستاويز هجي ته سمري سوٽ)؛ فوري ڪنهن عمل کي روڪڻو هجي ته حڪمِ امتناعي جي درخواست ڏيو."
+    },
+    {
+     "en": "After a decree, apply for execution to recover the amount or enforce the order.",
+     "ur": "ڈگری کے بعد رقم کی وصولی یا حکم کے نفاذ کے لیے عمل درآمد کی درخواست دیں۔",
+     "sd": "ڊگريءَ کانپوءِ رقم جي وصوليءَ يا حڪم جي لاڳو ڪرڻ لاءِ عمل درآمد جي درخواست ڏيو."
+    }
+   ],
+   "faqIds": [
+    "faq-legal-notice",
+    "faq-bounced-cheque"
+   ],
+   "check": [
+    {
+     "q": {
+      "en": "Which law sets time limits for filing suits?",
+      "ur": "دعوے دائر کرنے کی مدتیں کون سا قانون طے کرتا ہے؟",
+      "sd": "دعويٰ داخل ڪرڻ جون مدتون ڪهڙو قانون مقرر ڪري ٿو؟"
+     },
+     "a": {
+      "en": "The Limitation Act, 1908.",
+      "ur": "لمیٹیشن ایکٹ 1908۔",
+      "sd": "لميٽيشن ايڪٽ 1908."
+     }
+    },
+    {
+     "q": {
+      "en": "What is a temporary injunction?",
+      "ur": "عارضی حکمِ امتناعی کیا ہے؟",
+      "sd": "عارضي حڪمِ امتناعي ڇا آهي؟"
+     },
+     "a": {
+      "en": "A court order to do or not do something while the main case is pending (CPC Order XXXIX).",
+      "ur": "مقدمہ زیرِ سماعت ہونے کے دوران کوئی کام کرنے یا نہ کرنے کا عدالتی حکم (آرڈر XXXIX)۔",
+      "sd": "ڪيس هلندي ڪو ڪم ڪرڻ يا نه ڪرڻ جو عدالتي حڪم (آرڊر XXXIX)."
+     }
+    }
+   ],
+   "terms": [
+    "injunction",
+    "contract",
+    "summons",
+    "jurisdiction",
+    "plaintiff"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "cpc-1908",
+     "sectionId": "cpc-9"
+    },
+    {
+     "lawId": "cpc-1908",
+     "sectionId": "cpc-o37"
+    },
+    {
+     "lawId": "cpc-1908",
+     "sectionId": "cpc-o39"
+    },
+    {
+     "lawId": "contract-act-1872",
+     "sectionId": "ca-10"
+    },
+    {
+     "lawId": "contract-act-1872",
+     "sectionId": "ca-73"
+    },
+    {
+     "lawId": "specific-relief-act-1877",
+     "sectionId": "sra-54"
+    },
+    {
+     "lawId": "limitation-act-1908"
+    }
+   ],
+   "keywords": [
+    "civil",
+    "money recovery",
+    "contract",
+    "injunction",
+    "cheque",
+    "suit",
+    "limitation"
+   ],
+   "minutes": 8
+  },
+  {
+   "id": "renting-tenant-landlord",
+   "number": 11,
+   "phase": 4,
+   "category": "property",
+   "title": {
+    "en": "Renting: tenant and landlord",
+    "ur": "کرایہ داری: کرایہ دار اور مالک مکان",
+    "sd": "ڪرائي داري: ڪرائيدار ۽ مالڪ مڪان"
+   },
+   "description": {
+    "en": "Agreements, rent, deposits, eviction and where tenancy disputes are decided — by province.",
+    "ur": "معاہدے، کرایہ، ایڈوانس، بے دخلی اور کرایہ داری کے تنازعات کہاں طے ہوتے ہیں — صوبہ وار۔",
+    "sd": "معاهدا، ڪرايو، ايڊوانس، بي دخلي ۽ ڪرائي داريءَ جا تڪرار ڪٿي طئه ٿين ٿا — صوبي مطابق."
+   },
+   "intro": {
+    "en": "Tenancy is mainly governed by provincial law: the Sindh Rented Premises Ordinance, 1979, the Punjab Rented Premises Act, 2009, the Islamabad Rent Restriction Ordinance, 2001, and equivalent laws elsewhere. They usually provide for a Rent Controller or Rent Tribunal, set out grounds for eviction, and protect tenants from arbitrary removal. The general rules on leases are in the Transfer of Property Act, 1882. Choose your province on this site to see the right law first.",
+    "ur": "کرایہ داری بنیادی طور پر صوبائی قانون سے منضبط ہے: سندھ رینٹڈ پریمائسز آرڈیننس 1979، پنجاب رینٹڈ پریمائسز ایکٹ 2009، اسلام آباد رینٹ ریسٹرکشن آرڈیننس 2001، اور دیگر جگہوں پر مساوی قوانین۔ ان میں عموماً رینٹ کنٹرولر یا رینٹ ٹربیونل ہوتا ہے، بے دخلی کی بنیادیں طے ہوتی ہیں اور کرایہ داروں کو من مانی بے دخلی سے تحفظ ملتا ہے۔ پٹوں کے عمومی قواعد ٹرانسفر آف پراپرٹی ایکٹ 1882 میں ہیں۔ درست قانون پہلے دیکھنے کے لیے اس سائٹ پر اپنا صوبہ منتخب کریں۔",
+    "sd": "ڪرائي داري بنيادي طور صوبائي قانون هيٺ آهي: سنڌ رينٽڊ پريمسز آرڊيننس 1979، پنجاب رينٽڊ پريمسز ايڪٽ 2009، اسلام آباد رينٽ ريسٽرڪشن آرڊيننس 2001، ۽ ٻين هنڌن تي ساڳيا قانون. انهن ۾ عام طور رينٽ ڪنٽرولر يا رينٽ ٽربيونل هوندو آهي، بي دخليءَ جا بنياد مقرر هوندا آهن ۽ ڪرائيدارن کي خود مختيار بي دخليءَ کان تحفظ ملي ٿو. ليزن جا عام قاعدا ٽرانسفر آف پراپرٽي ايڪٽ 1882 ۾ آهن. صحيح قانون پهرين ڏسڻ لاءِ هن سائيٽ تي پنهنجو صوبو چونڊيو."
+   },
+   "steps": [
+    {
+     "en": "Sign a written agreement stating rent, advance, duration, repairs and notice; have it registered where required.",
+     "ur": "کرایہ، ایڈوانس، مدت، مرمت اور نوٹس کے ساتھ تحریری معاہدہ کریں؛ جہاں لازم ہو رجسٹر کرائیں۔",
+     "sd": "ڪرايو، ايڊوانس، مدت، مرمت ۽ نوٽيس سان لکت وارو معاهدو ڪريو؛ جتي لازمي هجي رجسٽر ڪرايو."
+    },
+    {
+     "en": "Pay rent through a traceable method and keep receipts.",
+     "ur": "کرایہ قابلِ سراغ طریقے سے ادا کریں اور رسیدیں رکھیں۔",
+     "sd": "ڪرايو ڳولي سگهجڻ وارين طريقي سان ادا ڪريو ۽ رسيدون رکو."
+    },
+    {
+     "en": "If the landlord refuses to accept rent, ask a lawyer about depositing it with the Rent Controller where your province allows.",
+     "ur": "اگر مالک مکان کرایہ لینے سے انکار کرے تو وکیل سے پوچھیں کہ آپ کے صوبے میں رینٹ کنٹرولر کے پاس جمع کرایا جا سکتا ہے یا نہیں۔",
+     "sd": "جيڪڏهن مالڪ مڪان ڪرايو وٺڻ کان انڪار ڪري ته وڪيل کان پڇو ته توهان جي صوبي ۾ رينٽ ڪنٽرولر وٽ جمع ڪرائي سگهجي ٿو يا نه."
+    },
+    {
+     "en": "Landlords seeking eviction must apply to the Rent Controller or Tribunal on a lawful ground and follow the procedure.",
+     "ur": "بے دخلی چاہنے والے مالکان کو قانونی بنیاد پر رینٹ کنٹرولر یا ٹربیونل میں درخواست دینا اور طریقۂ کار پر عمل کرنا ہوتا ہے۔",
+     "sd": "بي دخلي چاهيندڙ مالڪن کي قانوني بنياد تي رينٽ ڪنٽرولر يا ٽربيونل ۾ درخواست ڏيڻي ۽ طريقي تي عمل ڪرڻو آهي."
+    },
+    {
+     "en": "Keep records of notices, receipts and condition photographs at move-in and move-out.",
+     "ur": "نوٹسز، رسیدیں اور داخلے و روانگی کے وقت حالت کی تصاویر کا ریکارڈ رکھیں۔",
+     "sd": "نوٽيس، رسيدن ۽ داخلا ۽ روانگيءَ وقت حالت جي تصويرن جو رڪارڊ رکو."
+    }
+   ],
+   "faqIds": [
+    "faq-eviction",
+    "faq-rent-agreement"
+   ],
+   "check": [
+    {
+     "q": {
+      "en": "Which Act contains the general rules on leases?",
+      "ur": "پٹوں کے عمومی قواعد کس ایکٹ میں ہیں؟",
+      "sd": "ليزن جا عام قاعدا ڪهڙي ايڪٽ ۾ آهن؟"
+     },
+     "a": {
+      "en": "The Transfer of Property Act, 1882 (Sections 105 and 107).",
+      "ur": "ٹرانسفر آف پراپرٹی ایکٹ 1882 (دفعہ 105 اور 107)۔",
+      "sd": "ٽرانسفر آف پراپرٽي ايڪٽ 1882 (دفعا 105 ۽ 107)."
+     }
+    },
+    {
+     "q": {
+      "en": "Who decides eviction applications?",
+      "ur": "بے دخلی کی درخواستوں کا فیصلہ کون کرتا ہے؟",
+      "sd": "بي دخليءَ جي درخواستن جو فيصلو ڪير ڪري ٿو؟"
+     },
+     "a": {
+      "en": "Generally a Rent Controller or Rent Tribunal under the provincial law.",
+      "ur": "عموماً صوبائی قانون کے تحت رینٹ کنٹرولر یا رینٹ ٹربیونل۔",
+      "sd": "عام طور صوبائي قانون تحت رينٽ ڪنٽرولر يا رينٽ ٽربيونل."
+     }
+    }
+   ],
+   "terms": [
+    "tenant"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "sindh-rented-premises-1979"
+    },
+    {
+     "lawId": "punjab-rented-premises-2009"
+    },
+    {
+     "lawId": "ict-rent-restriction-2001"
+    },
+    {
+     "lawId": "tpa-1882",
+     "sectionId": "tpa-105"
+    },
+    {
+     "lawId": "tpa-1882",
+     "sectionId": "tpa-107"
+    }
+   ],
+   "keywords": [
+    "rent",
+    "tenant",
+    "landlord",
+    "eviction",
+    "tenancy",
+    "lease",
+    "agreement"
+   ],
+   "minutes": 6
+  },
+  {
+   "id": "buying-property-registration",
+   "number": 12,
+   "phase": 4,
+   "category": "property",
+   "title": {
+    "en": "Buying property and registration",
+    "ur": "جائیداد کی خرید اور رجسٹریشن",
+    "sd": "ملڪيت جي خريد ۽ رجسٽريشن"
+   },
+   "description": {
+    "en": "Due diligence, the registered sale deed and why mutation matters.",
+    "ur": "جانچ پڑتال، رجسٹرڈ بیع نامہ اور انتقال کیوں اہم ہے۔",
+    "sd": "جاچ پڙتال، رجسٽرڊ وڪرو نامو ۽ انتقال ڇو اهم آهي."
+   },
+   "intro": {
+    "en": "A sale transfers ownership for a price (Transfer of Property Act, Section 54). For property above a stated value, the transfer must be by a registered instrument, and the Registration Act, 1908 lists documents that must be registered (Section 17). Registration and the later mutation in the revenue or municipal record are what protect your title against later claims. Most property disputes — double sales, forged documents, unpaid instalments — can be avoided by checking before paying.",
+    "ur": "فروخت قیمت کے عوض ملکیت منتقل کرتی ہے (ٹرانسفر آف پراپرٹی ایکٹ، دفعہ 54)۔ مقررہ مالیت سے زیادہ جائیداد کی منتقلی رجسٹرڈ دستاویز سے ہونی چاہیے اور رجسٹریشن ایکٹ 1908 ان دستاویزات کی فہرست دیتا ہے جن کی رجسٹریشن لازم ہے (دفعہ 17)۔ رجسٹریشن اور بعد میں مالیہ یا بلدیاتی ریکارڈ میں انتقال ہی آپ کے حق کو بعد کے دعووں سے بچاتے ہیں۔ دوہری فروخت، جعلی دستاویزات، غیر ادا شدہ اقساط جیسے اکثر جائیداد تنازعات ادائیگی سے پہلے جانچ سے ٹل سکتے ہیں۔",
+    "sd": "وڪرو قيمت جي عوض مالڪي منتقل ڪري ٿو (ٽرانسفر آف پراپرٽي ايڪٽ، دفعو 54). مقرر قيمت کان مٿي ملڪيت جي منتقلي رجسٽرڊ دستاويز سان ٿيڻ گهرجي ۽ رجسٽريشن ايڪٽ 1908 انهن دستاويزن جي لسٽ ڏئي ٿو جن جي رجسٽريشن لازمي آهي (دفعو 17). رجسٽريشن ۽ پوءِ مالياتي يا ميونسپل رڪارڊ ۾ انتقال ئي توهان جي حق کي پوءِ جي دعوائن کان بچائين ٿا. ٻٽو وڪرو، جعلي دستاويز، ادا نه ٿيل قسط جهڙا گهڻا ملڪيت جا تڪرار ادائيگي کان اڳ جاچ سان ٽري سگهن ٿا."
+   },
+   "steps": [
+    {
+     "en": "Obtain certified copies of the title and revenue/registry record and verify them at the official office.",
+     "ur": "ملکیت اور مالیہ/رجسٹری ریکارڈ کی مصدقہ نقول لیں اور سرکاری دفتر میں ان کی تصدیق کریں۔",
+     "sd": "مالڪي ۽ مالياتي/رجسٽري رڪارڊ جون تصديق ٿيل ڪاپيون وٺو ۽ سرڪاري آفيس ۾ انهن جي تصديق ڪريو."
+    },
+    {
+     "en": "Search for mortgages, litigation, unpaid taxes and utility dues.",
+     "ur": "رہن، مقدمات، غیر ادا شدہ ٹیکس اور یوٹیلٹی بقایا جات کی تلاش کریں۔",
+     "sd": "رهن، ڪيس، ادا نه ٿيل ٽيڪس ۽ يوٽيلٽي بقايا جي ڳولا ڪريو."
+    },
+    {
+     "en": "Sign a written agreement to sell with clear payment schedule; pay by bank instruments only.",
+     "ur": "ادائیگی کے واضح شیڈول کے ساتھ تحریری بیع کا معاہدہ کریں؛ صرف بینک ذرائع سے ادائیگی کریں۔",
+     "sd": "ادائيگيءَ جي واضح شيڊول سان لکت وارو وڪري جو معاهدو ڪريو؛ رڳو بئنڪ ذريعن سان ادائيگي ڪريو."
+    },
+    {
+     "en": "Execute and register the sale deed before the Sub-Registrar and pay applicable duties.",
+     "ur": "سب رجسٹرار کے سامنے بیع نامہ تحریر اور رجسٹر کرائیں اور لاگو محصولات ادا کریں۔",
+     "sd": "سب رجسٽرار آڏو وڪرو نامو لکو ۽ رجسٽر ڪرايو ۽ لاڳو محصول ادا ڪريو."
+    },
+    {
+     "en": "Apply for mutation in the record and take possession; keep all documents safe.",
+     "ur": "ریکارڈ میں انتقال کی درخواست دیں اور قبضہ لیں؛ تمام کاغذات محفوظ رکھیں۔",
+     "sd": "رڪارڊ ۾ انتقال جي درخواست ڏيو ۽ قبضو وٺو؛ سڀ ڪاغذ محفوظ رکو."
+    }
+   ],
+   "faqIds": [
+    "faq-buy-property-checks"
+   ],
+   "check": [
+    {
+     "q": {
+      "en": "Which section of the Registration Act lists documents that must be registered?",
+      "ur": "رجسٹریشن ایکٹ کی کون سی دفعہ لازمی رجسٹریشن والی دستاویزات کی فہرست دیتی ہے؟",
+      "sd": "رجسٽريشن ايڪٽ جو ڪهڙو دفعو لازمي رجسٽريشن وارن دستاويزن جي لسٽ ڏئي ٿو؟"
+     },
+     "a": {
+      "en": "Section 17.",
+      "ur": "دفعہ 17۔",
+      "sd": "دفعو 17."
+     }
+    },
+    {
+     "q": {
+      "en": "Why is mutation important after registration?",
+      "ur": "رجسٹریشن کے بعد انتقال کیوں اہم ہے؟",
+      "sd": "رجسٽريشن کانپوءِ انتقال ڇو اهم آهي؟"
+     },
+     "a": {
+      "en": "It updates the official record so that your name appears as owner.",
+      "ur": "یہ سرکاری ریکارڈ اپڈیٹ کرتا ہے تاکہ آپ کا نام مالک کے طور پر آئے۔",
+      "sd": "هي سرڪاري رڪارڊ اپڊيٽ ڪري ٿو ته توهان جو نالو مالڪ طور اچي."
+     }
+    }
+   ],
+   "terms": [
+    "contract",
+    "inheritance"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "tpa-1882",
+     "sectionId": "tpa-54"
+    },
+    {
+     "lawId": "registration-act-1908",
+     "sectionId": "ra-17"
+    },
+    {
+     "lawId": "specific-relief-act-1877",
+     "sectionId": "sra-42"
+    }
+   ],
+   "keywords": [
+    "property",
+    "sale deed",
+    "registry",
+    "mutation",
+    "title",
+    "stamp duty"
+   ],
+   "minutes": 6
+  },
+  {
+   "id": "work-and-wages",
+   "number": 13,
+   "phase": 4,
+   "category": "labour",
+   "title": {
+    "en": "Work, wages and termination",
+    "ur": "ملازمت، اجرت اور برطرفی",
+    "sd": "نوڪري، اجرت ۽ برطرفي"
+   },
+   "description": {
+    "en": "Appointment letters, timely wages, deductions, termination and where to complain.",
+    "ur": "تقرری نامے، بروقت اجرت، کٹوتیاں، برطرفی اور شکایت کہاں کریں۔",
+    "sd": "تقرري نامون، وقت تي اجرت، ڪٽوتيون، برطرفي ۽ شڪايت ڪٿي ڪجي."
+   },
+   "intro": {
+    "en": "Employment rights come from several laws: federal and provincial wages laws, standing orders on terms of employment, industrial-relations laws and minimum-wage notifications. Which applies depends on your province and on whether your workplace is covered. Basic protections usually include being paid on time, limits on deductions, written terms, and a fair process before dismissal for misconduct. Written proof — an appointment letter, payslips, messages — is your most valuable evidence.",
+    "ur": "ملازمت کے حقوق کئی قوانین سے آتے ہیں: وفاقی اور صوبائی اجرت کے قوانین، ملازمت کی شرائط کے اسٹینڈنگ آرڈرز، صنعتی تعلقات کے قوانین اور کم از کم اجرت کے نوٹیفکیشن۔ کون سا لاگو ہوتا ہے یہ آپ کے صوبے اور کام کی جگہ کے احاطہ شدہ ہونے پر منحصر ہے۔ بنیادی تحفظات میں عموماً بروقت ادائیگی، کٹوتیوں پر حد، تحریری شرائط، اور بدانتظامی پر برطرفی سے پہلے منصفانہ عمل شامل ہیں۔ تحریری ثبوت — تقرری نامہ، پے سلپ، پیغامات — آپ کا سب سے قیمتی ثبوت ہے۔",
+    "sd": "نوڪريءَ جا حق ڪيترن قانونن مان اچن ٿا: وفاقي ۽ صوبائي اجرت جا قانون، نوڪريءَ جي شرطن جا اسٽينڊنگ آرڊر، صنعتي لاڳاپن جا قانون ۽ گهٽ ۾ گهٽ اجرت جا نوٽيفڪيشن. ڪهڙو لاڳو ٿئي ٿو اهو توهان جي صوبي ۽ ڪم جي جڳهه جي ڍڪيل هئڻ تي منحصر آهي. بنيادي تحفظن ۾ عام طور وقت تي ادائيگي، ڪٽوتين تي حد، لکت وارا شرط، ۽ بدانتظاميءَ تي برطرفيءَ کان اڳ منصفانه عمل شامل آهن. لکت وارو ثبوت — تقرري نامو، پي سلپ، پيغام — توهان جو سڀ کان قيمتي ثبوت آهي."
+   },
+   "steps": [
+    {
+     "en": "Ask for a written appointment letter stating pay, hours and duties.",
+     "ur": "تنخواہ، اوقات اور فرائض والا تحریری تقرری نامہ مانگیں۔",
+     "sd": "پگهار، ڪم جا ڪلاڪ ۽ فرض وارو لکت وارو تقرري نامو گهرو."
+    },
+    {
+     "en": "Keep records of attendance, payslips, bank statements and messages.",
+     "ur": "حاضری، پے سلپ، بینک اسٹیٹمنٹ اور پیغامات کا ریکارڈ رکھیں۔",
+     "sd": "حاضري، پي سلپ، بئنڪ اسٽيٽمينٽ ۽ پيغامن جو رڪارڊ رکو."
+    },
+    {
+     "en": "If unpaid or wrongly deducted, demand payment in writing, then complain to the labour department or authority under the applicable wages law.",
+     "ur": "ادا نہ ہو یا غلط کٹوتی ہو تو تحریری مطالبہ کریں، پھر محکمۂ محنت یا لاگو اجرت قانون کے تحت اتھارٹی سے شکایت کریں۔",
+     "sd": "ادا نه ٿئي يا غلط ڪٽوتي ٿئي ته لکت ۾ مطالبو ڪريو، پوءِ محنت کاتي يا لاڳو اجرت قانون تحت اٿارٽيءَ کي شڪايت ڪريو."
+    },
+    {
+     "en": "If dismissed, check your notice rights and file a grievance within the time allowed by your labour law.",
+     "ur": "برطرفی کی صورت میں نوٹس کے حقوق دیکھیں اور اپنے لیبر قانون میں مقررہ مدت کے اندر شکایت دائر کریں۔",
+     "sd": "برطرفي جي صورت ۾ نوٽيس جا حق ڏسو ۽ پنهنجي ليبر قانون ۾ مقرر مدت اندر شڪايت داخل ڪريو."
+    }
+   ],
+   "faqIds": [
+    "faq-unpaid-wages",
+    "faq-termination"
+   ],
+   "check": [
+    {
+     "q": {
+      "en": "Which Act deals with timely payment of wages and deductions?",
+      "ur": "وقت پر اجرت کی ادائیگی اور کٹوتیوں سے کون سا ایکٹ متعلق ہے؟",
+      "sd": "وقت تي اجرت ۽ ڪٽوتين بابت ڪهڙو ايڪٽ آهي؟"
+     },
+     "a": {
+      "en": "The Payment of Wages Act, 1936 (as applied in each province).",
+      "ur": "پیمنٹ آف ویجز ایکٹ 1936 (ہر صوبے میں لاگو شکل میں)۔",
+      "sd": "پيمينٽ آف ويجز ايڪٽ 1936 (هر صوبي ۾ لاڳو صورت ۾)."
+     }
+    }
+   ],
+   "terms": [
+    "maintenance",
+    "contract"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "payment-of-wages-1936"
+    },
+    {
+     "lawId": "sindh-standing-orders-2015"
+    },
+    {
+     "lawId": "ira-2012"
+    },
+    {
+     "lawId": "workplace-harassment-2010"
+    }
+   ],
+   "keywords": [
+    "wages",
+    "salary",
+    "employment",
+    "termination",
+    "labour",
+    "worker",
+    "harassment"
+   ],
+   "minutes": 6
+  },
+  {
+   "id": "consumer-complaints",
+   "number": 14,
+   "phase": 4,
+   "category": "consumer",
+   "title": {
+    "en": "Consumer complaints",
+    "ur": "صارفین کی شکایات",
+    "sd": "صارفن جون شڪايتون"
+   },
+   "description": {
+    "en": "Defective goods, misleading ads and poor service: how to complain and where to go.",
+    "ur": "ناقص اشیا، گمراہ کن اشتہارات اور ناقص خدمات: شکایت کیسے کریں اور کہاں جائیں۔",
+    "sd": "خراب شيون، گمراهه ڪندڙ اشتهار ۽ ناقص خدمتون: شڪايت ڪيئن ڪجي ۽ ڪٿي وڃجي."
+   },
+   "intro": {
+    "en": "Consumer protection laws are mostly provincial. They protect people who buy goods or services from defects, misleading claims and unfair practices, and set up Consumer Courts that are simpler and cheaper than ordinary civil courts. Your strongest tools are paperwork: the receipt, the warranty card, the advertisement, and a dated written complaint. The Contract Act, 1872 also applies, because buying something is a contract.",
+    "ur": "صارفین کے تحفظ کے قوانین زیادہ تر صوبائی ہیں۔ یہ مصنوعات یا خدمات خریدنے والوں کو نقائص، گمراہ کن دعووں اور غیر منصفانہ طرزِ عمل سے تحفظ دیتے ہیں اور ایسی کنزیومر کورٹس قائم کرتے ہیں جو عام دیوانی عدالتوں سے سادہ اور سستی ہیں۔ آپ کے سب سے مضبوط ہتھیار کاغذات ہیں: رسید، وارنٹی کارڈ، اشتہار اور تاریخ والی تحریری شکایت۔ کنٹریکٹ ایکٹ 1872 بھی لاگو ہوتا ہے کیونکہ خریداری ایک معاہدہ ہے۔",
+    "sd": "صارفن جي تحفظ جا قانون گهڻو ڪري صوبائي آهن. هي شيون يا خدمتون خريد ڪندڙن کي خامين، گمراهه ڪندڙ دعوائن ۽ غير منصفانه طريقن کان تحفظ ڏين ٿا ۽ اهڙيون ڪنزيومر ڪورٽون قائم ڪن ٿا جيڪي عام ديواني عدالتن کان سادي ۽ سستي آهن. توهان جا سڀ کان مضبوط هٿيار ڪاغذ آهن: رسيد، وارنٽي ڪارڊ، اشتهار ۽ تاريخ وارو لکت وارو شڪايت نامو. ڪانٽريڪٽ ايڪٽ 1872 به لاڳو ٿئي ٿو ڇاڪاڻ ته خريداري هڪ معاهدو آهي."
+   },
+   "steps": [
+    {
+     "en": "Keep the receipt, warranty card, advertisement and photographs of the defect.",
+     "ur": "رسید، وارنٹی کارڈ، اشتہار اور نقص کی تصاویر رکھیں۔",
+     "sd": "رسيد، وارنٽي ڪارڊ، اشتهار ۽ خامي جون تصويرون رکو."
+    },
+    {
+     "en": "Complain to the seller in writing; state what remedy you want (repair, replacement, refund).",
+     "ur": "فروخت کنندہ کو تحریری شکایت دیں؛ بتائیں کہ آپ کیا حل چاہتے ہیں (مرمت، تبدیلی، رقم واپسی)۔",
+     "sd": "وڪرو ڪندڙ کي لکت ۾ شڪايت ڏيو؛ ٻڌايو ته توهان ڪهڙو حل چاهيو ٿا (مرمت، مٽاسٽا، رقم واپسي)."
+    },
+    {
+     "en": "If unresolved, check the consumer law for your province and any required notice and time limit.",
+     "ur": "حل نہ ہو تو اپنے صوبے کے صارف قانون، مطلوبہ نوٹس اور مدت دیکھیں۔",
+     "sd": "حل نه ٿئي ته پنهنجي صوبي جو صارف قانون، گهربل نوٽيس ۽ مدت ڏسو."
+    },
+    {
+     "en": "File the complaint in the Consumer Court with your documents and a copy of your written complaint.",
+     "ur": "اپنے کاغذات اور تحریری شکایت کی نقل کے ساتھ کنزیومر کورٹ میں شکایت دائر کریں۔",
+     "sd": "پنهنجن ڪاغذن ۽ لکت وارين شڪايت جي ڪاپي سان ڪنزيومر ڪورٽ ۾ شڪايت داخل ڪريو."
+    }
+   ],
+   "faqIds": [
+    "faq-consumer-complaint"
+   ],
+   "check": [
+    {
+     "q": {
+      "en": "Why is a written complaint useful?",
+      "ur": "تحریری شکایت کیوں مفید ہے؟",
+      "sd": "لکت وارو شڪايتنامو ڇو مفيد آهي؟"
+     },
+     "a": {
+      "en": "It proves you gave the seller a chance to fix the problem and fixes the date.",
+      "ur": "یہ ثابت کرتی ہے کہ آپ نے فروخت کنندہ کو مسئلہ حل کرنے کا موقع دیا اور تاریخ طے کرتی ہے۔",
+      "sd": "هي ثابت ڪري ٿو ته توهان وڪرو ڪندڙ کي مسئلو حل ڪرڻ جو موقعو ڏنو ۽ تاريخ مقرر ڪري ٿو."
+     }
+    }
+   ],
+   "terms": [
+    "contract"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "sindh-consumer-protection-2014"
+    },
+    {
+     "lawId": "punjab-consumer-protection-2005"
+    },
+    {
+     "lawId": "ict-consumer-protection-1995"
+    },
+    {
+     "lawId": "contract-act-1872",
+     "sectionId": "ca-73"
+    }
+   ],
+   "keywords": [
+    "consumer",
+    "defective",
+    "refund",
+    "warranty",
+    "complaint",
+    "service"
+   ],
+   "minutes": 5
+  },
+  {
+   "id": "cyber-harassment-online-crime",
+   "number": 15,
+   "phase": 4,
+   "category": "cyber",
+   "title": {
+    "en": "Cyber harassment and online crime",
+    "ur": "سائبر ہراسانی اور آن لائن جرائم",
+    "sd": "سائبر تنگ ڪرڻ ۽ آن لائن ڏوهه"
+   },
+   "description": {
+    "en": "Preserving evidence, reporting to the right agency and the offences covered by PECA.",
+    "ur": "شواہد محفوظ کرنا، درست ادارے کو رپورٹ کرنا اور پیکا کے تحت جرائم۔",
+    "sd": "ثبوت محفوظ ڪرڻ، صحيح اداري کي رپورٽ ڪرڻ ۽ پيڪا تحت ڏوهه."
+   },
+   "intro": {
+    "en": "The Prevention of Electronic Crimes Act, 2016 (PECA) covers offences committed through computers, phones and the internet — such as unauthorised access, misuse of identity information, offences against a person's dignity and modesty, and cyber stalking. The law has been amended, so check the current text. In practice, the most important step is preserving evidence immediately: screenshots with dates and URLs, original files and the account details of the offender. Electronic records can be used as evidence, but only if they are properly preserved.",
+    "ur": "الیکٹرانک جرائم کی روک تھام کا ایکٹ 2016 (پیکا) کمپیوٹر، فون اور انٹرنیٹ کے ذریعے کیے گئے جرائم کا احاطہ کرتا ہے — جیسے غیر مجاز رسائی، شناختی معلومات کا غلط استعمال، کسی شخص کے وقار اور حیا کے خلاف جرائم اور سائبر اسٹاکنگ۔ قانون میں ترمیم ہوئی ہے، اس لیے موجودہ متن دیکھیں۔ عملاً سب سے اہم قدم فوراً شواہد محفوظ کرنا ہے: تاریخ اور یو آر ایل کے ساتھ اسکرین شاٹس، اصل فائلیں اور مجرم کے اکاؤنٹ کی تفصیلات۔ برقی ریکارڈ بطور ثبوت استعمال ہو سکتے ہیں مگر صرف اس صورت میں جب انہیں درست طور پر محفوظ کیا گیا ہو۔",
+    "sd": "پريوينشن آف اليڪٽرانڪ ڪرائمز ايڪٽ 2016 (پيڪا) ڪمپيوٽر، فون ۽ انٽرنيٽ ذريعي ٿيل ڏوهن کي ڍڪي ٿو — جهڙوڪ غير مجاز رسائي، سڃاڻپ جي معلومات جو غلط استعمال، ڪنهن شخص جي وقار ۽ حيا خلاف ڏوهه ۽ سائبر اسٽاڪنگ. قانون ۾ ترميم ٿي آهي، تنهن ڪري موجوده متن ڏسو. عملي طور سڀ کان اهم قدم فوري ثبوت محفوظ ڪرڻ آهي: تاريخ ۽ يو آر ايل سان اسڪرين شاٽ، اصل فائلون ۽ ڏوهاري جي اڪائونٽ جا تفصيل. اليڪٽرانڪ رڪارڊ ثبوت طور استعمال ٿي سگهن ٿا پر رڳو ان صورت ۾ جڏهن انهن کي صحيح طرح محفوظ ڪيو ويو هجي."
+   },
+   "steps": [
+    {
+     "en": "Do not delete messages or posts. Take dated screenshots showing the profile, URL and content.",
+     "ur": "پیغامات یا پوسٹس ڈیلیٹ نہ کریں۔ پروفائل، یو آر ایل اور مواد دکھانے والے تاریخ والے اسکرین شاٹس لیں۔",
+     "sd": "پيغام يا پوسٽون ڊيليٽ نه ڪريو. پروفائل، يو آر ايل ۽ مواد ڏيکارڻ وارا تاريخ وارا اسڪرين شاٽ وٺو."
+    },
+    {
+     "en": "Secure your accounts: change passwords, enable two-step verification, and restrict privacy settings.",
+     "ur": "اپنے اکاؤنٹس محفوظ کریں: پاس ورڈ بدلیں، ٹو اسٹیپ ویریفکیشن فعال کریں اور پرائیویسی سیٹنگز محدود کریں۔",
+     "sd": "پنهنجا اڪائونٽ محفوظ ڪريو: پاس ورڊ بدلايو، ٻه قدمي تصديق فعال ڪريو ۽ پرائيويسي سيٽنگون محدود ڪريو."
+    },
+    {
+     "en": "Report the content to the platform and file a complaint with the FIA cybercrime wing (NR3C) or the police.",
+     "ur": "مواد پلیٹ فارم کو رپورٹ کریں اور ایف آئی اے کے سائبر کرائم ونگ (این آر تھری سی) یا پولیس میں شکایت درج کرائیں۔",
+     "sd": "مواد پليٽ فارم کي رپورٽ ڪريو ۽ ايف آءِ اي جي سائبر ڪرائم ونگ (اين آر ٿري سي) يا پوليس ۾ شڪايت داخل ڪريو."
+    },
+    {
+     "en": "Do not pay blackmailers or delete evidence; tell a trusted person and consider legal aid or a support organisation.",
+     "ur": "بلیک میلرز کو ادائیگی نہ کریں اور شواہد ڈیلیٹ نہ کریں؛ کسی قابلِ اعتماد شخص کو بتائیں اور قانونی امداد یا معاونتی تنظیم پر غور کریں۔",
+     "sd": "بليڪ ميلرن کي ادائيگي نه ڪريو ۽ ثبوت ڊيليٽ نه ڪريو؛ ڪنهن ڀروسي جوڳي شخص کي ٻڌايو ۽ قانوني مدد يا معاون تنظيم تي غور ڪريو."
+    }
+   ],
+   "faqIds": [
+    "faq-cyber-harassment"
+   ],
+   "check": [
+    {
+     "q": {
+      "en": "Should you delete abusive messages?",
+      "ur": "کیا آپ کو توہین آمیز پیغامات ڈیلیٹ کرنے چاہئیں؟",
+      "sd": "ڇا توهان کي بدسلوڪي وارا پيغام ڊيليٽ ڪرڻ گهرجن؟"
+     },
+     "a": {
+      "en": "No. Preserve them as evidence first.",
+      "ur": "نہیں۔ پہلے انہیں ثبوت کے طور پر محفوظ کریں۔",
+      "sd": "نه. پهرين انهن کي ثبوت طور محفوظ ڪريو."
+     }
+    },
+    {
+     "q": {
+      "en": "Which agency commonly receives cybercrime complaints?",
+      "ur": "سائبر کرائم کی شکایات عموماً کون سا ادارہ وصول کرتا ہے؟",
+      "sd": "سائبر ڪرائم جون شڪايتون عام طور ڪهڙو ادارو وصول ڪري ٿو؟"
+     },
+     "a": {
+      "en": "The FIA's cybercrime wing (NR3C); police may also register complaints.",
+      "ur": "ایف آئی اے کا سائبر کرائم ونگ (این آر تھری سی)؛ پولیس بھی شکایات درج کر سکتی ہے۔",
+      "sd": "ايف آءِ اي جو سائبر ڪرائم ونگ (اين آر ٿري سي)؛ پوليس به شڪايتون داخل ڪري سگهي ٿي."
+     }
+    }
+   ],
+   "terms": [
+    "harassment",
+    "evidence",
+    "fir"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "peca-2016",
+     "sectionId": "peca-16"
+    },
+    {
+     "lawId": "peca-2016",
+     "sectionId": "peca-20"
+    },
+    {
+     "lawId": "peca-2016",
+     "sectionId": "peca-21"
+    },
+    {
+     "lawId": "peca-2016",
+     "sectionId": "peca-24"
+    },
+    {
+     "lawId": "qanun-e-shahadat-1984"
+    }
+   ],
+   "keywords": [
+    "cyber",
+    "online",
+    "harassment",
+    "blackmail",
+    "peca",
+    "fia",
+    "evidence"
+   ],
+   "minutes": 6
+  },
+  {
+   "id": "traffic-challans-licences",
+   "number": 16,
+   "phase": 4,
+   "category": "traffic",
+   "title": {
+    "en": "Traffic challans and driving licences",
+    "ur": "ٹریفک چالان اور ڈرائیونگ لائسنس",
+    "sd": "ٽريفڪ چالان ۽ ڊرائيونگ لائسنس"
+   },
+   "description": {
+    "en": "What a challan means, how to pay or contest it, and why rules differ by province.",
+    "ur": "چالان کا مطلب کیا ہے، ادائیگی یا چیلنج کیسے کریں، اور قواعد صوبوں میں مختلف کیوں ہیں۔",
+    "sd": "چالان جو مطلب ڇا آهي، ادائيگي يا چئلينج ڪيئن ڪجي، ۽ قاعدا صوبن ۾ مختلف ڇو آهن."
+   },
+   "intro": {
+    "en": "Traffic law is based on the Motor Vehicles Ordinance, 1965, but each province issues its own rules, fines and enforcement systems — including e-challan systems in some cities. You are generally expected to carry your driving licence and vehicle documents. A challan is a notice of a traffic offence and the fine; ignoring it can lead to larger penalties, so pay it or contest it within the allowed time.",
+    "ur": "ٹریفک قانون موٹر وہیکلز آرڈیننس 1965 پر مبنی ہے مگر ہر صوبہ اپنے قواعد، جرمانے اور نفاذی نظام جاری کرتا ہے — بعض شہروں میں ای چالان نظام بھی۔ عموماً توقع کی جاتی ہے کہ آپ ڈرائیونگ لائسنس اور گاڑی کے کاغذات ساتھ رکھیں۔ چالان ٹریفک جرم اور جرمانے کا نوٹس ہے؛ اسے نظرانداز کرنے سے بڑے جرمانے ہو سکتے ہیں، اس لیے اجازت شدہ مدت میں ادا کریں یا چیلنج کریں۔",
+    "sd": "ٽريفڪ قانون موٽر وهيڪلز آرڊيننس 1965 تي ٻڌل آهي پر هر صوبو پنهنجا قاعدا، ڏنڊ ۽ لاڳو ڪرڻ جا سرشتا جاري ڪري ٿو — ڪجهه شهرن ۾ اي چالان سرشتو به. عام طور توقع ڪئي وڃي ٿي ته توهان ڊرائيونگ لائسنس ۽ گاڏيءَ جا ڪاغذ گڏ رکو. چالان ٽريفڪ ڏوهه ۽ ڏنڊ جو نوٽيس آهي؛ ان کي نظرانداز ڪرڻ سان وڏا ڏنڊ ٿي سگهن ٿا، تنهن ڪري اجازت ٿيل مدت اندر ادا ڪريو يا چئلينج ڪريو."
+   },
+   "steps": [
+    {
+     "en": "Read the challan: offence, section, date, place and fine amount.",
+     "ur": "چالان پڑھیں: جرم، دفعہ، تاریخ، مقام اور جرمانے کی رقم۔",
+     "sd": "چالان پڙهو: ڏوهه، دفعو، تاريخ، جڳهه ۽ ڏنڊ جي رقم."
+    },
+    {
+     "en": "If correct, pay at the designated bank/online channel within the time shown and keep the receipt.",
+     "ur": "درست ہو تو دکھائی گئی مدت میں مقررہ بینک/آن لائن ذریعے سے ادا کریں اور رسید رکھیں۔",
+     "sd": "درست هجي ته ڏيکاريل مدت اندر مقرر بئنڪ/آن لائن ذريعي ادا ڪريو ۽ رسيد رکو."
+    },
+    {
+     "en": "If you disagree, ask the traffic office how to contest it before the traffic court/magistrate and do so within the time.",
+     "ur": "اختلاف ہو تو ٹریفک دفتر سے پوچھیں کہ ٹریفک کورٹ/مجسٹریٹ کے سامنے اسے کیسے چیلنج کریں اور مدت میں ایسا کریں۔",
+     "sd": "اختلاف هجي ته ٽريفڪ آفيس کان پڇو ته ٽريفڪ ڪورٽ/مئجسٽريٽ آڏو ان کي ڪيئن چئلينج ڪجي ۽ مدت اندر ائين ڪريو."
+    },
+    {
+     "en": "Keep your licence and vehicle registration valid and with you.",
+     "ur": "اپنا لائسنس اور گاڑی کی رجسٹریشن درست رکھیں اور ساتھ رکھیں۔",
+     "sd": "پنهنجو لائسنس ۽ گاڏيءَ جي رجسٽريشن صحيح رکو ۽ گڏ رکو."
+    }
+   ],
+   "faqIds": [
+    "faq-challan"
+   ],
+   "check": [
+    {
+     "q": {
+      "en": "Why do traffic fines differ between provinces?",
+      "ur": "ٹریفک جرمانے صوبوں میں مختلف کیوں ہیں؟",
+      "sd": "ٽريفڪ ڏنڊ صوبن ۾ مختلف ڇو آهن؟"
+     },
+     "a": {
+      "en": "Each province issues its own rules and fines under the motor vehicles law.",
+      "ur": "ہر صوبہ موٹر وہیکلز قانون کے تحت اپنے قواعد اور جرمانے جاری کرتا ہے۔",
+      "sd": "هر صوبو موٽر وهيڪلز قانون تحت پنهنجا قاعدا ۽ ڏنڊ جاري ڪري ٿو."
+     }
+    }
+   ],
+   "terms": [
+    "summons"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "mvo-1965"
+    }
+   ],
+   "keywords": [
+    "traffic",
+    "challan",
+    "licence",
+    "fine",
+    "vehicle",
+    "e-challan"
+   ],
+   "minutes": 4
+  },
+  {
+   "id": "right-to-information-government-services",
+   "number": 17,
+   "phase": 4,
+   "category": "government",
+   "title": {
+    "en": "Right to information and government services",
+    "ur": "معلومات کا حق اور سرکاری خدمات",
+    "sd": "ڄاڻ جو حق ۽ سرڪاري خدمتون"
+   },
+   "description": {
+    "en": "Using Article 19A and RTI laws to get records, and how to complain about slow or unfair service.",
+    "ur": "آرٹیکل 19A اور معلومات کے قوانین سے ریکارڈ کیسے حاصل کریں، اور سست یا غیر منصفانہ خدمات کی شکایت کیسے کریں۔",
+    "sd": "آرٽيڪل 19A ۽ ڄاڻ جي قانونن سان رڪارڊ ڪيئن حاصل ڪجي، ۽ سست يا غير منصفانه خدمتن جي شڪايت ڪيئن ڪجي."
+   },
+   "intro": {
+    "en": "Article 19A gives every citizen the right of access to information in matters of public importance, subject to reasonable restrictions imposed by law. The federal Right of Access to Information Act, 2017 and provincial laws (for example in Sindh, Punjab and Khyber Pakhtunkhwa) turn this into a procedure: you request records in writing, the public body must reply within the time allowed, and a refusal can be taken to an Information Commission. If the real problem is delay or unfair treatment by an office, the Federal Ombudsman (Wafaqi Mohtasib) or the provincial Ombudsman can investigate, free of charge.",
+    "ur": "آرٹیکل 19A ہر شہری کو عوامی اہمیت کے معاملات میں معلومات تک رسائی کا حق دیتا ہے، قانون کی عائد کردہ معقول پابندیوں کے تابع۔ وفاقی رائٹ آف ایکسس ٹو انفارمیشن ایکٹ 2017 اور صوبائی قوانین (مثلاً سندھ، پنجاب اور خیبر پختونخوا) اسے طریقۂ کار بناتے ہیں: آپ تحریری طور پر ریکارڈ مانگتے ہیں، عوامی ادارے کو مقررہ مدت میں جواب دینا ہوتا ہے، اور انکار انفارمیشن کمیشن میں لے جایا جا سکتا ہے۔ اگر اصل مسئلہ کسی دفتر کی تاخیر یا ناانصافی ہو تو وفاقی محتسب یا صوبائی محتسب مفت تحقیقات کر سکتا ہے۔",
+    "sd": "آرٽيڪل 19A هر شهريءَ کي عوامي اهميت جي معاملن ۾ ڄاڻ تائين رسائيءَ جو حق ڏئي ٿو، قانون جي لڳايل معقول پابندين جي تابع. وفاقي رائيٽ آف ايڪسيس ٽو انفارميشن ايڪٽ 2017 ۽ صوبائي قانون (مثال طور سنڌ، پنجاب ۽ خيبر پختونخوا) ان کي طريقو بڻائين ٿا: توهان لکت ۾ رڪارڊ گهرو ٿا، عوامي اداري کي مقرر مدت اندر جواب ڏيڻو آهي، ۽ انڪار انفارميشن ڪميشن ڏانهن کڻي وڃي سگهجي ٿو. جيڪڏهن اصل مسئلو ڪنهن آفيس جي دير يا ناانصافي هجي ته وفاقي محتسب يا صوبائي محتسب مفت تحقيق ڪري سگهي ٿو."
+   },
+   "steps": [
+    {
+     "en": "Identify the public body and whether a federal or provincial law applies.",
+     "ur": "عوامی ادارے کی شناخت کریں اور دیکھیں کہ وفاقی یا صوبائی قانون لاگو ہے۔",
+     "sd": "عوامي اداري جي سڃاڻپ ڪريو ۽ ڏسو ته وفاقي يا صوبائي قانون لاڳو آهي."
+    },
+    {
+     "en": "Write a clear request describing the records you want; keep a stamped copy or proof of delivery.",
+     "ur": "مطلوبہ ریکارڈ بیان کرنے والی واضح درخواست لکیں؛ مہر شدہ نقل یا ڈیلیوری ثبوت رکھیں۔",
+     "sd": "گهربل رڪارڊ بيان ڪندڙ واضح درخواست لکو؛ مهر ٿيل ڪاپي يا پهچائڻ جو ثبوت رکو."
+    },
+    {
+     "en": "If there is no reply or the request is refused, complain to the relevant Information Commission within the allowed time.",
+     "ur": "جواب نہ آئے یا درخواست رد ہو تو مقررہ مدت میں متعلقہ انفارمیشن کمیشن میں شکایت کریں۔",
+     "sd": "جواب نه اچي يا درخواست رد ٿئي ته مقرر مدت اندر لاڳاپيل انفارميشن ڪميشن ۾ شڪايت ڪريو."
+    },
+    {
+     "en": "For delay or unfair treatment, complain to the Federal or provincial Ombudsman.",
+     "ur": "تاخیر یا ناانصافی پر وفاقی یا صوبائی محتسب کو شکایت کریں۔",
+     "sd": "دير يا ناانصافي تي وفاقي يا صوبائي محتسب کي شڪايت ڪريو."
+    }
+   ],
+   "faqIds": [
+    "faq-rti-how"
+   ],
+   "check": [
+    {
+     "q": {
+      "en": "Which Article of the Constitution gives the right to information?",
+      "ur": "آئین کا کون سا آرٹیکل معلومات کا حق دیتا ہے؟",
+      "sd": "آئين جو ڪهڙو آرٽيڪل ڄاڻ جو حق ڏئي ٿو؟"
+     },
+     "a": {
+      "en": "Article 19A.",
+      "ur": "آرٹیکل 19A۔",
+      "sd": "آرٽيڪل 19A."
+     }
+    },
+    {
+     "q": {
+      "en": "Who can investigate maladministration by a federal office?",
+      "ur": "وفاقی دفتر کی بدانتظامی کی تحقیقات کون کر سکتا ہے؟",
+      "sd": "وفاقي آفيس جي بدانتظاميءَ جي تحقيق ڪير ڪري سگهي ٿو؟"
+     },
+     "a": {
+      "en": "The Federal Ombudsman (Wafaqi Mohtasib).",
+      "ur": "وفاقی محتسب۔",
+      "sd": "وفاقي محتسب."
+     }
+    }
+   ],
+   "terms": [
+    "right-to-information",
+    "writ"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "constitution-1973",
+     "sectionId": "art-19a"
+    },
+    {
+     "lawId": "rti-federal-2017"
+    },
+    {
+     "lawId": "rti-sindh-2016"
+    },
+    {
+     "lawId": "rti-punjab-2013"
+    },
+    {
+     "lawId": "rti-kpk-2013"
+    },
+    {
+     "lawId": "wafaqi-mohtasib-1983"
+    }
+   ],
+   "keywords": [
+    "right to information",
+    "rti",
+    "records",
+    "ombudsman",
+    "mohtasib",
+    "government"
+   ],
+   "minutes": 5
+  },
+  {
+   "id": "legal-aid-and-getting-help",
+   "number": 18,
+   "phase": 4,
+   "category": "legalaid",
+   "title": {
+    "en": "Legal aid and where to get help",
+    "ur": "قانونی امداد اور مدد کہاں سے ملے",
+    "sd": "قانوني مدد ۽ مدد ڪٿان ملي"
+   },
+   "description": {
+    "en": "Free or low-cost help, ombudsmen, bar associations and how to choose a lawyer.",
+    "ur": "مفت یا کم خرچ مدد، محتسب، بار ایسوسی ایشنز اور وکیل کا انتخاب کیسے کریں۔",
+    "sd": "مفت يا گهٽ خرچ مدد، محتسب، بار ايسوسيئيشنون ۽ وڪيل جو چونڊ ڪيئن ڪجي."
+   },
+   "intro": {
+    "en": "Not being able to afford a lawyer should not mean being without justice. Article 10 gives an arrested person the right to a lawyer of their choice, and the Legal Aid and Justice Authority Act, 2020 provides for state-backed legal aid. District bar associations often run legal-aid committees, ombudsmen handle complaints against government offices without a lawyer, and Family Courts and Consumer Courts are designed to be accessible. When you do hire a lawyer, ask about fees in writing, ask for receipts, and keep copies of everything you sign.",
+    "ur": "وکیل کا خرچ نہ اٹھا سکنے کا مطلب انصاف سے محرومی نہیں ہونا چاہیے۔ آرٹیکل 10 گرفتار شخص کو اپنی پسند کے وکیل کا حق دیتا ہے، اور لیگل ایڈ اینڈ جسٹس اتھارٹی ایکٹ 2020 ریاستی قانونی امداد فراہم کرتا ہے۔ ضلعی بار ایسوسی ایشنز اکثر قانونی امداد کی کمیٹیاں چلاتی ہیں، محتسب وکیل کے بغیر سرکاری دفاتر کے خلاف شکایات دیکھتے ہیں، اور فیملی کورٹس اور کنزیومر کورٹس قابلِ رسائی ہونے کے لیے بنائی گئی ہیں۔ وکیل کرتے وقت فیس تحریری طور پر پوچھیں، رسیدیں لیں اور ہر دستخط شدہ کاغذ کی نقل رکھیں۔",
+    "sd": "وڪيل جو خرچ نه ڀري سگهڻ جو مطلب انصاف کان محروم رهڻ نه هئڻ گهرجي. آرٽيڪل 10 گرفتار ٿيل شخص کي پنهنجي پسند جي وڪيل جو حق ڏئي ٿو، ۽ ليگل ايڊ اينڊ جسٽس اٿارٽي ايڪٽ 2020 رياستي قانوني مدد مهيا ڪري ٿو. ضلعي بار ايسوسيئيشنون گهڻو ڪري قانوني مدد جون ڪميٽيون هلائين ٿيون، محتسب وڪيل کانسواءِ سرڪاري آفيسن خلاف شڪايتون ڏسن ٿا، ۽ فئملي ڪورٽون ۽ ڪنزيومر ڪورٽون پهچ جوڳيون هجڻ لاءِ ٺهيل آهن. وڪيل رکڻ وقت فيس لکت ۾ پڇو، رسيدون وٺو ۽ هر صحيح ٿيل ڪاغذ جي ڪاپي رکو."
+   },
+   "steps": [
+    {
+     "en": "Write down your problem briefly with dates, and collect your documents.",
+     "ur": "اپنا مسئلہ تاریخوں کے ساتھ مختصراً لکیں اور کاغذات جمع کریں۔",
+     "sd": "پنهنجو مسئلو تاريخن سان مختصر لکو ۽ ڪاغذ گڏ ڪريو."
+    },
+    {
+     "en": "Contact the legal-aid authority or the district bar association's legal-aid committee.",
+     "ur": "قانونی امداد کی اتھارٹی یا ضلعی بار ایسوسی ایشن کی قانونی امداد کمیٹی سے رابطہ کریں۔",
+     "sd": "قانوني مدد جي اٿارٽي يا ضلعي بار ايسوسيئيشن جي قانوني مدد ڪميٽي سان رابطو ڪريو."
+    },
+    {
+     "en": "For complaints about a government office, use the Federal or provincial Ombudsman.",
+     "ur": "سرکاری دفتر کے خلاف شکایت کے لیے وفاقی یا صوبائی محتسب سے رجوع کریں۔",
+     "sd": "سرڪاري آفيس خلاف شڪايت لاءِ وفاقي يا صوبائي محتسب ڏانهن وڃو."
+    },
+    {
+     "en": "If hiring a lawyer, agree fees in writing, get receipts and ask for copies of every filing.",
+     "ur": "وکیل کرنا ہو تو فیس تحریری طے کریں، رسیدیں لیں اور ہر درخواست کی نقل مانگیں۔",
+     "sd": "وڪيل رکڻو هجي ته فيس لکت ۾ طئه ڪريو، رسيدون وٺو ۽ هر درخواست جي ڪاپي گهرو."
+    }
+   ],
+   "faqIds": [
+    "faq-legal-aid"
+   ],
+   "check": [
+    {
+     "q": {
+      "en": "Which Act established a federal legal-aid authority?",
+      "ur": "وفاقی قانونی امداد کی اتھارٹی کس ایکٹ نے قائم کی؟",
+      "sd": "وفاقي قانوني مدد جي اٿارٽي ڪهڙي ايڪٽ قائم ڪئي؟"
+     },
+     "a": {
+      "en": "The Legal Aid and Justice Authority Act, 2020.",
+      "ur": "لیگل ایڈ اینڈ جسٹس اتھارٹی ایکٹ 2020۔",
+      "sd": "ليگل ايڊ اينڊ جسٽس اٿارٽي ايڪٽ 2020."
+     }
+    }
+   ],
+   "terms": [
+    "arrest",
+    "bail"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "legal-aid-justice-authority-2020"
+    },
+    {
+     "lawId": "constitution-1973",
+     "sectionId": "art-10"
+    },
+    {
+     "lawId": "wafaqi-mohtasib-1983"
+    }
+   ],
+   "keywords": [
+    "legal aid",
+    "free lawyer",
+    "bar association",
+    "ombudsman",
+    "help"
+   ],
+   "minutes": 4
+  }
+ ],
+ "faqs": [
+  {
+   "id": "faq-rights-violated",
+   "question": {
+    "en": "What can I do if a government authority violates my fundamental rights?",
+    "ur": "اگر کوئی سرکاری ادارہ میرے بنیادی حقوق کی خلاف ورزی کرے تو میں کیا کر سکتا ہوں؟",
+    "sd": "جيڪڏهن ڪو سرڪاري اداروڪو منهنجي بنيادي حقن جي ڀڃڪڙي ڪري ته مان ڇا ڪري سگهان ٿو؟"
+   },
+   "answer": {
+    "en": "First raise the issue with the authority in writing and, where available, with an ombudsman or appeal authority. If there is no other adequate remedy, a constitutional petition can be filed in the High Court under Article 199. A lawyer or a legal-aid office can help you prepare it.",
+    "ur": "پہلے متعلقہ ادارے کو تحریری طور پر مسئلہ بتائیں اور جہاں دستیاب ہو محتسب یا اپیلی اتھارٹی سے رجوع کریں۔ اگر کوئی اور مؤثر چارہ جوئی نہ ہو تو آرٹیکل 199 کے تحت ہائی کورٹ میں آئینی پٹیشن دائر کی جا سکتی ہے۔ وکیل یا قانونی امداد کا دفتر اسے تیار کرنے میں مدد دے سکتا ہے۔",
+    "sd": "پهرين لاڳاپيل اداري کي لکت ۾ مسئلو ٻڌايو ۽ جتي دستياب هجي محتسب يا اپيلي اٿارٽيءَ ڏانهن وڃو. جيڪڏهن ٻيو ڪو مؤثر چارو نه هجي ته آرٽيڪل 199 تحت هاءِ ڪورٽ ۾ آئيني پٽيشن داخل ڪري سگهجي ٿي. وڪيل يا قانوني مدد جي آفيس ان کي تيار ڪرڻ ۾ مدد ڏئي سگهي ٿي."
+   },
+   "keywords": [
+    "fundamental rights",
+    "writ",
+    "article 199",
+    "high court",
+    "violation"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "constitution-1973",
+     "sectionId": "art-199"
+    }
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "faq-equal-women",
+   "question": {
+    "en": "Does equality before the law mean women and men are treated identically?",
+    "ur": "کیا قانون کے سامنے برابری کا مطلب ہے کہ مردوں اور عورتوں سے بالکل یکساں سلوک ہو گا؟",
+    "sd": "ڇا قانون آڏو برابريءَ جو مطلب آهي ته مرد ۽ عورت سان بلڪل هڪجهڙو سلوڪ ٿيندو؟"
+   },
+   "answer": {
+    "en": "Article 25 says all citizens are equal before the law and there is no discrimination on the basis of sex alone. It also allows the State to make special provisions to protect women and children, which are not treated as prohibited discrimination.",
+    "ur": "آرٹیکل 25 کہتا ہے کہ تمام شہری قانون کے سامنے برابر ہیں اور محض جنس کی بنیاد پر امتیاز نہیں ہو گا۔ یہ ریاست کو خواتین اور بچوں کے تحفظ کے لیے خصوصی انتظامات کی اجازت بھی دیتا ہے جو ممنوعہ امتیاز شمار نہیں ہوتے۔",
+    "sd": "آرٽيڪل 25 چوي ٿو ته سڀ شهري قانون آڏو برابر آهن ۽ رڳو جنس جي بنياد تي تفريق نه ٿيندي. هي رياست کي عورتن ۽ ٻارن جي تحفظ لاءِ خاص بندوبست ڪرڻ جي اجازت به ڏئي ٿو جيڪي منع ٿيل تفريق نه سمجهيا وڃن ٿا."
+   },
+   "keywords": [
+    "equality",
+    "article 25",
+    "women",
+    "discrimination"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "constitution-1973",
+     "sectionId": "art-25"
+    }
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "faq-law-differs",
+   "question": {
+    "en": "Why does the law differ between provinces?",
+    "ur": "قانون صوبوں میں مختلف کیوں ہوتا ہے؟",
+    "sd": "قانون صوبن ۾ مختلف ڇو ٿئي ٿو؟"
+   },
+   "answer": {
+    "en": "Pakistan has federal laws and provincial laws. Many everyday subjects — such as tenancy, consumer protection and local services — are mainly dealt with by provincial legislation, so the rules in Sindh can differ from those in Punjab or Khyber Pakhtunkhwa. Select your province on this site to see the most relevant laws first.",
+    "ur": "پاکستان میں وفاقی اور صوبائی قوانین ہیں۔ روزمرہ کے کئی موضوعات — جیسے کرایہ داری، صارفین کا تحفظ اور مقامی خدمات — بنیادی طور پر صوبائی قانون سازی سے متعلق ہیں، اس لیے سندھ کے قواعد پنجاب یا خیبر پختونخوا سے مختلف ہو سکتے ہیں۔ متعلقہ قوانین پہلے دیکھنے کے لیے اس سائٹ پر اپنا صوبہ منتخب کریں۔",
+    "sd": "پاڪستان ۾ وفاقي ۽ صوبائي قانون آهن. روزمره جا ڪيترائي موضوع — جهڙوڪ ڪرائي داري، صارفن جو تحفظ ۽ مقامي خدمتون — بنيادي طور صوبائي قانون سازي سان واسطو رکن ٿا، تنهن ڪري سنڌ جا قاعدا پنجاب يا خيبر پختونخوا کان مختلف ٿي سگهن ٿا. لاڳاپيل قانون پهرين ڏسڻ لاءِ هن سائيٽ تي پنهنجو صوبو چونڊيو."
+   },
+   "keywords": [
+    "province",
+    "federal",
+    "provincial",
+    "jurisdiction"
+   ],
+   "relatedLaws": [],
+   "review": "unreviewed",
+   "jurisdictionSensitive": true
+  },
+  {
+   "id": "faq-which-court",
+   "question": {
+    "en": "Which court should I go to?",
+    "ur": "مجھے کس عدالت میں جانا چاہیے؟",
+    "sd": "مون کي ڪهڙي عدالت ۾ وڃڻ گهرجي؟"
+   },
+   "answer": {
+    "en": "It depends on the type of case and its value or seriousness. Criminal cases start before a magistrate or sessions court; civil money and property suits go to civil courts; family matters go to the Family Court; rent, consumer and labour disputes often have their own tribunals or courts. A lawyer or the court's office can confirm the correct forum.",
+    "ur": "یہ مقدمے کی نوعیت اور مالیت یا سنگینی پر منحصر ہے۔ فوجداری مقدمات مجسٹریٹ یا سیشن کورٹ سے شروع ہوتے ہیں؛ دیوانی رقم اور جائیداد کے دعوے دیوانی عدالتوں میں جاتے ہیں؛ خاندانی معاملات فیملی کورٹ میں؛ کرایہ، صارف اور مزدور تنازعات کے اکثر اپنے ٹربیونل یا عدالتیں ہوتی ہیں۔ وکیل یا عدالت کا دفتر درست فورم کی تصدیق کر سکتا ہے۔",
+    "sd": "هي ڪيس جي قسم ۽ ان جي قيمت يا سنگينيءَ تي منحصر آهي. فوجداري ڪيس مئجسٽريٽ يا سيشن ڪورٽ کان شروع ٿين ٿا؛ ديواني رقم ۽ ملڪيت جا دعوائون ديواني عدالتن ۾ وڃن ٿا؛ خانداني معاملا فئملي ڪورٽ ۾؛ ڪرايو، صارف ۽ مزدور تڪرارن جا گهڻو ڪري پنهنجا ٽربيونل يا عدالتون هونديون آهن. وڪيل يا عدالت جي آفيس صحيح فورم جي تصديق ڪري سگهي ٿي."
+   },
+   "keywords": [
+    "court",
+    "forum",
+    "magistrate",
+    "sessions",
+    "tribunal"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "cpc-1908",
+     "sectionId": "cpc-9"
+    }
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "faq-fir-register",
+   "question": {
+    "en": "How do I register an FIR?",
+    "ur": "ایف آئی آر کیسے درج کراؤں؟",
+    "sd": "ايف آءِ آر ڪيئن داخل ڪرايان؟"
+   },
+   "answer": {
+    "en": "Go to the police station and give the police the information about the offence — what happened, when, where and who was involved. For a cognizable offence the police must record it under Section 154 of the CrPC. Ask for a copy of the FIR; the informant is entitled to one. Avoid exaggeration: a knowingly false report can itself be an offence.",
+    "ur": "تھانے جا کر پولیس کو جرم کی اطلاع دیں — کیا ہوا، کب، کہاں اور کون ملوث تھا۔ قابلِ دست اندازیٔ پولیس جرم میں پولیس کو ضابطۂ فوجداری کی دفعہ 154 کے تحت اسے درج کرنا ہوتا ہے۔ ایف آئی آر کی نقل مانگیں؛ اطلاع دہندہ اس کا حق دار ہے۔ مبالغہ نہ کریں: جان بوجھ کر جھوٹی رپورٹ بذاتِ خود جرم ہو سکتی ہے۔",
+    "sd": "ٿاڻي وڃي پوليس کي ڏوهه جي اطلاع ڏيو — ڇا ٿيو، ڪڏهن، ڪٿي ۽ ڪير ملوث هو. قابلِ دست اندازيءَ پوليس ڏوهه ۾ پوليس کي فوجداري ضابطي جي دفعي 154 تحت اهو درج ڪرڻو پوي ٿو. ايف آءِ آر جي ڪاپي گهرو؛ اطلاع ڏيندڙ ان جو حقدار آهي. وڌاءُ نه ڪريو: ڄاڻي واڻي ڪوڙي رپورٽ پاڻ به ڏوهه ٿي سگهي ٿي."
+   },
+   "keywords": [
+    "fir",
+    "register",
+    "police station",
+    "complaint",
+    "154"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "crpc-1898",
+     "sectionId": "crpc-154"
+    }
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "faq-fir-refused",
+   "question": {
+    "en": "What if the police refuse to register my FIR?",
+    "ur": "اگر پولیس میری ایف آئی آر درج کرنے سے انکار کر دے تو؟",
+    "sd": "جيڪڏهن پوليس منهنجي ايف آءِ آر داخل ڪرڻ کان انڪار ڪري ته؟"
+   },
+   "answer": {
+    "en": "Put your complaint in writing, send it to the senior police officer of the district, and keep proof. You can also approach the Justice of the Peace (Section 22-A CrPC) to seek directions. A lawyer or legal-aid office can help prepare the application.",
+    "ur": "اپنی شکایت تحریری طور پر ضلع کے سینئر پولیس افسر کو بھیجیں اور ثبوت رکھیں۔ ہدایات کے لیے آپ جسٹس آف دی پیس (دفعہ 22-A ضابطۂ فوجداری) سے بھی رجوع کر سکتے ہیں۔ وکیل یا قانونی امداد کا دفتر درخواست تیار کرنے میں مدد دے سکتا ہے۔",
+    "sd": "پنهنجي شڪايت لکت ۾ ضلعي جي سينيئر پوليس آفيسر کي موڪليو ۽ ثبوت رکو. هدايتن لاءِ توهان جسٽس آف دي پيس (دفعو 22-A فوجداري ضابطو) ڏانهن به وڃي سگهو ٿا. وڪيل يا قانوني مدد جي آفيس درخواست تيار ڪرڻ ۾ مدد ڏئي سگهي ٿي."
+   },
+   "keywords": [
+    "fir refused",
+    "justice of the peace",
+    "22-a",
+    "police refuse"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "crpc-1898",
+     "sectionId": "crpc-22a"
+    }
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "faq-arrest-rights",
+   "question": {
+    "en": "What are my rights if I am arrested?",
+    "ur": "گرفتاری کی صورت میں میرے کیا حقوق ہیں؟",
+    "sd": "گرفتاريءَ جي صورت ۾ منهنجا ڪهڙا حق آهن؟"
+   },
+   "answer": {
+    "en": "Under Article 10 of the Constitution you must be told the grounds of arrest as soon as possible, you may consult and be defended by a lawyer of your choice, and you must be produced before a magistrate within 24 hours (excluding travel time). Article 14 prohibits torture to extract evidence. Special rules apply to preventive detention.",
+    "ur": "آئین کے آرٹیکل 10 کے تحت آپ کو جلد از جلد گرفتاری کی وجوہات بتانا لازم ہے، آپ اپنی پسند کے وکیل سے مشورہ اور دفاع کر سکتے ہیں، اور آپ کو 24 گھنٹے کے اندر (سفر کا وقت چھوڑ کر) مجسٹریٹ کے سامنے پیش کرنا ہوتا ہے۔ آرٹیکل 14 شواہد حاصل کرنے کے لیے تشدد سے منع کرتا ہے۔ احتیاطی نظر بندی پر خاص قواعد لاگو ہوتے ہیں۔",
+    "sd": "آئين جي آرٽيڪل 10 تحت توهان کي جلد کان جلد گرفتاريءَ جا سبب ٻڌائڻ ضروري آهن، توهان پنهنجي پسند جي وڪيل سان صلاح ۽ دفاع ڪري سگهو ٿا، ۽ توهان کي 24 ڪلاڪن اندر (سفر جو وقت ڇڏي) مئجسٽريٽ آڏو پيش ڪرڻو پوي ٿو. آرٽيڪل 14 ثبوت ڪڍڻ لاءِ تشدد کان منع ڪري ٿو. احتياطي نظربنديءَ تي خاص قاعدا لاڳو ٿين ٿا."
+   },
+   "keywords": [
+    "arrest",
+    "rights",
+    "24 hours",
+    "lawyer",
+    "article 10",
+    "torture"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "constitution-1973",
+     "sectionId": "art-10"
+    },
+    {
+     "lawId": "crpc-1898",
+     "sectionId": "crpc-61"
+    }
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "faq-remand",
+   "question": {
+    "en": "What is remand?",
+    "ur": "ریمانڈ کیا ہوتا ہے؟",
+    "sd": "ريمانڊ ڇا آهي؟"
+   },
+   "answer": {
+    "en": "If an investigation cannot be completed within 24 hours, the police present the accused before a magistrate (Section 167 CrPC). The magistrate may allow a limited period of physical remand to the police or send the accused to judicial custody. The accused can ask to be examined by a doctor and should tell the magistrate about any ill-treatment.",
+    "ur": "اگر تفتیش 24 گھنٹے میں مکمل نہ ہو سکے تو پولیس ملزم کو مجسٹریٹ کے سامنے پیش کرتی ہے (دفعہ 167 ضابطۂ فوجداری)۔ مجسٹریٹ پولیس کو محدود مدت کا جسمانی ریمانڈ دے سکتا ہے یا ملزم کو عدالتی تحویل میں بھیج سکتا ہے۔ ملزم ڈاکٹر سے معائنے کی درخواست کر سکتا ہے اور کسی بھی بدسلوکی کے بارے میں مجسٹریٹ کو بتانا چاہیے۔",
+    "sd": "جيڪڏهن تفتيش 24 ڪلاڪن ۾ پوري نه ٿي سگهي ته پوليس ملزم کي مئجسٽريٽ آڏو پيش ڪري ٿي (دفعو 167 فوجداري ضابطو). مئجسٽريٽ پوليس کي محدود مدت جو جسماني ريمانڊ ڏئي سگهي ٿو يا ملزم کي عدالتي حراست ۾ موڪلي سگهي ٿو. ملزم ڊاڪٽر کان معائني جي درخواست ڪري سگهي ٿو ۽ ڪنهن به بدسلوڪيءَ بابت مئجسٽريٽ کي ٻڌائڻ گهرجي."
+   },
+   "keywords": [
+    "remand",
+    "physical remand",
+    "judicial custody",
+    "167"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "crpc-1898",
+     "sectionId": "crpc-167"
+    }
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "faq-bail-what",
+   "question": {
+    "en": "What is bail and how do I apply for it?",
+    "ur": "ضمانت کیا ہے اور اس کے لیے درخواست کیسے دی جاتی ہے؟",
+    "sd": "ضمانت ڇا آهي ۽ ان لاءِ درخواست ڪيئن ڏبي آهي؟"
+   },
+   "answer": {
+    "en": "Bail is the temporary release of an accused person from custody on a promise (usually with sureties or a bond) to attend court. A lawyer files a bail application before the court that has jurisdiction — the magistrate, the Sessions Court or the High Court, depending on the offence and stage. For bailable offences bail is a matter of right (Section 496 CrPC); for non-bailable offences the court decides on the facts (Section 497).",
+    "ur": "ضمانت زیرِ حراست ملزم کی عارضی رہائی ہے جو عدالت میں حاضری کے وعدے (عموماً ضامنوں یا مچلکے کے ساتھ) پر دی جاتی ہے۔ وکیل جرم اور مرحلے کے مطابق مجسٹریٹ، سیشن کورٹ یا ہائی کورٹ میں ضمانت کی درخواست دائر کرتا ہے۔ قابلِ ضمانت جرائم میں ضمانت حق ہے (دفعہ 496)؛ ناقابلِ ضمانت جرائم میں عدالت حقائق دیکھ کر فیصلہ کرتی ہے (دفعہ 497)۔",
+    "sd": "ضمانت زيرِ حراست ملزم جي عارضي آزادي آهي جيڪا عدالت ۾ حاضريءَ جي واعدي (عام طور ضامنن يا مچلڪي سان) تي ڏني وڃي ٿي. وڪيل ڏوهه ۽ مرحلي مطابق مئجسٽريٽ، سيشن ڪورٽ يا هاءِ ڪورٽ ۾ ضمانت جي درخواست داخل ڪري ٿو. قابلِ ضمانت ڏوهن ۾ ضمانت حق آهي (دفعو 496)؛ ناقابلِ ضمانت ڏوهن ۾ عدالت حقيقتن کي ڏسي فيصلو ڪري ٿي (دفعو 497)."
+   },
+   "keywords": [
+    "bail",
+    "surety",
+    "bond",
+    "application",
+    "496",
+    "497"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "crpc-1898",
+     "sectionId": "crpc-496"
+    },
+    {
+     "lawId": "crpc-1898",
+     "sectionId": "crpc-497"
+    }
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "faq-pre-arrest-bail",
+   "question": {
+    "en": "What is pre-arrest bail?",
+    "ur": "ضمانتِ قبل از گرفتاری کیا ہے؟",
+    "sd": "گرفتاريءَ کان اڳ ضمانت ڇا آهي؟"
+   },
+   "answer": {
+    "en": "Pre-arrest (anticipatory) bail is protection granted by a court before arrest, usually under Section 498 CrPC, where a person fears arrest on a false or malicious accusation. It is not automatic: the court looks closely at the facts. Seek a lawyer's advice quickly because the person must usually appear before the court.",
+    "ur": "ضمانتِ قبل از گرفتاری وہ تحفظ ہے جو عدالت گرفتاری سے پہلے دیتی ہے، عموماً دفعہ 498 کے تحت، جب کسی کو جھوٹے یا بدنیتی پر مبنی الزام پر گرفتاری کا خدشہ ہو۔ یہ خودکار نہیں: عدالت حقائق کو غور سے دیکھتی ہے۔ فوراً وکیل سے مشورہ کریں کیونکہ شخص کو عموماً عدالت میں پیش ہونا ہوتا ہے۔",
+    "sd": "گرفتاريءَ کان اڳ ضمانت اهو تحفظ آهي جيڪو عدالت گرفتاريءَ کان اڳ ڏئي ٿي، عام طور دفعي 498 تحت، جڏهن ڪنهن کي ڪوڙي يا بدنيتي تي ٻڌل الزام تي گرفتاريءَ جو خدشو هجي. هي خودڪار ناهي: عدالت حقيقتن کي غور سان ڏسي ٿي. فوري وڪيل کان صلاح وٺو ڇاڪاڻ ته شخص کي عام طور عدالت ۾ پيش ٿيڻو پوي ٿو."
+   },
+   "keywords": [
+    "pre-arrest bail",
+    "anticipatory bail",
+    "498",
+    "protective bail"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "crpc-1898",
+     "sectionId": "crpc-498"
+    }
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "faq-nikah-register",
+   "question": {
+    "en": "How do I register a nikah?",
+    "ur": "نکاح کا اندراج کیسے کرایا جائے؟",
+    "sd": "نڪاح جو اندراج ڪيئن ڪرائجي؟"
+   },
+   "answer": {
+    "en": "A Muslim marriage should be registered under Section 5 of the Muslim Family Laws Ordinance, 1961. The Nikah Registrar who solemnises the nikah records it in the nikahnama and sends the record to the Union Council. Make sure every column — including dower and any conditions — is filled in before signing, and keep your copy safe.",
+    "ur": "مسلمان نکاح کا اندراج عائلی قوانین آرڈیننس 1961 کی دفعہ 5 کے تحت ہونا چاہیے۔ نکاح پڑھانے والا نکاح رجسٹرار نکاح نامے میں اندراج کرتا اور ریکارڈ یونین کونسل کو بھیجتا ہے۔ دستخط سے پہلے یقینی بنائیں کہ ہر خانہ — بشمول حق مہر اور شرائط — پُر ہو، اور اپنی نقل محفوظ رکھیں۔",
+    "sd": "مسلمان نڪاح جو اندراج عائلي قانون آرڊيننس 1961 جي دفعي 5 تحت ٿيڻ گهرجي. نڪاح پڙهائيندڙ نڪاح رجسٽرار نڪاح نامي ۾ اندراج ڪري ٿو ۽ رڪارڊ يونين ڪائونسل کي موڪلي ٿو. صحيح ڪرڻ کان اڳ پڪ ڪريو ته هر خانو — بشمول حق مهر ۽ شرط — ڀريل هجي، ۽ پنهنجي ڪاپي محفوظ رکو."
+   },
+   "keywords": [
+    "nikah",
+    "register",
+    "nikahnama",
+    "union council",
+    "marriage certificate"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "mflo-1961",
+     "sectionId": "mflo-5"
+    }
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "faq-marriage-age",
+   "question": {
+    "en": "What is the legal minimum age for marriage?",
+    "ur": "شادی کی قانونی کم از کم عمر کیا ہے؟",
+    "sd": "شاديءَ جي قانوني گهٽ ۾ گهٽ عمر ڪهڙي آهي؟"
+   },
+   "answer": {
+    "en": "It depends on the province or territory. For example, Sindh's Child Marriage Restraint Act, 2013 sets the minimum age at 18 for both boys and girls. Other jurisdictions have different laws, so check the law for where you live before relying on any age.",
+    "ur": "یہ صوبے یا علاقے پر منحصر ہے۔ مثلاً سندھ کا چائلڈ میرج ریسٹرینٹ ایکٹ 2013 لڑکوں اور لڑکیوں دونوں کے لیے کم از کم عمر 18 سال مقرر کرتا ہے۔ دوسرے علاقوں کے قوانین مختلف ہیں، اس لیے کسی بھی عمر پر بھروسا کرنے سے پہلے اپنے علاقے کا قانون دیکھیں۔",
+    "sd": "هي صوبي يا علائقي تي منحصر آهي. مثال طور سنڌ جو چائلڊ ميريج ريسٽرينٽ ايڪٽ 2013 ڇوڪرن ۽ ڇوڪرين ٻنهي لاءِ گهٽ ۾ گهٽ عمر 18 سال مقرر ڪري ٿو. ٻين علائقن جا قانون مختلف آهن، تنهن ڪري ڪنهن به عمر تي ڀروسو ڪرڻ کان اڳ پنهنجي علائقي جو قانون ڏسو."
+   },
+   "keywords": [
+    "marriage age",
+    "child marriage",
+    "minimum age",
+    "18"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "sindh-child-marriage-2013"
+    }
+   ],
+   "review": "unreviewed",
+   "jurisdictionSensitive": true
+  },
+  {
+   "id": "faq-khula",
+   "question": {
+    "en": "How can a woman seek khula or divorce?",
+    "ur": "عورت خلع یا طلاق کیسے لے سکتی ہے؟",
+    "sd": "عورت خلع يا طلاق ڪيئن وٺي سگهي ٿي؟"
+   },
+   "answer": {
+    "en": "A wife can file a suit for dissolution of marriage in the Family Court of the area where she lives. She may seek khula (dissolution on the basis that she no longer wishes to continue the marriage) or dissolution on one of the grounds listed in the Dissolution of Muslim Marriages Act, 1939 (for example cruelty or failure to maintain). The court first tries reconciliation; the effect of khula on dower is addressed by law and case law, so get legal advice.",
+    "ur": "بیوی اپنے رہائشی علاقے کی فیملی کورٹ میں تنسیخِ نکاح کا دعویٰ دائر کر سکتی ہے۔ وہ خلع (اس بنیاد پر تنسیخ کہ وہ نکاح جاری نہیں رکھنا چاہتی) یا تنسیخِ نکاحِ مسلمانان ایکٹ 1939 میں درج بنیادوں (مثلاً ظلم یا نان نفقہ نہ دینا) پر تنسیخ مانگ سکتی ہے۔ عدالت پہلے صلح کی کوشش کرتی ہے؛ خلع کا حق مہر پر اثر قانون اور عدالتی نظائر میں بیان ہے، اس لیے قانونی مشورہ لیں۔",
+    "sd": "زال پنهنجي رهائشي علائقي جي فئملي ڪورٽ ۾ نڪاح جي تنسيخ جو دعويٰ داخل ڪري سگهي ٿي. هوءَ خلع (ان بنياد تي تنسيخ ته هو نڪاح جاري رکڻ نٿي چاهي) يا ڊزولوشن آف مسلم ميريجز ايڪٽ 1939 ۾ درج بنيادن (مثال طور ظلم يا نان نفقو نه ڏيڻ) تي تنسيخ گهري سگهي ٿي. عدالت پهرين صلح جي ڪوشش ڪري ٿي؛ خلع جو حق مهر تي اثر قانون ۽ عدالتي نظيرن ۾ ڏنل آهي، تنهن ڪري قانوني صلاح وٺو."
+   },
+   "keywords": [
+    "khula",
+    "divorce",
+    "dissolution",
+    "woman",
+    "family court",
+    "tanseekh"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "dissolution-muslim-marriages-1939",
+     "sectionId": "dmma-2"
+    },
+    {
+     "lawId": "family-courts-act-1964",
+     "sectionId": "fca-10"
+    }
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "faq-talaq-process",
+   "question": {
+    "en": "How does talaq work legally?",
+    "ur": "طلاق قانونی طور پر کیسے ہوتی ہے؟",
+    "sd": "طلاق قانوني طور ڪيئن ٿئي ٿي؟"
+   },
+   "answer": {
+    "en": "Under Section 7 of the Muslim Family Laws Ordinance, a man who pronounces talaq must give written notice to the Chairman of the Union Council and supply a copy to the wife. The Council attempts reconciliation, and generally the talaq takes effect after the waiting period set by the law. Failure to give notice can be an offence. Ask the Union Council for a certificate recording the outcome.",
+    "ur": "عائلی قوانین آرڈیننس کی دفعہ 7 کے تحت طلاق دینے والے مرد کو یونین کونسل کے چیئرمین کو تحریری نوٹس دینا اور نقل بیوی کو دینا ہوتی ہے۔ کونسل صلح کی کوشش کرتی ہے اور عموماً قانون کی مقرر کردہ انتظار کی مدت کے بعد طلاق مؤثر ہوتی ہے۔ نوٹس نہ دینا جرم ہو سکتا ہے۔ نتیجہ درج کرنے والا سرٹیفکیٹ یونین کونسل سے حاصل کریں۔",
+    "sd": "عائلي قانون آرڊيننس جي دفعي 7 تحت طلاق ڏيندڙ مرد کي يونين ڪائونسل جي چيئرمين کي لکت وارو نوٽيس ڏيڻو ۽ ڪاپي زال کي ڏيڻي پوي ٿي. ڪائونسل صلح جي ڪوشش ڪري ٿي ۽ عام طور قانون جي مقرر مدت کانپوءِ طلاق اثرائتي ٿئي ٿي. نوٽيس نه ڏيڻ ڏوهه ٿي سگهي ٿو. نتيجو درج ڪندڙ سرٽيفڪيٽ يونين ڪائونسل کان وٺو."
+   },
+   "keywords": [
+    "talaq",
+    "divorce",
+    "notice",
+    "union council",
+    "arbitration council",
+    "section 7"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "mflo-1961",
+     "sectionId": "mflo-7"
+    }
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "faq-maintenance-claim",
+   "question": {
+    "en": "How can a wife or child claim maintenance?",
+    "ur": "بیوی یا بچہ نان نفقہ کا دعویٰ کیسے کر سکتا ہے؟",
+    "sd": "زال يا ٻار نان نفقي جو دعويٰ ڪيئن ڪري سگهي ٿو؟"
+   },
+   "answer": {
+    "en": "Maintenance claims are commonly filed in the Family Court. A wife can also apply to the Union Council Chairman under Section 9 of the MFLO if her husband fails to maintain her. Keep proof of the relationship, the husband's income and your own expenses; courts can order interim maintenance while the case is pending.",
+    "ur": "نان نفقہ کے دعوے عموماً فیملی کورٹ میں دائر ہوتے ہیں۔ شوہر نان نفقہ نہ دے تو بیوی عائلی قوانین آرڈیننس کی دفعہ 9 کے تحت یونین کونسل کے چیئرمین کو بھی درخواست دے سکتی ہے۔ رشتے، شوہر کی آمدن اور اپنے اخراجات کا ثبوت رکھیں؛ عدالتیں مقدمے کے دوران عبوری نان نفقہ کا حکم دے سکتی ہیں۔",
+    "sd": "نان نفقي جا دعوائون عام طور فئملي ڪورٽ ۾ داخل ٿين ٿا. مڙس نان نفقو نه ڏئي ته زال عائلي قانون آرڊيننس جي دفعي 9 تحت يونين ڪائونسل جي چيئرمين کي به درخواست ڏئي سگهي ٿي. رشتي، مڙس جي آمدني ۽ پنهنجن خرچن جو ثبوت رکو؛ عدالتون ڪيس هلندي عبوري نان نفقي جو حڪم ڏئي سگهن ٿيون."
+   },
+   "keywords": [
+    "maintenance",
+    "nafaqa",
+    "wife",
+    "child",
+    "interim maintenance"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "mflo-1961",
+     "sectionId": "mflo-9"
+    },
+    {
+     "lawId": "family-courts-act-1964",
+     "sectionId": "fca-5"
+    }
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "faq-dower-unpaid",
+   "question": {
+    "en": "What if my dower has not been paid?",
+    "ur": "اگر میرا حق مہر ادا نہ ہوا ہو تو؟",
+    "sd": "جيڪڏهن منهنجو حق مهر ادا نه ٿيو هجي ته؟"
+   },
+   "answer": {
+    "en": "Dower (mehr) belongs to the wife and is a debt owed by the husband. It may be “prompt” (payable on demand) or “deferred” (payable later, often on divorce or death), as recorded in the nikahnama. A claim for unpaid dower can be filed in the Family Court. Keep the nikahnama safe — it is the key evidence.",
+    "ur": "حق مہر بیوی کی ملکیت ہے اور شوہر پر قرض ہے۔ نکاح نامے کے مطابق یہ “معجل” (طلب پر قابلِ ادائیگی) یا “مؤجل” (بعد میں، اکثر طلاق یا موت پر) ہو سکتا ہے۔ ادا نہ ہونے والے حق مہر کا دعویٰ فیملی کورٹ میں دائر ہو سکتا ہے۔ نکاح نامہ محفوظ رکھیں — یہی اہم ترین ثبوت ہے۔",
+    "sd": "حق مهر زال جي ملڪيت آهي ۽ مڙس تي قرض آهي. نڪاح نامي مطابق اهو “معجل” (گهر تي ادا ٿيڻ جوڳو) يا “مؤجل” (پوءِ، گهڻو ڪري طلاق يا موت تي) ٿي سگهي ٿو. ادا نه ٿيل حق مهر جو دعويٰ فئملي ڪورٽ ۾ داخل ٿي سگهي ٿو. نڪاح نامو محفوظ رکو — اهو اهم ترين ثبوت آهي."
+   },
+   "keywords": [
+    "dower",
+    "mehr",
+    "unpaid",
+    "prompt",
+    "deferred"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "family-courts-act-1964",
+     "sectionId": "fca-5"
+    }
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "faq-custody-who",
+   "question": {
+    "en": "Who gets custody of the children after separation?",
+    "ur": "علیحدگی کے بعد بچوں کی تحویل کس کو ملتی ہے؟",
+    "sd": "جدائيءَ کانپوءِ ٻارن جي سنڀال ڪنهن کي ملي ٿي؟"
+   },
+   "answer": {
+    "en": "The court decides on the welfare of the child, considering age, needs, upbringing, the capacity of each parent and the child's wishes if old enough. Personal-law principles on custody are considered, especially for young children, but welfare is the governing test (Guardians and Wards Act, 1890). A custody order can be revisited if circumstances change.",
+    "ur": "عدالت بچے کی فلاح کی بنیاد پر فیصلہ کرتی ہے، اور عمر، ضروریات، پرورش، ہر والدین کی اہلیت اور بچہ اتنا بڑا ہو تو اس کی خواہش کو دیکھتی ہے۔ تحویل سے متعلق شخصی قانون کے اصول بالخصوص چھوٹے بچوں کے لیے مدِنظر رکھے جاتے ہیں مگر بنیادی کسوٹی فلاح ہے (گارڈینز اینڈ وارڈز ایکٹ 1890)۔ حالات بدلنے پر تحویل کا حکم دوبارہ دیکھا جا سکتا ہے۔",
+    "sd": "عدالت ٻار جي ڀلائيءَ جي بنياد تي فيصلو ڪري ٿي، ۽ عمر، ضرورتن، پرورش، هر والدين جي اهليت ۽ ٻار ايترو وڏو هجي ته سندس خواهش کي ڏسي ٿي. سنڀال بابت ذاتي قانون جا اصول خاص ڪري ننڍن ٻارن لاءِ ڌيان ۾ رکيا وڃن ٿا پر بنيادي ڪسوٽي ڀلائي آهي (گارڊينز اينڊ وارڊز ايڪٽ 1890). حالتون بدلجڻ تي سنڀال جو حڪم ٻيهر ڏسي سگهجي ٿو."
+   },
+   "keywords": [
+    "custody",
+    "guardianship",
+    "children",
+    "welfare",
+    "hizanat"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "guardians-wards-1890",
+     "sectionId": "gwa-17"
+    },
+    {
+     "lawId": "guardians-wards-1890",
+     "sectionId": "gwa-25"
+    }
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "faq-inheritance-docs",
+   "question": {
+    "en": "What do I need to claim my share of inheritance?",
+    "ur": "وراثت میں اپنا حصہ لینے کے لیے مجھے کیا چاہیے؟",
+    "sd": "وراثت ۾ پنهنجو حصو وٺڻ لاءِ مون کي ڇا گهرجي؟"
+   },
+   "answer": {
+    "en": "Typically a death certificate, proof of the relationship of all legal heirs (for example a family registration certificate or legal-heirs certificate), and documents of the property (title, registry, revenue record). Property in revenue records is normally updated through an inheritance mutation. If heirs disagree, a civil suit for declaration and partition may be needed. Requirements vary by province.",
+    "ur": "عموماً موت کا سرٹیفکیٹ، تمام قانونی وارثوں کے رشتے کا ثبوت (مثلاً فیملی رجسٹریشن سرٹیفکیٹ یا ورثا سرٹیفکیٹ) اور جائیداد کے کاغذات (ملکیت، رجسٹری، مالیہ ریکارڈ)۔ مالیہ ریکارڈ میں جائیداد عموماً وراثتی انتقال کے ذریعے اپڈیٹ ہوتی ہے۔ وارثوں میں اختلاف ہو تو اعلان اور تقسیم کا دیوانی دعویٰ درکار ہو سکتا ہے۔ ضروریات صوبے کے لحاظ سے مختلف ہیں۔",
+    "sd": "عام طور موت جو سرٽيفڪيٽ، سڀني قانوني وارثن جي رشتي جو ثبوت (مثال طور فئملي رجسٽريشن سرٽيفڪيٽ يا وارثن جو سرٽيفڪيٽ) ۽ ملڪيت جا ڪاغذ (مالڪي، رجسٽري، مالياتي رڪارڊ). مالياتي رڪارڊ ۾ ملڪيت عام طور وراثتي انتقال ذريعي اپڊيٽ ٿئي ٿي. وارثن ۾ اختلاف هجي ته اعلان ۽ ورڇ جو ديواني دعويٰ گهربل ٿي سگهي ٿو. گهرجون صوبي مطابق مختلف آهن."
+   },
+   "keywords": [
+    "inheritance",
+    "legal heirs",
+    "mutation",
+    "succession",
+    "partition",
+    "documents"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "mflo-1961",
+     "sectionId": "mflo-4"
+    },
+    {
+     "lawId": "succession-act-1925"
+    }
+   ],
+   "review": "unreviewed",
+   "jurisdictionSensitive": true
+  },
+  {
+   "id": "faq-grandchildren",
+   "question": {
+    "en": "Do grandchildren inherit if their parent died before the grandparent?",
+    "ur": "اگر والد/والدہ دادا/نانا سے پہلے فوت ہو جائیں تو کیا پوتے/نواسے وراثت پاتے ہیں؟",
+    "sd": "جيڪڏهن والد/والدہ ڏاڏي/ناني کان اڳ گذاري وڃن ته ڇا پوٽا/ڏوهٽا وراثت وٺن ٿا؟"
+   },
+   "answer": {
+    "en": "Section 4 of the Muslim Family Laws Ordinance, 1961 provides that the children of a son or daughter who died before the grandparent take the share their parent would have received. Read the full section for conditions; for non-Muslims the Succession Act, 1925 and their personal law apply.",
+    "ur": "عائلی قوانین آرڈیننس 1961 کی دفعہ 4 کے مطابق جو بیٹا یا بیٹی دادا/نانا سے پہلے فوت ہو جائے اس کی اولاد کو وہ حصہ ملتا ہے جو اس کے والد/والدہ کو ملتا۔ شرائط کے لیے پوری دفعہ پڑھیں؛ غیر مسلموں پر سکسیشن ایکٹ 1925 اور ان کا شخصی قانون لاگو ہوتا ہے۔",
+    "sd": "عائلي قانون آرڊيننس 1961 جي دفعي 4 مطابق جيڪو پٽ يا ڌيءَ ڏاڏي/ناني کان اڳ گذاري وڃي ان جي اولاد کي اهو حصو ملي ٿو جيڪو سندن والد/والدہ کي ملي ها. شرطن لاءِ پورو دفعو پڙهو؛ غير مسلمن تي سڪسيشن ايڪٽ 1925 ۽ سندن ذاتي قانون لاڳو ٿين ٿا."
+   },
+   "keywords": [
+    "grandchildren",
+    "orphaned grandchildren",
+    "section 4",
+    "inheritance"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "mflo-1961",
+     "sectionId": "mflo-4"
+    }
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "faq-legal-notice",
+   "question": {
+    "en": "What is a legal notice for money recovery?",
+    "ur": "رقم کی وصولی کے لیے قانونی نوٹس کیا ہوتا ہے؟",
+    "sd": "رقم جي وصوليءَ لاءِ قانوني نوٽيس ڇا آهي؟"
+   },
+   "answer": {
+    "en": "A legal notice is a written demand, usually sent through a lawyer, telling the other person what you claim and giving a reasonable time to pay or respond. It is often not legally required before a suit (notice to the Government under CPC Section 80 is a specific exception), but it can help settlement and shows the court you gave a chance to resolve the matter.",
+    "ur": "قانونی نوٹس تحریری مطالبہ ہے، عموماً وکیل کے ذریعے بھیجا جاتا ہے، جو دوسرے شخص کو بتاتا ہے کہ آپ کا دعویٰ کیا ہے اور ادائیگی یا جواب کے لیے معقول وقت دیتا ہے۔ دعویٰ سے پہلے یہ اکثر قانوناً لازم نہیں ہوتا (ضابطۂ دیوانی کی دفعہ 80 کے تحت حکومت کو نوٹس مخصوص استثنا ہے) مگر یہ تصفیے میں مدد دیتا ہے اور عدالت کو دکھاتا ہے کہ آپ نے معاملہ حل کرنے کا موقع دیا۔",
+    "sd": "قانوني نوٽيس لکت وارو مطالبو آهي، عام طور وڪيل ذريعي موڪليو وڃي ٿو، جيڪو ٻئي شخص کي ٻڌائي ٿو ته توهان جو دعويٰ ڇا آهي ۽ ادائيگي يا جواب لاءِ معقول وقت ڏئي ٿو. دعويٰ کان اڳ هي گهڻو ڪري قانوناً لازمي ناهي (ديواني ضابطي جي دفعي 80 تحت حڪومت کي نوٽيس مخصوص استثنا آهي) پر هي سمجهوتي ۾ مدد ڏئي ٿو ۽ عدالت کي ڏيکاري ٿو ته توهان معاملو حل ڪرڻ جو موقعو ڏنو."
+   },
+   "keywords": [
+    "legal notice",
+    "money recovery",
+    "demand",
+    "section 80",
+    "notice"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "cpc-1908",
+     "sectionId": "cpc-80"
+    }
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "faq-bounced-cheque",
+   "question": {
+    "en": "What can I do if a cheque given to me bounces?",
+    "ur": "اگر مجھے دیا گیا چیک باؤنس ہو جائے تو میں کیا کر سکتا ہوں؟",
+    "sd": "جيڪڏهن مون کي ڏنل چيڪ باؤنس ٿي وڃي ته مان ڇا ڪري سگهان ٿو؟"
+   },
+   "answer": {
+    "en": "Keep the original cheque and the bank's return memo. Possible routes include a civil summary suit for recovery (CPC Order XXXVII) and, where the facts fit, a criminal complaint for dishonestly issuing a cheque under the Pakistan Penal Code. Time limits apply, so speak to a lawyer promptly.",
+    "ur": "اصل چیک اور بینک کا واپسی میمو رکھیں۔ ممکنہ راستوں میں وصولی کا دیوانی سمری سوٹ (ضابطۂ دیوانی آرڈر XXXVII) اور، جہاں حقائق موافق ہوں، پاکستان پینل کوڈ کے تحت بدنیتی سے چیک جاری کرنے پر فوجداری شکایت شامل ہیں۔ مدتیں مقرر ہیں، اس لیے جلد وکیل سے بات کریں۔",
+    "sd": "اصل چيڪ ۽ بئنڪ جو واپسيءَ ميمو رکو. ممڪن رستن ۾ وصوليءَ جو ديواني سمري سوٽ (ديواني ضابطي آرڊر XXXVII) ۽، جتي حقيقتون سهڻيون هجن، پاڪستان پينل ڪوڊ تحت بدنيتيءَ سان چيڪ جاري ڪرڻ تي فوجداري شڪايت شامل آهن. مدتون مقرر آهن، تنهن ڪري جلد وڪيل سان ڳالهايو."
+   },
+   "keywords": [
+    "cheque",
+    "bounced",
+    "dishonoured",
+    "summary suit",
+    "recovery"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "cpc-1908",
+     "sectionId": "cpc-o37"
+    },
+    {
+     "lawId": "limitation-act-1908"
+    }
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "faq-eviction",
+   "question": {
+    "en": "Can a landlord throw out a tenant without a court order?",
+    "ur": "کیا مالک مکان عدالتی حکم کے بغیر کرایہ دار کو نکال سکتا ہے؟",
+    "sd": "ڇا مالڪ مڪان عدالتي حڪم کانسواءِ ڪرائيدار کي ڪڍي سگهي ٿو؟"
+   },
+   "answer": {
+    "en": "In general, no. Provincial rented-premises laws provide a legal process: the landlord applies to the Rent Controller or Rent Tribunal on one of the grounds allowed by law (for example non-payment of rent, subletting or genuine personal need), and the tenant is heard. Forcibly removing a tenant or cutting off essential services can itself create legal problems for the landlord. The exact grounds differ between Sindh, Punjab and Islamabad.",
+    "ur": "عموماً نہیں۔ صوبائی کرایہ دارانہ قوانین قانونی عمل دیتے ہیں: مالک مکان قانون میں دی گئی بنیادوں (مثلاً کرایہ ادا نہ کرنا، آگے کرایہ پر دینا یا حقیقی ذاتی ضرورت) پر رینٹ کنٹرولر یا رینٹ ٹربیونل میں درخواست دیتا ہے اور کرایہ دار کو سنا جاتا ہے۔ زبردستی نکالنا یا لازمی خدمات منقطع کرنا مالک مکان کے لیے خود قانونی مسائل پیدا کر سکتا ہے۔ درست بنیادیں سندھ، پنجاب اور اسلام آباد میں مختلف ہیں۔",
+    "sd": "عام طور نه. صوبائي ڪرائي دارن جا قانون قانوني عمل ڏين ٿا: مالڪ مڪان قانون ۾ ڏنل بنيادن (مثال طور ڪرايو ادا نه ڪرڻ، اڳتي ڪرائي تي ڏيڻ يا حقيقي ذاتي ضرورت) تي رينٽ ڪنٽرولر يا رينٽ ٽربيونل ۾ درخواست ڏئي ٿو ۽ ڪرائيدار کي ٻڌو وڃي ٿو. زوريءَ ڪڍڻ يا لازمي خدمتون ڪٽڻ مالڪ مڪان لاءِ پاڻ قانوني مسئلا پيدا ڪري سگهي ٿو. صحيح بنياد سنڌ، پنجاب ۽ اسلام آباد ۾ مختلف آهن."
+   },
+   "keywords": [
+    "eviction",
+    "tenant",
+    "landlord",
+    "rent controller",
+    "ejectment"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "sindh-rented-premises-1979"
+    },
+    {
+     "lawId": "punjab-rented-premises-2009"
+    },
+    {
+     "lawId": "ict-rent-restriction-2001"
+    }
+   ],
+   "review": "unreviewed",
+   "jurisdictionSensitive": true
+  },
+  {
+   "id": "faq-rent-agreement",
+   "question": {
+    "en": "Do I need a written tenancy agreement?",
+    "ur": "کیا مجھے تحریری کرایہ نامہ درکار ہے؟",
+    "sd": "ڇا مون کي لکت وارو ڪرائي نامو گهرجي؟"
+   },
+   "answer": {
+    "en": "A written agreement is strongly advisable. A lease of immovable property for more than one year must be by registered instrument (Transfer of Property Act, Section 107), and some provinces have specific tenancy-agreement or registration rules. A clear agreement stating rent, advance, duration, repairs and notice makes disputes much easier to resolve.",
+    "ur": "تحریری معاہدہ انتہائی مناسب ہے۔ ایک سال سے زیادہ مدت کا غیر منقولہ جائیداد کا پٹہ رجسٹرڈ دستاویز سے ہونا لازم ہے (ٹرانسفر آف پراپرٹی ایکٹ، دفعہ 107) اور بعض صوبوں میں کرایہ نامے یا رجسٹریشن کے مخصوص قواعد ہیں۔ کرایہ، ایڈوانس، مدت، مرمت اور نوٹس کی واضح شقوں والا معاہدہ تنازعات کو بہت آسان بنا دیتا ہے۔",
+    "sd": "لکت وارو معاهدو سخت مناسب آهي. هڪ سال کان وڌيڪ مدت جي غير منقول ملڪيت جي ليز رجسٽرڊ دستاويز سان ٿيڻ لازمي آهي (ٽرانسفر آف پراپرٽي ايڪٽ، دفعو 107) ۽ ڪجهه صوبن ۾ ڪرائي نامي يا رجسٽريشن جا مخصوص قاعدا آهن. ڪرايو، ايڊوانس، مدت، مرمت ۽ نوٽيس جي واضح شقن وارو معاهدو تڪرارن کي تمام آسان بڻائي ٿو."
+   },
+   "keywords": [
+    "tenancy agreement",
+    "lease",
+    "rent agreement",
+    "registered",
+    "advance"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "tpa-1882",
+     "sectionId": "tpa-107"
+    }
+   ],
+   "review": "unreviewed",
+   "jurisdictionSensitive": true
+  },
+  {
+   "id": "faq-buy-property-checks",
+   "question": {
+    "en": "What should I check before buying property?",
+    "ur": "جائیداد خریدنے سے پہلے مجھے کیا دیکھنا چاہیے؟",
+    "sd": "ملڪيت خريد ڪرڻ کان اڳ مون کي ڇا ڏسڻ گهرجي؟"
+   },
+   "answer": {
+    "en": "Verify that the seller is the true owner (title documents and the official revenue or registry record), check for existing mortgages, disputes or court cases, confirm the property's description and boundaries, and make sure the sale is completed by a registered sale deed followed by mutation in the record. Pay by traceable bank instruments and keep every receipt. Use a lawyer for due diligence.",
+    "ur": "تصدیق کریں کہ فروخت کنندہ حقیقی مالک ہے (ملکیتی دستاویزات اور سرکاری مالیہ یا رجسٹری ریکارڈ)، موجودہ رہن، تنازعات یا مقدمات دیکھیں، جائیداد کی تفصیل اور حدود کی تصدیق کریں، اور یقینی بنائیں کہ فروخت رجسٹرڈ بیع نامے اور پھر ریکارڈ میں انتقال سے مکمل ہو۔ قابلِ سراغ بینک ذرائع سے ادائیگی کریں اور ہر رسید رکھیں۔ جانچ پڑتال کے لیے وکیل سے مدد لیں۔",
+    "sd": "تصديق ڪريو ته وڪرو ڪندڙ حقيقي مالڪ آهي (مالڪيءَ جا دستاويز ۽ سرڪاري مالياتي يا رجسٽري رڪارڊ)، موجوده رهن، تڪرار يا ڪيس ڏسو، ملڪيت جي وصف ۽ حدن جي تصديق ڪريو، ۽ پڪ ڪريو ته وڪرو رجسٽرڊ وڪري نامي ۽ پوءِ رڪارڊ ۾ انتقال سان مڪمل ٿئي. ڳولي سگهجڻ وارن بئنڪ ذريعن سان ادائيگي ڪريو ۽ هر رسيد رکو. جاچ لاءِ وڪيل جي مدد وٺو."
+   },
+   "keywords": [
+    "buy property",
+    "due diligence",
+    "title",
+    "registry",
+    "sale deed",
+    "mutation"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "tpa-1882",
+     "sectionId": "tpa-54"
+    },
+    {
+     "lawId": "registration-act-1908",
+     "sectionId": "ra-17"
+    }
+   ],
+   "review": "unreviewed",
+   "jurisdictionSensitive": true
+  },
+  {
+   "id": "faq-unpaid-wages",
+   "question": {
+    "en": "What can I do if my employer does not pay my wages?",
+    "ur": "اگر آجر میری اجرت ادا نہ کرے تو میں کیا کر سکتا ہوں؟",
+    "sd": "جيڪڏهن ملازم رکندڙ منهنجي اجرت ادا نه ڪري ته مان ڇا ڪري سگهان ٿو؟"
+   },
+   "answer": {
+    "en": "Ask for payment in writing and keep proof of your work and agreed pay (appointment letter, messages, attendance, payslips). If unpaid, complain to the labour department or the authority under the wages law that applies to your workplace — for example the Payment of Wages Act, 1936 as applied in your province — or a labour court. Time limits apply, so act soon.",
+    "ur": "تحریری طور پر ادائیگی مانگیں اور اپنے کام اور طے شدہ تنخواہ کا ثبوت (تقرری نامہ، پیغامات، حاضری، پے سلپ) رکھیں۔ ادا نہ ہو تو اپنے کام کی جگہ پر لاگو اجرت کے قانون — مثلاً آپ کے صوبے میں لاگو پیمنٹ آف ویجز ایکٹ 1936 — کے تحت محکمۂ محنت یا مقررہ اتھارٹی یا لیبر کورٹ سے رجوع کریں۔ مدتیں مقرر ہیں، اس لیے جلد کارروائی کریں۔",
+    "sd": "لکت ۾ ادائيگي گهرو ۽ پنهنجي ڪم ۽ طئه ٿيل پگهار جو ثبوت (تقرري نامو، پيغام، حاضري، پي سلپ) رکو. ادا نه ٿئي ته پنهنجي ڪم جي جڳهه تي لاڳو اجرت جي قانون — مثال طور توهان جي صوبي ۾ لاڳو پيمينٽ آف ويجز ايڪٽ 1936 — تحت محنت کاتي يا مقرر اٿارٽيءَ يا ليبر ڪورٽ ڏانهن وڃو. مدتون مقرر آهن، تنهن ڪري جلد ڪارروائي ڪريو."
+   },
+   "keywords": [
+    "wages",
+    "salary",
+    "unpaid",
+    "employer",
+    "labour court",
+    "labour department"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "payment-of-wages-1936"
+    },
+    {
+     "lawId": "sindh-standing-orders-2015"
+    }
+   ],
+   "review": "unreviewed",
+   "jurisdictionSensitive": true
+  },
+  {
+   "id": "faq-termination",
+   "question": {
+    "en": "Can my employer terminate me without notice?",
+    "ur": "کیا آجر مجھے بغیر نوٹس کے برطرف کر سکتا ہے؟",
+    "sd": "ڇا ملازم رکندڙ مون کي نوٽيس کانسواءِ برطرف ڪري سگهي ٿو؟"
+   },
+   "answer": {
+    "en": "It depends on your contract and the labour law that applies (for example the Sindh Terms of Employment (Standing Orders) Act, 2015 for covered Sindh establishments). Covered workers are usually entitled to notice or pay in lieu and, for misconduct, to a fair procedure. Keep your appointment letter and speak to the labour department or a lawyer quickly.",
+    "ur": "یہ آپ کے معاہدے اور لاگو لیبر قانون پر منحصر ہے (مثلاً سندھ کے احاطہ شدہ اداروں کے لیے سندھ ٹرمز آف ایمپلائمنٹ (اسٹینڈنگ آرڈرز) ایکٹ 2015)۔ احاطہ شدہ کارکن عموماً نوٹس یا اس کے بدلے تنخواہ اور بدعنوانی/بدانتظامی کی صورت میں منصفانہ طریقۂ کار کے حق دار ہوتے ہیں۔ تقرری نامہ رکھیں اور جلد محکمۂ محنت یا وکیل سے بات کریں۔",
+    "sd": "هي توهان جي معاهدي ۽ لاڳو ليبر قانون تي منحصر آهي (مثال طور سنڌ جي ڍڪيل ادارن لاءِ سنڌ ٽرمز آف ايمپلائمينٽ (اسٽينڊنگ آرڊرز) ايڪٽ 2015). ڍڪيل ڪم ڪندڙ عام طور نوٽيس يا ان جي بدران پگهار ۽ بدانتظامي جي صورت ۾ منصفانه طريقي جا حقدار هوندا آهن. تقرري نامو رکو ۽ جلد محنت کاتي يا وڪيل سان ڳالهايو."
+   },
+   "keywords": [
+    "termination",
+    "dismissal",
+    "notice",
+    "employment",
+    "standing orders"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "sindh-standing-orders-2015"
+    }
+   ],
+   "review": "unreviewed",
+   "jurisdictionSensitive": true
+  },
+  {
+   "id": "faq-consumer-complaint",
+   "question": {
+    "en": "How do I complain about a defective product or poor service?",
+    "ur": "ناقص مصنوعات یا ناقص خدمات کی شکایت کیسے کروں؟",
+    "sd": "خراب پراڊڪٽ يا ناقص خدمت جي شڪايت ڪيئن ڪريان؟"
+   },
+   "answer": {
+    "en": "Keep the receipt, warranty and any advertisement. Complain to the seller or provider in writing and give them a reasonable time to fix, replace or refund. If unresolved, you can approach the Consumer Court under your province's consumer protection law (for example the Sindh Consumer Protection Act, 2014 or the Punjab Consumer Protection Act, 2005). Check the time limit and the required notice.",
+    "ur": "رسید، وارنٹی اور کوئی اشتہار رکھیں۔ فروخت کنندہ یا خدمت فراہم کنندہ کو تحریری شکایت دیں اور مرمت، تبدیلی یا رقم واپسی کے لیے معقول وقت دیں۔ حل نہ ہو تو اپنے صوبے کے صارفین کے تحفظ کے قانون (مثلاً سندھ کنزیومر پروٹیکشن ایکٹ 2014 یا پنجاب کنزیومر پروٹیکشن ایکٹ 2005) کے تحت کنزیومر کورٹ سے رجوع کر سکتے ہیں۔ مدت اور مطلوبہ نوٹس دیکھیں۔",
+    "sd": "رسيد، وارنٽي ۽ ڪو اشتهار رکو. وڪرو ڪندڙ يا خدمت ڏيندڙ کي لکت ۾ شڪايت ڏيو ۽ مرمت، مٽاسٽا يا رقم واپسي لاءِ معقول وقت ڏيو. حل نه ٿئي ته پنهنجي صوبي جي صارفن جي تحفظ جي قانون (مثال طور سنڌ ڪنزيومر پروٽيڪشن ايڪٽ 2014 يا پنجاب ڪنزيومر پروٽيڪشن ايڪٽ 2005) تحت ڪنزيومر ڪورٽ ڏانهن وڃي سگهو ٿا. مدت ۽ گهربل نوٽيس ڏسو."
+   },
+   "keywords": [
+    "consumer",
+    "complaint",
+    "defective",
+    "refund",
+    "warranty",
+    "consumer court"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "sindh-consumer-protection-2014"
+    },
+    {
+     "lawId": "punjab-consumer-protection-2005"
+    },
+    {
+     "lawId": "ict-consumer-protection-1995"
+    }
+   ],
+   "review": "unreviewed",
+   "jurisdictionSensitive": true
+  },
+  {
+   "id": "faq-cyber-harassment",
+   "question": {
+    "en": "What should I do if I am being harassed or blackmailed online?",
+    "ur": "اگر مجھے آن لائن ہراساں یا بلیک میل کیا جا رہا ہو تو مجھے کیا کرنا چاہیے؟",
+    "sd": "جيڪڏهن مون کي آن لائن تنگ يا بليڪ ميل ڪيو پيو وڃي ته مون کي ڇا ڪرڻ گهرجي؟"
+   },
+   "answer": {
+    "en": "Do not delete anything. Take screenshots showing the account, messages, dates and URLs, and save them in more than one place. Do not pay or comply with threats. Report the content to the platform and complain to the FIA's cybercrime wing (NR3C) or your nearest police station; the Prevention of Electronic Crimes Act, 2016 covers offences such as cyber stalking and offences against modesty and dignity. Reach out to a trusted person or a legal-aid or support organisation.",
+    "ur": "کچھ بھی ڈیلیٹ نہ کریں۔ اکاؤنٹ، پیغامات، تاریخیں اور یو آر ایل دکھانے والے اسکرین شاٹس لیں اور انہیں ایک سے زیادہ جگہ محفوظ کریں۔ دھمکیوں پر ادائیگی یا عمل نہ کریں۔ مواد کی اطلاع پلیٹ فارم کو دیں اور ایف آئی اے کے سائبر کرائم ونگ (این آر تھری سی) یا قریبی تھانے میں شکایت کریں؛ الیکٹرانک جرائم کی روک تھام کا ایکٹ 2016 سائبر اسٹاکنگ اور حیا و وقار کے خلاف جرائم جیسے جرائم کا احاطہ کرتا ہے۔ کسی قابلِ اعتماد شخص یا قانونی امداد/معاونتی تنظیم سے رابطہ کریں۔",
+    "sd": "ڪجهه به ڊيليٽ نه ڪريو. اڪائونٽ، پيغام، تاريخون ۽ يو آر ايل ڏيکارڻ وارا اسڪرين شاٽ وٺو ۽ انهن کي هڪ کان وڌيڪ هنڌ محفوظ ڪريو. ڌمڪين تي ادائيگي يا عمل نه ڪريو. مواد جي اطلاع پليٽ فارم کي ڏيو ۽ ايف آءِ اي جي سائبر ڪرائم ونگ (اين آر ٿري سي) يا ويجهي ٿاڻي ۾ شڪايت ڪريو؛ پريوينشن آف اليڪٽرانڪ ڪرائمز ايڪٽ 2016 سائبر اسٽاڪنگ ۽ حيا ۽ وقار خلاف ڏوهن جهڙن ڏوهن کي ڍڪي ٿو. ڪنهن ڀروسي جوڳي شخص يا قانوني مدد/معاون تنظيم سان رابطو ڪريو."
+   },
+   "keywords": [
+    "cyber",
+    "harassment",
+    "blackmail",
+    "online",
+    "fia",
+    "nr3c",
+    "peca",
+    "screenshots"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "peca-2016",
+     "sectionId": "peca-21"
+    },
+    {
+     "lawId": "peca-2016",
+     "sectionId": "peca-24"
+    }
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "faq-challan",
+   "question": {
+    "en": "What should I do if I receive a traffic challan I disagree with?",
+    "ur": "اگر مجھے ٹریفک چالان ملے جس سے میں متفق نہ ہوں تو کیا کروں؟",
+    "sd": "جيڪڏهن مون کي ٽريفڪ چالان ملي جنهن سان مان متفق نه هجان ته ڇا ڪريان؟"
+   },
+   "answer": {
+    "en": "Read the challan carefully: the offence, date, location and amount. Most provinces let you pay at designated banks or online, and also let you contest it before the traffic court or magistrate within a stated time. Keep your licence, registration and the challan copy, and check the process with your provincial traffic police or authority because fines and procedures differ.",
+    "ur": "چالان غور سے پڑھیں: جرم، تاریخ، مقام اور رقم۔ زیادہ تر صوبوں میں مقررہ بینکوں یا آن لائن ادائیگی ممکن ہے، اور مقررہ مدت میں ٹریفک کورٹ یا مجسٹریٹ کے سامنے اسے چیلنج بھی کیا جا سکتا ہے۔ لائسنس، رجسٹریشن اور چالان کی نقل رکھیں اور اپنی صوبائی ٹریفک پولیس یا اتھارٹی سے طریقہ پوچھیں کیونکہ جرمانے اور طریقۂ کار مختلف ہیں۔",
+    "sd": "چالان غور سان پڙهو: ڏوهه، تاريخ، جڳهه ۽ رقم. گهڻن صوبن ۾ مقرر بئنڪن يا آن لائن ادائيگي ممڪن آهي، ۽ مقرر مدت اندر ٽريفڪ ڪورٽ يا مئجسٽريٽ آڏو ان کي چئلينج به ڪري سگهجي ٿو. لائسنس، رجسٽريشن ۽ چالان جي ڪاپي رکو ۽ پنهنجي صوبائي ٽريفڪ پوليس يا اٿارٽيءَ کان طريقو پڇو ڇاڪاڻ ته ڏنڊ ۽ طريقا مختلف آهن."
+   },
+   "keywords": [
+    "challan",
+    "traffic",
+    "fine",
+    "licence",
+    "e-challan"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "mvo-1965"
+    }
+   ],
+   "review": "unreviewed",
+   "jurisdictionSensitive": true
+  },
+  {
+   "id": "faq-rti-how",
+   "question": {
+    "en": "How do I request information from a government office?",
+    "ur": "کسی سرکاری دفتر سے معلومات کیسے مانگوں؟",
+    "sd": "ڪنهن سرڪاري آفيس کان ڄاڻ ڪيئن گهران؟"
+   },
+   "answer": {
+    "en": "Send a written request to the public body's designated information officer, describing the record you want as precisely as you can and giving your contact details. The law sets a deadline for a reply and allows fees only for copying. If your request is refused or ignored, you can complain to the relevant Information Commission. Use the right law: the federal Right of Access to Information Act, 2017 covers federal bodies; provinces have their own laws.",
+    "ur": "عوامی ادارے کے مقررہ انفارمیشن آفیسر کو تحریری درخواست بھیجیں، مطلوبہ ریکارڈ کو ممکنہ حد تک درست بیان کریں اور اپنی رابطہ تفصیلات دیں۔ قانون جواب کی مدت مقرر کرتا ہے اور صرف نقل کی فیس کی اجازت دیتا ہے۔ درخواست رد یا نظرانداز ہو تو متعلقہ انفارمیشن کمیشن میں شکایت کی جا سکتی ہے۔ درست قانون استعمال کریں: وفاقی رائٹ آف ایکسس ٹو انفارمیشن ایکٹ 2017 وفاقی اداروں پر لاگو ہے؛ صوبوں کے اپنے قوانین ہیں۔",
+    "sd": "عوامي اداري جي مقرر انفارميشن آفيسر کي لکت وارو درخواست موڪليو، گهربل رڪارڊ کي جيترو ٿي سگهي صحيح ٻڌايو ۽ پنهنجا رابطي جا تفصيل ڏيو. قانون جواب جي مدت مقرر ڪري ٿو ۽ رڳو ڪاپي جي فيس جي اجازت ڏئي ٿو. درخواست رد يا نظرانداز ٿئي ته لاڳاپيل انفارميشن ڪميشن ۾ شڪايت ڪري سگهجي ٿي. صحيح قانون استعمال ڪريو: وفاقي رائيٽ آف ايڪسيس ٽو انفارميشن ايڪٽ 2017 وفاقي ادارن تي لاڳو آهي؛ صوبن جا پنهنجا قانون آهن."
+   },
+   "keywords": [
+    "right to information",
+    "rti",
+    "request",
+    "information commission",
+    "records"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "rti-federal-2017"
+    },
+    {
+     "lawId": "rti-sindh-2016"
+    },
+    {
+     "lawId": "rti-punjab-2013"
+    },
+    {
+     "lawId": "rti-kpk-2013"
+    },
+    {
+     "lawId": "constitution-1973",
+     "sectionId": "art-19a"
+    }
+   ],
+   "review": "unreviewed",
+   "jurisdictionSensitive": true
+  },
+  {
+   "id": "faq-legal-aid",
+   "question": {
+    "en": "What if I cannot afford a lawyer?",
+    "ur": "اگر میں وکیل کا خرچ نہ اٹھا سکوں تو؟",
+    "sd": "جيڪڏهن مان وڪيل جو خرچ نه ڀري سگهان ته؟"
+   },
+   "answer": {
+    "en": "Legal aid exists for people who cannot afford a lawyer. The Legal Aid and Justice Authority Act, 2020 created a federal authority for this, and many district bar associations and courts run legal-aid committees or panels of lawyers. In criminal cases, ask the court whether a lawyer can be provided. Bring your CNIC and case papers, and verify the current procedure at the authority's office or website.",
+    "ur": "قانونی امداد ان لوگوں کے لیے ہے جو وکیل کا خرچ نہیں اٹھا سکتے۔ لیگل ایڈ اینڈ جسٹس اتھارٹی ایکٹ 2020 نے اس کے لیے وفاقی اتھارٹی بنائی، اور کئی ضلعی بار ایسوسی ایشنز اور عدالتیں قانونی امداد کی کمیٹیاں یا وکلا کے پینل چلاتی ہیں۔ فوجداری مقدمات میں عدالت سے پوچھیں کہ وکیل فراہم ہو سکتا ہے یا نہیں۔ شناختی کارڈ اور مقدمے کے کاغذات ساتھ لائیں اور اتھارٹی کے دفتر یا ویب سائٹ پر موجودہ طریقہ تصدیق کریں۔",
+    "sd": "قانوني مدد انهن ماڻهن لاءِ آهي جيڪي وڪيل جو خرچ نٿا ڀري سگهن. ليگل ايڊ اينڊ جسٽس اٿارٽي ايڪٽ 2020 ان لاءِ وفاقي اٿارٽي ٺاهي، ۽ ڪيتريون ئي ضلعي بار ايسوسيئيشنون ۽ عدالتون قانوني مدد جون ڪميٽيون يا وڪيلن جا پينل هلائين ٿيون. فوجداري ڪيسن ۾ عدالت کان پڇو ته وڪيل مهيا ٿي سگهي ٿو يا نه. شناختي ڪارڊ ۽ ڪيس جا ڪاغذ ساڻ آڻيو ۽ اٿارٽيءَ جي آفيس يا ويب سائيٽ تي موجوده طريقي جي تصديق ڪريو."
+   },
+   "keywords": [
+    "legal aid",
+    "free lawyer",
+    "cannot afford",
+    "poor",
+    "legal aid authority"
+   ],
+   "relatedLaws": [
+    {
+     "lawId": "legal-aid-justice-authority-2020"
+    },
+    {
+     "lawId": "constitution-1973",
+     "sectionId": "art-10"
+    }
+   ],
+   "review": "unreviewed"
+  }
+ ],
+ "rights": [
+  {
+   "id": "right-life-liberty",
+   "title": {
+    "en": "Security of person",
+    "ur": "جان کا تحفظ",
+    "sd": "جان جو تحفظ"
+   },
+   "body": {
+    "en": "Nobody can be deprived of life or liberty except in accordance with law.",
+    "ur": "قانون کے مطابق کارروائی کے بغیر کسی کو زندگی یا آزادی سے محروم نہیں کیا جا سکتا۔",
+    "sd": "قانون موجب ڪارروائي کانسواءِ ڪنهن کي زندگي يا آزاديءَ کان محروم نٿو ڪري سگهجي."
+   },
+   "lawId": "constitution-1973",
+   "sectionId": "art-9"
+  },
+  {
+   "id": "right-arrest",
+   "title": {
+    "en": "Your rights if arrested",
+    "ur": "گرفتاری پر آپ کے حقوق",
+    "sd": "گرفتاريءَ تي توهان جا حق"
+   },
+   "body": {
+    "en": "Be told the reasons for arrest, consult and be defended by a lawyer of your choice, and be brought before a magistrate within 24 hours (excluding travel time).",
+    "ur": "گرفتاری کی وجوہات جاننا، اپنی پسند کے وکیل سے مشورہ اور دفاع، اور 24 گھنٹے کے اندر (سفر کا وقت چھوڑ کر) مجسٹریٹ کے سامنے پیشی۔",
+    "sd": "گرفتاريءَ جا سبب ڄاڻڻ، پنهنجي پسند جي وڪيل سان صلاح ۽ دفاع، ۽ 24 ڪلاڪن اندر (سفر جو وقت ڇڏي) مئجسٽريٽ آڏو پيشي."
+   },
+   "lawId": "constitution-1973",
+   "sectionId": "art-10"
+  },
+  {
+   "id": "right-fair-trial",
+   "title": {
+    "en": "Fair trial and due process",
+    "ur": "منصفانہ سماعت اور قانونی عمل",
+    "sd": "منصفانه ٻڌڻي ۽ قانوني عمل"
+   },
+   "body": {
+    "en": "A fair trial and due process in deciding your civil rights and obligations or any criminal charge against you.",
+    "ur": "آپ کے دیوانی حقوق و ذمہ داریوں یا آپ پر فوجداری الزام کے فیصلے میں منصفانہ سماعت اور قانونی عمل۔",
+    "sd": "توهان جي ديواني حقن ۽ ذميدارين يا توهان تي فوجداري الزام جي فيصلي ۾ منصفانه ٻڌڻي ۽ قانوني عمل."
+   },
+   "lawId": "constitution-1973",
+   "sectionId": "art-10a"
+  },
+  {
+   "id": "right-dignity",
+   "title": {
+    "en": "Dignity, privacy of home and freedom from torture",
+    "ur": "وقار، گھر کی رازداری اور تشدد سے آزادی",
+    "sd": "وقار، گهر جي رازداري ۽ تشدد کان آزادي"
+   },
+   "body": {
+    "en": "Human dignity is inviolable, the privacy of home is protected subject to law, and no one may be tortured to extract evidence.",
+    "ur": "انسانی وقار ناقابلِ خلاف ورزی ہے، قانون کے تابع گھر کی رازداری محفوظ ہے، اور شواہد کے لیے تشدد ممنوع ہے۔",
+    "sd": "انساني وقار ناقابلِ ڀڃڪڙي آهي، قانون جي تابع گهر جي رازداري محفوظ آهي، ۽ ثبوت لاءِ تشدد منع آهي."
+   },
+   "lawId": "constitution-1973",
+   "sectionId": "art-14"
+  },
+  {
+   "id": "right-information",
+   "title": {
+    "en": "Right to information",
+    "ur": "معلومات کا حق",
+    "sd": "ڄاڻ جو حق"
+   },
+   "body": {
+    "en": "Citizens can access information in matters of public importance, subject to reasonable restrictions imposed by law.",
+    "ur": "شہری عوامی اہمیت کے معاملات میں معلومات تک رسائی حاصل کر سکتے ہیں، قانون کی معقول پابندیوں کے تابع۔",
+    "sd": "شهري عوامي اهميت جي معاملن ۾ ڄاڻ تائين رسائي حاصل ڪري سگهن ٿا، قانون جي معقول پابندين جي تابع."
+   },
+   "lawId": "constitution-1973",
+   "sectionId": "art-19a"
+  },
+  {
+   "id": "right-equality",
+   "title": {
+    "en": "Equality before the law",
+    "ur": "قانون کے سامنے برابری",
+    "sd": "قانون آڏو برابري"
+   },
+   "body": {
+    "en": "All citizens are equal before the law and entitled to equal protection of the law, with no discrimination on the basis of sex alone.",
+    "ur": "تمام شہری قانون کے سامنے برابر اور قانون کے مساوی تحفظ کے حق دار ہیں، محض جنس کی بنیاد پر امتیاز نہیں۔",
+    "sd": "سڀ شهري قانون آڏو برابر ۽ قانون جي برابر تحفظ جا حقدار آهن، رڳو جنس جي بنياد تي تفريق ناهي."
+   },
+   "lawId": "constitution-1973",
+   "sectionId": "art-25"
+  },
+  {
+   "id": "right-education",
+   "title": {
+    "en": "Right to education",
+    "ur": "تعلیم کا حق",
+    "sd": "تعليم جو حق"
+   },
+   "body": {
+    "en": "Free and compulsory education for children aged five to sixteen, in the manner determined by law.",
+    "ur": "پانچ سے سولہ سال کے بچوں کے لیے مفت اور لازمی تعلیم، قانون کے مقررہ طریقے سے۔",
+    "sd": "پنجن کان سورهن سالن جي ٻارن لاءِ مفت ۽ لازمي تعليم، قانون جي مقرر طريقي سان."
+   },
+   "lawId": "constitution-1973",
+   "sectionId": "art-25a"
+  },
+  {
+   "id": "right-go-to-court",
+   "title": {
+    "en": "Going to court to enforce your rights",
+    "ur": "اپنے حقوق کے نفاذ کے لیے عدالت جانا",
+    "sd": "پنهنجن حقن جي نفاذ لاءِ عدالت وڃڻ"
+   },
+   "body": {
+    "en": "The High Court can issue writs against unlawful acts of government authorities when no other adequate remedy exists.",
+    "ur": "جب کوئی اور مؤثر چارہ جوئی نہ ہو تو ہائی کورٹ سرکاری اداروں کے غیر قانونی اقدامات کے خلاف رٹ جاری کر سکتی ہے۔",
+    "sd": "جڏهن ڪو ٻيو مؤثر چارو نه هجي ته هاءِ ڪورٽ سرڪاري ادارن جي غير قانوني عملن خلاف رٽ جاري ڪري سگهي ٿي."
+   },
+   "lawId": "constitution-1973",
+   "sectionId": "art-199"
+  }
+ ]
+}

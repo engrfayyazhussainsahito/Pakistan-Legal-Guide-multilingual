@@ -1,0 +1,648 @@
+{
+ "entries": [
+  {
+   "id": "bail",
+   "en": "Bail",
+   "ur": "ضمانت",
+   "sd": "ضمانت",
+   "definition": {
+    "en": "Temporary release of an accused person from custody on a promise to attend court, usually with a bond or sureties.",
+    "ur": "ملزم کی حراست سے عارضی رہائی جو عدالت میں حاضری کے وعدے پر، عموماً مچلکے یا ضامنوں کے ساتھ، دی جاتی ہے۔",
+    "sd": "ملزم جي حراست کان عارضي آزادي جيڪا عدالت ۾ حاضريءَ جي واعدي تي، عام طور مچلڪي يا ضامنن سان، ڏني وڃي ٿي."
+   },
+   "category": "criminal",
+   "example": {
+    "en": "The court granted him bail until the trial date.",
+    "ur": "عدالت نے اسے مقدمے کی تاریخ تک ضمانت دے دی۔",
+    "sd": "عدالت کيس ٻڌڻيءَ جي تاريخ تائين ضمانت ڏني."
+   },
+   "relatedLaws": [
+    "crpc-1898"
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "fir",
+   "en": "FIR (First Information Report)",
+   "ur": "ایف آئی آر (ابتدائی اطلاعی رپورٹ)",
+   "sd": "ايف آءِ آر (پهرين اطلاعي رپورٽ)",
+   "definition": {
+    "en": "The first written police record of information about a cognizable offence, which starts an investigation.",
+    "ur": "قابلِ دست اندازیٔ پولیس جرم کی اطلاع کا پہلا تحریری پولیس ریکارڈ جس سے تفتیش شروع ہوتی ہے۔",
+    "sd": "قابلِ دست اندازيءَ پوليس ڏوهه جي اطلاع جو پهريون لکت وارو پوليس رڪارڊ جنهن سان تفتيش شروع ٿئي ٿي."
+   },
+   "category": "criminal",
+   "example": {
+    "en": "She went to the police station to register an FIR about the theft.",
+    "ur": "وہ چوری کی ایف آئی آر درج کرانے تھانے گئی۔",
+    "sd": "هوءَ چوريءَ جي ايف آءِ آر داخل ڪرائڻ ٿاڻي ويئي."
+   },
+   "relatedLaws": [
+    "crpc-1898"
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "surety",
+   "en": "Surety",
+   "ur": "ضامن",
+   "sd": "ضامن",
+   "definition": {
+    "en": "A person who promises the court that an accused person will attend hearings and who may forfeit money if they do not.",
+    "ur": "وہ شخص جو عدالت سے وعدہ کرتا ہے کہ ملزم سماعتوں پر حاضر ہو گا اور ایسا نہ ہو تو رقم ضبط ہو سکتی ہے۔",
+    "sd": "اهو شخص جيڪو عدالت سان واعدو ڪري ٿو ته ملزم ٻڌڻين تي حاضر ٿيندو ۽ ائين نه ٿئي ته رقم ضبط ٿي سگهي ٿي."
+   },
+   "category": "criminal",
+   "example": {
+    "en": "His brother stood surety for the bail.",
+    "ur": "اس کے بھائی نے ضمانت کے لیے ضامن بننا قبول کیا۔",
+    "sd": "سندس ڀاءُ ضمانت لاءِ ضامن ٿيڻ قبول ڪيو."
+   },
+   "relatedLaws": [
+    "crpc-1898"
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "warrant",
+   "en": "Warrant",
+   "ur": "وارنٹ",
+   "sd": "وارنٽ",
+   "definition": {
+    "en": "A written order from a court authorising the police to arrest a person or search a place.",
+    "ur": "عدالت کا تحریری حکم جو پولیس کو کسی شخص کو گرفتار کرنے یا کسی جگہ کی تلاشی لینے کا اختیار دیتا ہے۔",
+    "sd": "عدالت جو لکت وارو حڪم جيڪو پوليس کي ڪنهن شخص کي گرفتار ڪرڻ يا ڪنهن جڳهه جي تلاشي وٺڻ جو اختيار ڏئي ٿو."
+   },
+   "category": "criminal",
+   "example": {
+    "en": "The magistrate issued a warrant of arrest.",
+    "ur": "مجسٹریٹ نے گرفتاری کا وارنٹ جاری کیا۔",
+    "sd": "مئجسٽريٽ گرفتاريءَ جو وارنٽ جاري ڪيو."
+   },
+   "relatedLaws": [
+    "crpc-1898"
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "summons",
+   "en": "Summons",
+   "ur": "سمن",
+   "sd": "سمن",
+   "definition": {
+    "en": "A court notice requiring a person to appear in court or produce a document on a stated date.",
+    "ur": "عدالتی نوٹس جو کسی شخص کو مقررہ تاریخ پر عدالت میں پیش ہونے یا دستاویز پیش کرنے کا پابند کرتا ہے۔",
+    "sd": "عدالتي نوٽيس جيڪو ڪنهن شخص کي مقرر تاريخ تي عدالت ۾ پيش ٿيڻ يا دستاويز پيش ڪرڻ جو پابند ڪري ٿو."
+   },
+   "category": "civil",
+   "example": {
+    "en": "The defendant received a summons to appear on 5 March.",
+    "ur": "مدعا علیہ کو 5 مارچ کو پیش ہونے کا سمن ملا۔",
+    "sd": "مدعا عليه کي 5 مارچ تي پيش ٿيڻ جو سمن مليو."
+   },
+   "relatedLaws": [
+    "cpc-1908"
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "evidence",
+   "en": "Evidence",
+   "ur": "شہادت / ثبوت",
+   "sd": "شاهدي / ثبوت",
+   "definition": {
+    "en": "Statements, documents and objects a court accepts to decide whether a fact is proved.",
+    "ur": "بیانات، دستاویزات اور اشیا جنہیں عدالت کسی امر کے ثابت ہونے کا فیصلہ کرنے کے لیے قبول کرتی ہے۔",
+    "sd": "بيان، دستاويز ۽ شيون جن کي عدالت ڪنهن حقيقت جي ثابت ٿيڻ جو فيصلو ڪرڻ لاءِ قبول ڪري ٿي."
+   },
+   "category": "criminal",
+   "example": {
+    "en": "Screenshots of the messages were presented as evidence.",
+    "ur": "پیغامات کے اسکرین شاٹس بطور ثبوت پیش کیے گئے۔",
+    "sd": "پيغامن جا اسڪرين شاٽ ثبوت طور پيش ڪيا ويا."
+   },
+   "relatedLaws": [
+    "qanun-e-shahadat-1984"
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "witness",
+   "en": "Witness",
+   "ur": "گواہ",
+   "sd": "شاهد",
+   "definition": {
+    "en": "A person who tells the court what they saw, heard or know about the case.",
+    "ur": "وہ شخص جو عدالت کو بتاتا ہے کہ اس نے مقدمے کے بارے میں کیا دیکھا، سنا یا جانتا ہے۔",
+    "sd": "اهو شخص جيڪو عدالت کي ٻڌائي ٿو ته ان ڪيس بابت ڇا ڏٺو، ٻڌو يا ڄاڻي ٿو."
+   },
+   "category": "criminal",
+   "example": {
+    "en": "Two witnesses saw the accident.",
+    "ur": "دو گواہوں نے حادثہ دیکھا۔",
+    "sd": "ٻن شاهدن حادثو ڏٺو."
+   },
+   "relatedLaws": [
+    "qanun-e-shahadat-1984"
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "appeal",
+   "en": "Appeal",
+   "ur": "اپیل",
+   "sd": "اپيل",
+   "definition": {
+    "en": "A request to a higher court to review and change a decision of a lower court.",
+    "ur": "اعلیٰ عدالت سے نچلی عدالت کے فیصلے پر نظرِ ثانی اور تبدیلی کی درخواست۔",
+    "sd": "مٿئين عدالت کي هيٺين عدالت جي فيصلي تي ٻيهر غور ۽ تبديلي جي درخواست."
+   },
+   "category": "civil",
+   "example": {
+    "en": "He filed an appeal against the judgment within the time allowed.",
+    "ur": "اس نے مقررہ مدت میں فیصلے کے خلاف اپیل دائر کی۔",
+    "sd": "هن مقرر مدت اندر فيصلي خلاف اپيل داخل ڪئي."
+   },
+   "relatedLaws": [
+    "cpc-1908",
+    "limitation-act-1908"
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "injunction",
+   "en": "Injunction",
+   "ur": "حکمِ امتناعی",
+   "sd": "حڪمِ امتناعي",
+   "definition": {
+    "en": "A court order requiring a person to do, or stop doing, a specific act.",
+    "ur": "عدالتی حکم جو کسی شخص کو کوئی مخصوص کام کرنے یا روکنے کا پابند کرتا ہے۔",
+    "sd": "عدالتي حڪم جيڪو ڪنهن شخص کي ڪو مخصوص ڪم ڪرڻ يا روڪڻ جو پابند ڪري ٿو."
+   },
+   "category": "civil",
+   "example": {
+    "en": "The court issued an injunction stopping the sale of the plot.",
+    "ur": "عدالت نے پلاٹ کی فروخت روکنے کا حکمِ امتناعی جاری کیا۔",
+    "sd": "عدالت پلاٽ جي وڪري کي روڪڻ جو حڪمِ امتناعي جاري ڪيو."
+   },
+   "relatedLaws": [
+    "cpc-1908",
+    "specific-relief-act-1877"
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "contract",
+   "en": "Contract",
+   "ur": "معاہدہ",
+   "sd": "معاهدو",
+   "definition": {
+    "en": "A legally enforceable agreement between two or more parties.",
+    "ur": "دو یا زیادہ فریقین کے درمیان قانوناً قابلِ نفاذ سمجھوتا۔",
+    "sd": "ٻن يا وڌيڪ ڌرين وچ قانوناً لاڳو ٿيڻ جوڳو سمجهوتو."
+   },
+   "category": "civil",
+   "example": {
+    "en": "They signed a contract for the supply of goods.",
+    "ur": "انہوں نے سامان کی فراہمی کا معاہدہ کیا۔",
+    "sd": "هنن سامان جي فراهميءَ جو معاهدو ڪيو."
+   },
+   "relatedLaws": [
+    "contract-act-1872"
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "inheritance",
+   "en": "Inheritance",
+   "ur": "وراثت",
+   "sd": "وراثت",
+   "definition": {
+    "en": "Property that passes to the legal heirs of a person after death.",
+    "ur": "وہ جائیداد جو کسی شخص کی وفات کے بعد اس کے قانونی ورثا کو منتقل ہوتی ہے۔",
+    "sd": "اها ملڪيت جيڪا ڪنهن شخص جي وفات کانپوءِ سندس قانوني وارثن ڏانهن منتقل ٿئي ٿي."
+   },
+   "category": "family",
+   "example": {
+    "en": "The sisters claimed their share of the inheritance.",
+    "ur": "بہنوں نے وراثت میں اپنے حصے کا دعویٰ کیا۔",
+    "sd": "ڀينرن وراثت ۾ پنهنجي حصي جو دعويٰ ڪيو."
+   },
+   "relatedLaws": [
+    "mflo-1961",
+    "succession-act-1925"
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "maintenance",
+   "en": "Maintenance",
+   "ur": "نان نفقہ",
+   "sd": "نان نفقو",
+   "definition": {
+    "en": "Financial support a person is legally required to provide to a spouse or child, such as food, clothing and housing.",
+    "ur": "وہ مالی معاونت جو کسی شخص پر شریکِ حیات یا بچے کے لیے قانوناً لازم ہے، جیسے خوراک، لباس اور رہائش۔",
+    "sd": "اها مالي مدد جيڪا ڪنهن شخص تي زال/مڙس يا ٻار لاءِ قانوناً لازمي آهي، جهڙوڪ کاڌو، ڪپڙا ۽ رهائش."
+   },
+   "category": "family",
+   "example": {
+    "en": "The Family Court ordered monthly maintenance for the children.",
+    "ur": "فیملی کورٹ نے بچوں کے لیے ماہانہ نان نفقہ کا حکم دیا۔",
+    "sd": "فئملي ڪورٽ ٻارن لاءِ ماهوار نان نفقي جو حڪم ڏنو."
+   },
+   "relatedLaws": [
+    "mflo-1961",
+    "family-courts-act-1964"
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "custody",
+   "en": "Custody",
+   "ur": "تحویل / حضانت",
+   "sd": "سنڀال / حضانت",
+   "definition": {
+    "en": "The legal right and responsibility to care for and have the day-to-day charge of a child.",
+    "ur": "بچے کی دیکھ بھال اور روزمرہ نگہداشت کا قانونی حق اور ذمہ داری۔",
+    "sd": "ٻار جي سنڀال ۽ روزمره نگهبانيءَ جو قانوني حق ۽ ذميواري."
+   },
+   "category": "family",
+   "example": {
+    "en": "The court gave interim custody to the mother.",
+    "ur": "عدالت نے عبوری تحویل ماں کو دی۔",
+    "sd": "عدالت عبوري سنڀال ماءُ کي ڏني."
+   },
+   "relatedLaws": [
+    "guardians-wards-1890",
+    "family-courts-act-1964"
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "dower",
+   "en": "Dower (Mehr)",
+   "ur": "حق مہر",
+   "sd": "حق مهر",
+   "definition": {
+    "en": "The sum or property a husband agrees or is bound to give his wife under the marriage contract.",
+    "ur": "وہ رقم یا جائیداد جو شوہر نکاح کے معاہدے کے تحت بیوی کو دینے کا پابند ہوتا ہے۔",
+    "sd": "اها رقم يا ملڪيت جيڪا مڙس نڪاح جي معاهدي تحت زال کي ڏيڻ جو پابند هوندو آهي."
+   },
+   "category": "family",
+   "example": {
+    "en": "The dower amount is written in the nikahnama.",
+    "ur": "حق مہر کی رقم نکاح نامے میں لکھی ہوتی ہے۔",
+    "sd": "حق مهر جي رقم نڪاح نامي ۾ لکيل هوندي آهي."
+   },
+   "relatedLaws": [
+    "mflo-1961",
+    "family-courts-act-1964"
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "divorce",
+   "en": "Divorce",
+   "ur": "طلاق",
+   "sd": "طلاق",
+   "definition": {
+    "en": "The legal ending of a marriage, by talaq, court decree or khula.",
+    "ur": "نکاح کا قانونی خاتمہ، طلاق، عدالتی ڈگری یا خلع کے ذریعے۔",
+    "sd": "نڪاح جو قانوني خاتمو، طلاق، عدالتي ڊگري يا خلع ذريعي."
+   },
+   "category": "family",
+   "example": {
+    "en": "Notice of divorce must be sent to the Union Council.",
+    "ur": "طلاق کا نوٹس یونین کونسل کو بھیجنا لازم ہے۔",
+    "sd": "طلاق جو نوٽيس يونين ڪائونسل کي موڪلڻ لازمي آهي."
+   },
+   "relatedLaws": [
+    "mflo-1961",
+    "dissolution-muslim-marriages-1939"
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "khula",
+   "en": "Khula",
+   "ur": "خلع",
+   "sd": "خلع",
+   "definition": {
+    "en": "Dissolution of marriage sought by the wife, decided by the Family Court.",
+    "ur": "بیوی کی طرف سے مانگی گئی تنسیخِ نکاح جس کا فیصلہ فیملی کورٹ کرتی ہے۔",
+    "sd": "زال طرفان گهريل نڪاح جي تنسيخ جنهن جو فيصلو فئملي ڪورٽ ڪري ٿي."
+   },
+   "category": "family",
+   "example": {
+    "en": "The wife filed a suit for khula in the Family Court.",
+    "ur": "بیوی نے فیملی کورٹ میں خلع کا دعویٰ دائر کیا۔",
+    "sd": "زال فئملي ڪورٽ ۾ خلع جو دعويٰ داخل ڪيو."
+   },
+   "relatedLaws": [
+    "family-courts-act-1964",
+    "dissolution-muslim-marriages-1939"
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "nikah",
+   "en": "Nikah",
+   "ur": "نکاح",
+   "sd": "نڪاح",
+   "definition": {
+    "en": "The Muslim marriage contract.",
+    "ur": "مسلمانوں کا شادی کا معاہدہ۔",
+    "sd": "مسلمانن جو شاديءَ جو معاهدو."
+   },
+   "category": "family",
+   "example": {
+    "en": "The nikah was registered with the Union Council.",
+    "ur": "نکاح یونین کونسل میں رجسٹر ہوا۔",
+    "sd": "نڪاح يونين ڪائونسل ۾ رجسٽر ٿيو."
+   },
+   "relatedLaws": [
+    "mflo-1961"
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "jurisdiction",
+   "en": "Jurisdiction",
+   "ur": "دائرۂ اختیار",
+   "sd": "دائرو اختيار",
+   "definition": {
+    "en": "The authority of a court or law to decide a matter — based on the subject, the value, the place or the people involved.",
+    "ur": "کسی عدالت یا قانون کا کسی معاملے کا فیصلہ کرنے کا اختیار — موضوع، مالیت، مقام یا متعلقہ افراد کی بنیاد پر۔",
+    "sd": "ڪنهن عدالت يا قانون جو ڪنهن معاملي جو فيصلو ڪرڻ جو اختيار — موضوع، قيمت، جڳهه يا لاڳاپيل ماڻهن جي بنياد تي."
+   },
+   "category": "civil",
+   "example": {
+    "en": "The Sindh High Court has jurisdiction over matters in Sindh.",
+    "ur": "سندھ ہائی کورٹ کو سندھ کے معاملات پر اختیارِ سماعت حاصل ہے۔",
+    "sd": "سنڌ هاءِ ڪورٽ کي سنڌ جي معاملن تي ٻڌڻيءَ جو اختيار آهي."
+   },
+   "relatedLaws": [
+    "cpc-1908",
+    "constitution-1973"
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "arrest",
+   "en": "Arrest",
+   "ur": "گرفتاری",
+   "sd": "گرفتاري",
+   "definition": {
+    "en": "Taking a person into custody by lawful authority, usually on suspicion of an offence.",
+    "ur": "قانونی اختیار کے تحت کسی شخص کو حراست میں لینا، عموماً جرم کے شبہے پر۔",
+    "sd": "قانوني اختيار تحت ڪنهن شخص کي حراست ۾ وٺڻ، عام طور ڏوهه جي شڪ تي."
+   },
+   "category": "criminal",
+   "example": {
+    "en": "The police must inform him of the grounds of arrest.",
+    "ur": "پولیس کو اسے گرفتاری کی وجوہات بتانا لازم ہے۔",
+    "sd": "پوليس کي کيس گرفتاريءَ جا سبب ٻڌائڻ ضروري آهي."
+   },
+   "relatedLaws": [
+    "constitution-1973",
+    "crpc-1898"
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "remand",
+   "en": "Remand",
+   "ur": "ریمانڈ",
+   "sd": "ريمانڊ",
+   "definition": {
+    "en": "An order of a magistrate sending an accused person to police or judicial custody for a limited period during investigation.",
+    "ur": "مجسٹریٹ کا حکم جو دورانِ تفتیش ملزم کو محدود مدت کے لیے پولیس یا عدالتی تحویل میں بھیجتا ہے۔",
+    "sd": "مئجسٽريٽ جو حڪم جيڪو تفتيش دوران ملزم کي محدود مدت لاءِ پوليس يا عدالتي حراست ۾ موڪلي ٿو."
+   },
+   "category": "criminal",
+   "example": {
+    "en": "The magistrate granted two days of physical remand.",
+    "ur": "مجسٹریٹ نے دو دن کا جسمانی ریمانڈ دیا۔",
+    "sd": "مئجسٽريٽ ٻن ڏينهن جو جسماني ريمانڊ ڏنو."
+   },
+   "relatedLaws": [
+    "crpc-1898"
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "cognizable-offence",
+   "en": "Cognizable offence",
+   "ur": "قابلِ دست اندازیٔ پولیس جرم",
+   "sd": "قابلِ دست اندازيءَ پوليس ڏوهه",
+   "definition": {
+    "en": "A serious offence for which police may arrest and investigate without a court's prior permission.",
+    "ur": "سنگین جرم جس میں پولیس عدالت کی پیشگی اجازت کے بغیر گرفتار اور تفتیش کر سکتی ہے۔",
+    "sd": "سنگين ڏوهه جنهن ۾ پوليس عدالت جي اڳواٽ اجازت کانسواءِ گرفتار ۽ تفتيش ڪري سگهي ٿي."
+   },
+   "category": "criminal",
+   "example": {
+    "en": "Murder is a cognizable offence.",
+    "ur": "قتل قابلِ دست اندازیٔ پولیس جرم ہے۔",
+    "sd": "قتل قابلِ دست اندازيءَ پوليس ڏوهه آهي."
+   },
+   "relatedLaws": [
+    "crpc-1898"
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "tenant",
+   "en": "Tenant",
+   "ur": "کرایہ دار",
+   "sd": "ڪرائيدار",
+   "definition": {
+    "en": "A person who rents property from its owner (the landlord) in return for rent.",
+    "ur": "وہ شخص جو مالک (مالک مکان) سے کرائے کے عوض جائیداد لیتا ہے۔",
+    "sd": "اهو شخص جيڪو مالڪ (مالڪ مڪان) کان ڪرائي جي عوض ملڪيت وٺي ٿو."
+   },
+   "category": "property",
+   "example": {
+    "en": "The tenant paid the rent by bank transfer.",
+    "ur": "کرایہ دار نے بینک ٹرانسفر سے کرایہ ادا کیا۔",
+    "sd": "ڪرائيدار بئنڪ ٽرانسفر ذريعي ڪرايو ادا ڪيو."
+   },
+   "relatedLaws": [
+    "tpa-1882",
+    "sindh-rented-premises-1979",
+    "punjab-rented-premises-2009"
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "plaintiff",
+   "en": "Plaintiff",
+   "ur": "مدعی",
+   "sd": "مدعي",
+   "definition": {
+    "en": "The person who files a civil suit.",
+    "ur": "وہ شخص جو دیوانی دعویٰ دائر کرتا ہے۔",
+    "sd": "اهو شخص جيڪو ديواني دعويٰ داخل ڪري ٿو."
+   },
+   "category": "civil",
+   "example": {
+    "en": "The plaintiff claimed repayment of the loan.",
+    "ur": "مدعی نے قرض کی واپسی کا دعویٰ کیا۔",
+    "sd": "مدعيءَ قرض جي واپسيءَ جو دعويٰ ڪيو."
+   },
+   "relatedLaws": [
+    "cpc-1908"
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "defendant",
+   "en": "Defendant",
+   "ur": "مدعا علیہ",
+   "sd": "مدعا عليه",
+   "definition": {
+    "en": "The person against whom a civil suit is filed.",
+    "ur": "وہ شخص جس کے خلاف دیوانی دعویٰ دائر کیا گیا ہو۔",
+    "sd": "اهو شخص جنهن خلاف ديواني دعويٰ داخل ڪيو ويو هجي."
+   },
+   "category": "civil",
+   "example": {
+    "en": "The defendant filed a written statement.",
+    "ur": "مدعا علیہ نے تحریری جواب داخل کیا۔",
+    "sd": "مدعا عليه لکت وارو جواب داخل ڪيو."
+   },
+   "relatedLaws": [
+    "cpc-1908"
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "writ",
+   "en": "Writ",
+   "ur": "رٹ",
+   "sd": "رٽ",
+   "definition": {
+    "en": "A written court order directing a person or authority to act or stop acting, issued by the High Court under Article 199.",
+    "ur": "عدالت کا تحریری حکم جو کسی شخص یا ادارے کو کام کرنے یا رکنے کا پابند کرتا ہے، ہائی کورٹ آرٹیکل 199 کے تحت جاری کرتی ہے۔",
+    "sd": "عدالت جو لکت وارو حڪم جيڪو ڪنهن شخص يا اداري کي ڪم ڪرڻ يا رڪجڻ جو پابند ڪري ٿو، هاءِ ڪورٽ آرٽيڪل 199 تحت جاري ڪري ٿي."
+   },
+   "category": "constitutional",
+   "example": {
+    "en": "He filed a writ petition against the order of the department.",
+    "ur": "اس نے محکمے کے حکم کے خلاف رٹ پٹیشن دائر کی۔",
+    "sd": "هن کاتي جي حڪم خلاف رٽ پٽيشن داخل ڪئي."
+   },
+   "relatedLaws": [
+    "constitution-1973"
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "habeas-corpus",
+   "en": "Habeas corpus",
+   "ur": "حبسِ بے جا (ہیبیس کارپس)",
+   "sd": "هيبيس ڪارپس",
+   "definition": {
+    "en": "A writ requiring a person who is detained to be brought before the court so that the lawfulness of the detention can be checked.",
+    "ur": "ایسا رٹ جس کے تحت زیرِ حراست شخص کو عدالت میں پیش کیا جاتا ہے تاکہ حراست کی قانونی حیثیت جانچی جائے۔",
+    "sd": "اهڙو رٽ جنهن تحت نظربند شخص کي عدالت ۾ پيش ڪيو وڃي ٿو ته حراست جي قانونيت جانچي وڃي."
+   },
+   "category": "constitutional",
+   "example": {
+    "en": "The family filed a habeas corpus petition to find the missing man.",
+    "ur": "گھر والوں نے لاپتہ شخص کو تلاش کرنے کے لیے حبسِ بے جا کی پٹیشن دائر کی۔",
+    "sd": "گهروارن لاپتا شخص کي ڳولڻ لاءِ هيبيس ڪارپس پٽيشن داخل ڪئي."
+   },
+   "relatedLaws": [
+    "constitution-1973"
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "right-to-information",
+   "en": "Right to information",
+   "ur": "حقِ معلومات",
+   "sd": "ڄاڻ جو حق",
+   "definition": {
+    "en": "The right of citizens to request records held by public bodies, subject to limited exceptions.",
+    "ur": "شہریوں کا عوامی اداروں کے پاس موجود ریکارڈ کی درخواست کا حق، محدود استثنا کے ساتھ۔",
+    "sd": "شهرين جو عوامي ادارن وٽ موجود رڪارڊ جي درخواست ڪرڻ جو حق، محدود استثنائن سان."
+   },
+   "category": "government",
+   "example": {
+    "en": "She used the right to information to get the tender records.",
+    "ur": "اس نے ٹینڈر ریکارڈ حاصل کرنے کے لیے حقِ معلومات استعمال کیا۔",
+    "sd": "هن ٽينڊر رڪارڊ حاصل ڪرڻ لاءِ ڄاڻ جو حق استعمال ڪيو."
+   },
+   "relatedLaws": [
+    "constitution-1973",
+    "rti-federal-2017"
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "harassment",
+   "en": "Harassment",
+   "ur": "ہراسانی",
+   "sd": "تنگ ڪرڻ (هراسانگي)",
+   "definition": {
+    "en": "Unwelcome conduct, words or messages that cause fear, humiliation or distress, including in the workplace or online.",
+    "ur": "ناپسندیدہ رویہ، الفاظ یا پیغامات جو خوف، تذلیل یا پریشانی پیدا کریں، بشمول کام کی جگہ یا آن لائن۔",
+    "sd": "ناپسنديده رويو، لفظ يا پيغام جيڪي خوف، توهين يا پريشاني پيدا ڪن، بشمول ڪم جي جڳهه يا آن لائن."
+   },
+   "category": "humanrights",
+   "example": {
+    "en": "She reported the harassment to the inquiry committee.",
+    "ur": "اس نے ہراسانی کی شکایت انکوائری کمیٹی کو کی۔",
+    "sd": "هن تنگ ڪرڻ جي شڪايت انڪوائري ڪميٽيءَ کي ڪئي."
+   },
+   "relatedLaws": [
+    "workplace-harassment-2010",
+    "peca-2016"
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "cheating",
+   "en": "Cheating",
+   "ur": "دھوکا دہی",
+   "sd": "ٺڳي",
+   "definition": {
+    "en": "Deceiving a person so that they dishonestly hand over property or sign a valuable document.",
+    "ur": "کسی کو دھوکا دینا تاکہ وہ بدنیتی سے مال حوالے کرے یا قیمتی دستاویز پر دستخط کرے۔",
+    "sd": "ڪنهن کي ٺڳي ڏيڻ ته جيئن هو بدنيتيءَ سان مال حوالي ڪري يا قيمتي دستاويز تي صحيح ڪري."
+   },
+   "category": "criminal",
+   "example": {
+    "en": "He was charged with cheating for taking money on a false promise.",
+    "ur": "جھوٹے وعدے پر رقم لینے پر اس پر دھوکا دہی کا الزام لگا۔",
+    "sd": "ڪوڙي واعدي تي رقم وٺڻ تي مٿس ٺڳيءَ جو الزام لڳو."
+   },
+   "relatedLaws": [
+    "ppc-1860"
+   ],
+   "review": "unreviewed"
+  },
+  {
+   "id": "equality-before-law",
+   "en": "Equality before law",
+   "ur": "قانون کے سامنے برابری",
+   "sd": "قانون آڏو برابري",
+   "definition": {
+    "en": "The principle that all citizens are subject to the same law and entitled to equal protection of the law (Article 25).",
+    "ur": "یہ اصول کہ تمام شہری ایک ہی قانون کے تابع اور قانون کے مساوی تحفظ کے حق دار ہیں (آرٹیکل 25)۔",
+    "sd": "اهو اصول ته سڀ شهري هڪ ئي قانون جا تابع ۽ قانون جي برابر تحفظ جا حقدار آهن (آرٽيڪل 25)."
+   },
+   "category": "constitutional",
+   "example": {
+    "en": "Equality before law means no one is above the law.",
+    "ur": "قانون کے سامنے برابری کا مطلب ہے کہ کوئی قانون سے بالاتر نہیں۔",
+    "sd": "قانون آڏو برابريءَ جو مطلب آهي ته ڪو به قانون کان مٿي ناهي."
+   },
+   "relatedLaws": [
+    "constitution-1973"
+   ],
+   "review": "unreviewed"
+  }
+ ]
+}

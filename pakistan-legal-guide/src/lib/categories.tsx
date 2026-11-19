@@ -1,0 +1,52 @@
+import {
+  Briefcase,
+  Building2,
+  Car,
+  FileText,
+  Gavel,
+  HeartHandshake,
+  Home,
+  Landmark,
+  LifeBuoy,
+  Scale,
+  ShieldAlert,
+  ShoppingBag,
+  Siren,
+  Users,
+  type LucideIcon,
+} from 'lucide-react'
+import type { CategoryId } from '../types'
+
+export const CATEGORIES: CategoryId[] = [
+  'constitutional',
+  'criminal',
+  'civil',
+  'family',
+  'property',
+  'labour',
+  'consumer',
+  'administrative',
+  'cyber',
+  'police',
+  'traffic',
+  'humanrights',
+  'legalaid',
+  'government',
+]
+
+export const CATEGORY_ICON: Record<CategoryId, LucideIcon> = {
+  constitutional: Landmark,
+  criminal: Gavel,
+  civil: Scale,
+  family: Users,
+  property: Home,
+  labour: Briefcase,
+  consumer: ShoppingBag,
+  administrative: Building2,
+  cyber: ShieldAlert,
+  police: Siren,
+  traffic: Car,
+  humanrights: HeartHandshake,
+  legalaid: LifeBuoy,
+  government: FileText,
+}

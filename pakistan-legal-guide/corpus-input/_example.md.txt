@@ -1,0 +1,9 @@
+---
+law: Name of the Act, year
+jurisdiction: federal
+year: 1900
+source_url: https://pakistancode.gov.pk/ (exact page you copied from)
+section: Section 1
+verified_on: 2026-01-01
+---
+Paste the verbatim official text here. (Rename this file to .md and fill it in; this example is ignored.)

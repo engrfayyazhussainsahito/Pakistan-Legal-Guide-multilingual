@@ -1,0 +1,15 @@
+name = "pakistan-legal-guide-ai"
+main = "worker.js"
+compatibility_date = "2025-01-01"
+
+[vars]
+# Your site origin(s), comma separated, no trailing slash.
+ALLOWED_ORIGIN = "https://YOUR-USER.github.io"
+AI_MODEL = "claude-sonnet-5-5"
+
+# Optional rate limiting (recommended):
+# [[unsafe.bindings]]
+# name = "RATE_LIMITER"
+# type = "ratelimit"
+# namespace_id = "1001"
+# simple = { limit = 20, period = 60 }

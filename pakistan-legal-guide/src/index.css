@@ -1,0 +1,132 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --paper: #faf7f2;
+  --ink: #0b1830;
+  --ink-soft: #3b4a63;
+  --line: #e3dccd;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    @apply bg-[#faf7f2] text-navy-900 antialiased;
+    font-family: 'Inter', ui-sans-serif, system-ui, sans-serif;
+    font-feature-settings: 'cv11', 'ss01';
+  }
+  /* Script-specific fonts — Sindhi always uses Naskh (full Sindhi glyph coverage),
+     Urdu uses Nastaliq with Naskh as a fallback for any missing glyph. */
+  [lang='ur'] {
+    font-family: 'Noto Nastaliq Urdu', 'Noto Naskh Arabic', 'Inter', serif;
+  }
+  [lang='sd'] {
+    font-family: 'Noto Naskh Arabic', 'Inter', serif;
+  }
+  [lang='ur'] .tracking-tight,
+  [lang='sd'] .tracking-tight,
+  [lang='ur'].tracking-tight,
+  [lang='sd'].tracking-tight {
+    letter-spacing: 0;
+  }
+  html[lang='ur'] body {
+    line-height: 2.1;
+  }
+  html[lang='sd'] body {
+    line-height: 1.9;
+  }
+  html[lang='ur'] .heading-font,
+  html[lang='sd'] .heading-font {
+    font-family: inherit;
+    line-height: 1.8;
+    letter-spacing: 0;
+  }
+  .heading-font {
+    font-family: 'Source Serif 4', Georgia, serif;
+  }
+  h1, h2, h3, h4 {
+    @apply text-navy-900;
+  }
+  :focus-visible {
+    outline: 3px solid #1f7a7a;
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+  ::selection {
+    background: #bfe9e7;
+  }
+  /* Never let long English citations or URLs break the layout inside RTL text */
+  .ltr-island {
+    direction: ltr;
+    unicode-bidi: isolate;
+    display: inline-block;
+  }
+}
+
+@layer components {
+  .container-page {
+    @apply mx-auto w-full max-w-6xl px-4 sm:px-6;
+  }
+  .card {
+    @apply rounded-xl border border-sand-200 bg-white shadow-card;
+  }
+  .card-hover {
+    @apply transition duration-200 hover:-translate-y-0.5 hover:border-teal-300 hover:shadow-lift;
+  }
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg px-4 py-2.5 text-sm font-semibold transition duration-150 disabled:cursor-not-allowed disabled:opacity-50;
+  }
+  .btn-primary {
+    @apply btn bg-navy-800 text-white hover:bg-navy-700 active:bg-navy-900;
+  }
+  .btn-secondary {
+    @apply btn border border-navy-200 bg-white text-navy-800 hover:border-navy-400 hover:bg-navy-50;
+  }
+  .btn-teal {
+    @apply btn bg-teal-600 text-white hover:bg-teal-700;
+  }
+  .btn-ghost {
+    @apply btn text-navy-700 hover:bg-navy-50;
+  }
+  .chip {
+    @apply inline-flex items-center gap-1 rounded-full border border-sand-300 bg-sand-50 px-2.5 py-0.5 text-xs font-medium text-sand-700;
+  }
+  .eyebrow {
+    @apply text-xs font-semibold uppercase tracking-[0.14em] text-teal-700;
+  }
+  .field {
+    @apply w-full rounded-lg border border-sand-300 bg-white px-3 py-2.5 text-sm text-navy-900 placeholder:text-navy-300 focus:border-teal-600;
+  }
+  .prose-legal {
+    @apply text-[15.5px] leading-7 text-navy-800;
+  }
+  .prose-legal p + p {
+    @apply mt-3;
+  }
+  mark.hl {
+    @apply rounded bg-teal-100 px-0.5 text-navy-900;
+  }
+}
+
+/* Smooth but light motion; respect reduced-motion */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+@media print {
+  header, aside, footer, .no-print {
+    display: none !important;
+  }
+}
+
+/* Nastaliq / Naskh need generous line height even where a utility sets a tight one */
+html[lang='ur'] [class*='leading-'] { line-height: 2.1 !important; }
+html[lang='sd'] [class*='leading-'] { line-height: 1.9 !important; }

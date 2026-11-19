@@ -1,0 +1,2609 @@
+{
+ "libraryVersion": "2026.1",
+ "lastReviewed": "2026-11-18",
+ "laws": [
+  {
+   "id": "constitution-1973",
+   "title": "Constitution of the Islamic Republic of Pakistan, 1973",
+   "category": "constitutional",
+   "jurisdiction": "federal",
+   "appliesTo": [
+    "federal",
+    "sindh",
+    "punjab",
+    "kpk",
+    "balochistan",
+    "ict"
+   ],
+   "summary": {
+    "en": "The supreme law of Pakistan. It sets up the State, protects fundamental rights (Part II, Chapter 1), and lets people go to the High Courts and the Supreme Court when those rights are violated.",
+    "ur": "پاکستان کا اعلیٰ ترین قانون۔ یہ ریاست کا ڈھانچہ بناتا ہے، بنیادی حقوق (حصہ دوم، باب اول) کا تحفظ کرتا ہے، اور ان حقوق کی خلاف ورزی پر ہائی کورٹ اور سپریم کورٹ سے رجوع کا حق دیتا ہے۔",
+    "sd": "پاڪستان جو اعليٰ ترين قانون. هي رياست جو ڍانچو ٺاهي ٿو، بنيادي حقن (حصو ٻيو، باب پهريون) جو تحفظ ڪري ٿو، ۽ انهن حقن جي ڀڃڪڙي تي هاءِ ڪورٽ ۽ سپريم ڪورٽ ڏانهن وڃڻ جو حق ڏئي ٿو."
+   },
+   "keywords": [
+    "constitution",
+    "fundamental rights",
+    "equality",
+    "writ",
+    "article 199",
+    "article 25",
+    "article 10",
+    "arrest",
+    "fair trial",
+    "information",
+    "education"
+   ],
+   "sections": [
+    {
+     "id": "art-9",
+     "number": "Article 9",
+     "heading": "Security of person",
+     "explanation": {
+      "en": "Nobody can be deprived of life or liberty except through a process allowed by law. The State cannot simply take away your freedom or your life on its own say-so.",
+      "ur": "کسی شخص کو قانون کے مطابق کارروائی کے بغیر زندگی یا آزادی سے محروم نہیں کیا جا سکتا۔ ریاست محض اپنی مرضی سے کسی کی آزادی یا جان نہیں چھین سکتی۔",
+      "sd": "ڪنهن به شخص کي قانون موجب ڪارروائي کانسواءِ زندگي يا آزادي کان محروم نٿو ڪري سگهجي. رياست رڳو پنهنجي مرضيءَ سان ڪنهن جي آزادي يا جان نٿي کسي سگهي."
+     },
+     "originalText": "No person shall be deprived of life or liberty save in accordance with law.",
+     "originalTextSource": "Constitution of the Islamic Republic of Pakistan, 1973 — extract; confirm against the official text",
+     "terms": [
+      {
+       "term": "liberty",
+       "meaning": {
+        "en": "Freedom of the person — for example, not being locked up without lawful authority.",
+        "ur": "فرد کی آزادی — مثلاً قانونی اختیار کے بغیر قید نہ کیا جانا۔",
+        "sd": "ماڻهوءَ جي آزادي — مثال طور قانوني اختيار کانسواءِ قيد نه ٿيڻ."
+       }
+      }
+     ],
+     "conditions": {
+      "en": "“In accordance with law” means a lawful procedure must be followed — it does not mean the right can never be limited.",
+      "ur": "“قانون کے مطابق” کا مطلب ہے کہ قانونی طریقۂ کار پر عمل لازم ہے — اس کا یہ مطلب نہیں کہ حق پر کبھی کوئی پابندی نہیں لگ سکتی۔",
+      "sd": "“قانون موجب” جو مطلب آهي ته قانوني طريقي تي عمل ضروري آهي — ان جو مطلب اهو ناهي ته حق تي ڪڏهن به پابندي نٿي لڳي سگهي."
+     }
+    },
+    {
+     "id": "art-10",
+     "number": "Article 10",
+     "heading": "Safeguards as to arrest and detention",
+     "explanation": {
+      "en": "If you are arrested, you must be told the reasons as soon as possible, and you have the right to consult and be defended by a lawyer you choose. You must be brought before a magistrate within 24 hours (not counting the travel time to court) and cannot be kept longer without the magistrate's permission. Only sub-articles (1) and (2) are bundled here; the later sub-articles deal with preventive detention and have special rules.",
+      "ur": "اگر آپ کو گرفتار کیا جائے تو جلد از جلد گرفتاری کی وجوہات بتانا لازم ہے، اور آپ کو اپنی پسند کے وکیل سے مشورہ اور دفاع کا حق ہے۔ آپ کو 24 گھنٹے کے اندر (عدالت تک سفر کا وقت چھوڑ کر) مجسٹریٹ کے سامنے پیش کرنا ضروری ہے اور مجسٹریٹ کی اجازت کے بغیر اس سے زیادہ حراست میں نہیں رکھا جا سکتا۔ یہاں صرف ذیلی شق (1) اور (2) شامل ہیں؛ بعد کی شقیں احتیاطی نظر بندی سے متعلق ہیں اور ان کے خاص قواعد ہیں۔",
+      "sd": "جيڪڏهن توهان کي گرفتار ڪيو وڃي ته جلد کان جلد گرفتاريءَ جا سبب ٻڌائڻ ضروري آهن، ۽ توهان کي پنهنجي پسند جي وڪيل سان صلاح ۽ دفاع جو حق آهي. توهان کي 24 ڪلاڪن اندر (عدالت تائين سفر جو وقت ڇڏي) مئجسٽريٽ آڏو پيش ڪرڻ ضروري آهي ۽ مئجسٽريٽ جي اجازت کانسواءِ ان کان وڌيڪ حراست ۾ رکي نٿو سگهجي. هتي رڳو ذيلي شق (1) ۽ (2) شامل آهن؛ پوءِ ايندڙ شقون احتياطي نظربنديءَ بابت آهن ۽ انهن جا خاص قاعدا آهن."
+     },
+     "originalText": "(1) No person who is arrested shall be detained in custody without being informed, as soon as may be, of the grounds for such arrest, nor shall he be denied the right to consult and be defended by a legal practitioner of his choice.\n(2) Every person who is arrested and detained in custody shall be produced before a magistrate within a period of twenty-four hours of such arrest, excluding the time necessary for the journey from the place of arrest to the court of the nearest magistrate, and no such person shall be detained in custody beyond the said period without the authority of a magistrate.",
+     "originalTextSource": "Constitution of the Islamic Republic of Pakistan, 1973 — extract; confirm against the official text (sub-articles (1) and (2) only)",
+     "terms": [
+      {
+       "term": "magistrate",
+       "meaning": {
+        "en": "A judicial officer who first reviews an arrest and decides on remand or bail.",
+        "ur": "عدالتی افسر جو گرفتاری کا ابتدائی جائزہ لے کر ریمانڈ یا ضمانت کا فیصلہ کرتا ہے۔",
+        "sd": "عدالتي آفيسر جيڪو گرفتاريءَ جو پهريون جائزو وٺي ريمانڊ يا ضمانت جو فيصلو ڪري ٿو."
+       }
+      },
+      {
+       "term": "legal practitioner",
+       "meaning": {
+        "en": "A lawyer / advocate.",
+        "ur": "وکیل۔",
+        "sd": "وڪيل."
+       }
+      }
+     ],
+     "conditions": {
+      "en": "Sub-articles (3)–(8) set out different rules for preventive detention and for certain categories of persons. Read the full Article.",
+      "ur": "ذیلی شق (3) تا (8) میں احتیاطی نظر بندی اور بعض اقسام کے افراد کے لیے مختلف قواعد ہیں۔ پورا آرٹیکل پڑھیں۔",
+      "sd": "ذيلي شق (3) کان (8) تائين احتياطي نظربنديءَ ۽ ڪجهه قسمن جي ماڻهن لاءِ مختلف قاعدا آهن. پورو آرٽيڪل پڙهو."
+     },
+     "glossary": [
+      "arrest",
+      "remand",
+      "bail"
+     ]
+    },
+    {
+     "id": "art-10a",
+     "number": "Article 10A",
+     "heading": "Right to fair trial",
+     "explanation": {
+      "en": "In deciding your civil rights and obligations, or any criminal charge against you, you are entitled to a fair trial and due process — for example, to be heard before a decision is made against you.",
+      "ur": "آپ کے دیوانی حقوق و ذمہ داریوں کے تعین یا آپ پر کسی فوجداری الزام کے فیصلے میں آپ کو منصفانہ سماعت اور قانونی عمل کا حق حاصل ہے — مثلاً آپ کے خلاف فیصلے سے پہلے آپ کی بات سنی جائے۔",
+      "sd": "توهان جي ديواني حقن ۽ ذميدارين جي تعين يا توهان تي ڪنهن فوجداري الزام جي فيصلي ۾ توهان کي منصفانه ٻڌڻي ۽ قانوني عمل جو حق آهي — مثال طور توهان خلاف فيصلي کان اڳ توهان جي ڳالهه ٻڌي وڃي."
+     },
+     "originalText": "For the determination of his civil rights and obligations or in any criminal charge against him a person shall be entitled to a fair trial and due process.",
+     "originalTextSource": "Constitution of the Islamic Republic of Pakistan, 1973 — extract; confirm against the official text",
+     "terms": [
+      {
+       "term": "due process",
+       "meaning": {
+        "en": "Following fair and lawful procedure before a person's rights are affected.",
+        "ur": "کسی کے حقوق متاثر ہونے سے پہلے منصفانہ اور قانونی طریقۂ کار پر عمل۔",
+        "sd": "ڪنهن جي حقن تي اثر پوڻ کان اڳ منصفانه ۽ قانوني طريقي تي عمل."
+       }
+      }
+     ]
+    },
+    {
+     "id": "art-14",
+     "number": "Article 14",
+     "heading": "Inviolability of dignity of man, etc.",
+     "explanation": {
+      "en": "A person's dignity is protected, and so, subject to law, is the privacy of the home. Nobody may be tortured to extract evidence.",
+      "ur": "انسان کے وقار کا تحفظ ہے، اور قانون کے تابع گھر کی رازداری بھی محفوظ ہے۔ شواہد حاصل کرنے کے لیے کسی پر تشدد نہیں کیا جا سکتا۔",
+      "sd": "انسان جي وقار جو تحفظ آهي، ۽ قانون جي تابع گهر جي رازداري به محفوظ آهي. ثبوت حاصل ڪرڻ لاءِ ڪنهن تي تشدد نٿو ڪري سگهجي."
+     },
+     "originalText": "(1) The dignity of man and, subject to law, the privacy of home, shall be inviolable.\n(2) No person shall be subjected to torture for the purpose of extracting evidence.",
+     "originalTextSource": "Constitution of the Islamic Republic of Pakistan, 1973 — extract; confirm against the official text"
+    },
+    {
+     "id": "art-19a",
+     "number": "Article 19A",
+     "heading": "Right to information",
+     "explanation": {
+      "en": "Every citizen has a right of access to information in all matters of public importance, subject to reasonable restrictions imposed by law. Laws such as the Right of Access to Information Act, 2017 explain how to ask.",
+      "ur": "ہر شہری کو عوامی اہمیت کے تمام معاملات میں معلومات تک رسائی کا حق ہے، البتہ قانون کی عائد کردہ معقول پابندیاں لاگو ہوتی ہیں۔ معلومات مانگنے کا طریقہ حقِ رسائی برائے معلومات ایکٹ 2017 جیسے قوانین میں بیان ہے۔",
+      "sd": "هر شهريءَ کي عوامي اهميت جي سڀني معاملن ۾ ڄاڻ تائين رسائيءَ جو حق آهي، پر قانون موجب معقول پابنديون لاڳو ٿين ٿيون. ڄاڻ گهرڻ جو طريقو رائيٽ آف ايڪسيس ٽو انفارميشن ايڪٽ 2017 جهڙن قانونن ۾ ڏنل آهي."
+     },
+     "originalText": "Every citizen shall have the right to have access to information in all matters of public importance subject to regulation and reasonable restrictions imposed by law.",
+     "originalTextSource": "Constitution of the Islamic Republic of Pakistan, 1973 — extract; confirm against the official text",
+     "glossary": [
+      "right-to-information"
+     ]
+    },
+    {
+     "id": "art-25",
+     "number": "Article 25",
+     "heading": "Equality of citizens",
+     "explanation": {
+      "en": "Every citizen is equal before the law and has the right to equal protection of the law. The law cannot discriminate on the basis of sex alone, but the State may make special provisions to protect women and children.",
+      "ur": "تمام شہری قانون کی نظر میں برابر ہیں اور قانون کے مساوی تحفظ کے حق دار ہیں۔ محض جنس کی بنیاد پر امتیاز نہیں کیا جا سکتا، البتہ ریاست خواتین اور بچوں کے تحفظ کے لیے خصوصی انتظامات کر سکتی ہے۔",
+      "sd": "سڀ شهري قانون آڏو برابر آهن ۽ قانون جي برابر تحفظ جا حقدار آهن. رڳو جنس جي بنياد تي تفريق نٿي ٿي سگهي، پر رياست عورتن ۽ ٻارن جي تحفظ لاءِ خاص بندوبست ڪري سگهي ٿي."
+     },
+     "originalText": "(1) All citizens are equal before law and are entitled to equal protection of law.\n(2) There shall be no discrimination on the basis of sex alone.\n(3) Nothing in this Article shall prevent the State from making any special provision for the protection of women and children.",
+     "originalTextSource": "Constitution of the Islamic Republic of Pakistan, 1973 — extract; confirm against the official text",
+     "terms": [
+      {
+       "term": "discrimination",
+       "meaning": {
+        "en": "Treating people unfairly because of a group they belong to.",
+        "ur": "کسی گروہ سے تعلق کی بنا پر لوگوں سے ناروا سلوک۔",
+        "sd": "ڪنهن گروهه سان تعلق جي بنياد تي ماڻهن سان ناجائز سلوڪ."
+       }
+      }
+     ],
+     "conditions": {
+      "en": "Special protection for women and children (clause 3) is allowed and is not treated as prohibited discrimination.",
+      "ur": "خواتین اور بچوں کے لیے خصوصی تحفظ (شق 3) جائز ہے اور ممنوعہ امتیاز شمار نہیں ہوتا۔",
+      "sd": "عورتن ۽ ٻارن لاءِ خاص تحفظ (شق 3) جائز آهي ۽ منع ٿيل تفريق نه سمجهيو ويندو آهي."
+     },
+     "glossary": [
+      "equality-before-law"
+     ]
+    },
+    {
+     "id": "art-25a",
+     "number": "Article 25A",
+     "heading": "Right to education",
+     "explanation": {
+      "en": "The State must provide free and compulsory education to children aged five to sixteen, in the way the law decides.",
+      "ur": "ریاست پانچ سے سولہ سال کے بچوں کو مفت اور لازمی تعلیم فراہم کرے گی، اس طریقے سے جو قانون طے کرے۔",
+      "sd": "رياست پنجن کان سورهن سالن جي ٻارن کي مفت ۽ لازمي تعليم ڏيندي، ان طريقي سان جيڪو قانون مقرر ڪري."
+     },
+     "originalText": "The State shall provide free and compulsory education to all children of the age of five to sixteen years in such manner as may be determined by law.",
+     "originalTextSource": "Constitution of the Islamic Republic of Pakistan, 1973 — extract; confirm against the official text"
+    },
+    {
+     "id": "art-184-3",
+     "number": "Article 184(3)",
+     "heading": "Original jurisdiction of the Supreme Court (fundamental rights)",
+     "explanation": {
+      "en": "The Supreme Court can directly hear a matter of public importance that involves enforcing fundamental rights. This is the source of what is often called suo motu or public-interest jurisdiction. Read the exact wording and conditions on the official source.",
+      "ur": "سپریم کورٹ عوامی اہمیت کے ایسے معاملے کو براہِ راست سن سکتی ہے جس میں بنیادی حقوق کا نفاذ شامل ہو۔ اسی سے عموماً “ازخود نوٹس” یا مفادِ عامہ کا دائرۂ سماعت مراد لیا جاتا ہے۔ درست الفاظ اور شرائط سرکاری ماخذ پر پڑھیں۔",
+      "sd": "سپريم ڪورٽ عوامي اهميت جي اهڙي معاملي کي سڌو ٻڌي سگهي ٿي جنهن ۾ بنيادي حقن جو نفاذ شامل هجي. ان کي عام طور “ازخود نوٽيس” يا عوامي مفاد وارو دائرو اختيار چيو وڃي ٿو. صحيح لفظ ۽ شرطون سرڪاري ماخذ تي پڙهو."
+     }
+    },
+    {
+     "id": "art-199",
+     "number": "Article 199",
+     "heading": "Jurisdiction of High Court (writs)",
+     "explanation": {
+      "en": "A High Court can issue orders called writs (for example habeas corpus to release a person held unlawfully, or mandamus to direct an official to do a legal duty) when there is no other adequate remedy and a government authority has acted without lawful authority. This is the usual route for “constitutional petitions”. Read the full Article for its conditions.",
+      "ur": "ہائی کورٹ رٹ کہلانے والے احکامات جاری کر سکتی ہے (مثلاً غیر قانونی حراست میں موجود شخص کی رہائی کے لیے حبسِ بے جا، یا سرکاری افسر کو قانونی فرض ادا کرنے کا حکم دینے کے لیے مینڈیمس)، بشرطیکہ کوئی اور مؤثر چارہ جوئی موجود نہ ہو اور کسی سرکاری ادارے نے بغیر قانونی اختیار کے کام کیا ہو۔ یہی “آئینی پٹیشن” کا عام راستہ ہے۔ شرائط کے لیے پورا آرٹیکل پڑھیں۔",
+      "sd": "هاءِ ڪورٽ رٽ چوندڙ حڪم جاري ڪري سگهي ٿي (مثال طور غير قانوني حراست ۾ رکيل شخص جي آزاديءَ لاءِ هيبيس ڪارپس، يا سرڪاري آفيسر کي قانوني فرض ادا ڪرڻ جو حڪم ڏيڻ لاءِ مينڊيمس)، بشرطيڪه ٻيو ڪو مؤثر چارو موجود نه هجي ۽ ڪنهن سرڪاري اداري قانوني اختيار کانسواءِ ڪم ڪيو هجي. “آئيني پٽيشن” جو عام رستو اهو ئي آهي. شرطن لاءِ پورو آرٽيڪل پڙهو."
+     },
+     "terms": [
+      {
+       "term": "writ",
+       "meaning": {
+        "en": "A written court order directing a person or authority to act or stop acting.",
+        "ur": "عدالت کا تحریری حکم جو کسی شخص یا ادارے کو کام کرنے یا رکنے کا پابند کرے۔",
+        "sd": "عدالت جو لکت وارو حڪم جيڪو ڪنهن شخص يا اداري کي ڪم ڪرڻ يا رڪجڻ جو پابند ڪري."
+       }
+      },
+      {
+       "term": "habeas corpus",
+       "meaning": {
+        "en": "A writ requiring a detained person to be produced before the court so the legality of detention can be examined.",
+        "ur": "ایسا رٹ جس کے تحت زیرِ حراست شخص کو عدالت میں پیش کیا جاتا ہے تاکہ حراست کی قانونی حیثیت جانچی جائے۔",
+        "sd": "اهڙو رٽ جنهن تحت نظربند شخص کي عدالت ۾ پيش ڪيو وڃي ٿو ته حراست جي قانونيت جانچي وڃي."
+       }
+      }
+     ],
+     "glossary": [
+      "writ",
+      "habeas-corpus"
+     ]
+    }
+   ],
+   "sourceUrl": "https://pakistancode.gov.pk/",
+   "sourceName": "Pakistan Code (Government of Pakistan)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "abbreviation": "Constitution",
+   "year": 1973,
+   "applicabilityNote": {
+    "en": "Federal law. It is understood to apply across the provinces and Islamabad; whether and how it applies in Gilgit-Baltistan and Azad Jammu & Kashmir must be checked separately.",
+    "ur": "وفاقی قانون۔ اسے صوبوں اور اسلام آباد میں لاگو سمجھا جاتا ہے؛ گلگت بلتستان اور آزاد جموں و کشمیر میں اس کا اطلاق اور طریقۂ اطلاق الگ سے دیکھنا ضروری ہے۔",
+    "sd": "وفاقي قانون. اهو صوبن ۽ اسلام آباد ۾ لاڳو سمجهيو وڃي ٿو؛ گلگت-بلتستان ۽ آزاد جمون ۽ ڪشمير ۾ ان جو لاڳو ٿيڻ ۽ طريقو الڳ چيڪ ڪرڻ گهرجي."
+   },
+   "featured": true,
+   "relatedLaws": [
+    "crpc-1898",
+    "rti-federal-2017",
+    "legal-aid-justice-authority-2020"
+   ],
+   "version": "Amended many times. Check the official consolidated text for the current version."
+  },
+  {
+   "id": "ppc-1860",
+   "title": "Pakistan Penal Code, 1860",
+   "category": "criminal",
+   "jurisdiction": "federal",
+   "appliesTo": [
+    "federal",
+    "sindh",
+    "punjab",
+    "kpk",
+    "balochistan",
+    "ict"
+   ],
+   "summary": {
+    "en": "The main criminal code. It defines offences such as theft, cheating, criminal intimidation and offences against the body, and sets out punishments. Procedure (how cases are registered and tried) is in the Code of Criminal Procedure.",
+    "ur": "بنیادی فوجداری ضابطہ۔ یہ چوری، دھوکا دہی، مجرمانہ دھمکی اور جسم کے خلاف جرائم جیسے جرائم کی تعریف اور سزائیں بیان کرتا ہے۔ مقدمہ درج اور چلانے کا طریقہ ضابطۂ فوجداری میں ہے۔",
+    "sd": "بنيادي فوجداري ڪوڊ. هي چوري، ٺڳي، مجرمانه ڌمڪي ۽ جسم خلاف ڏوهن جهڙن ڏوهن جي وصف ۽ سزائون ٻڌائي ٿو. ڪيس داخل ڪرڻ ۽ هلائڻ جو طريقو فوجداري ضابطي ۾ آهي."
+   },
+   "keywords": [
+    "penal code",
+    "ppc",
+    "theft",
+    "cheating",
+    "fraud",
+    "murder",
+    "qatl",
+    "threat",
+    "intimidation",
+    "offence",
+    "punishment",
+    "criminal"
+   ],
+   "sections": [
+    {
+     "id": "ppc-34",
+     "number": "Section 34",
+     "heading": "Acts done by several persons in furtherance of common intention",
+     "explanation": {
+      "en": "When a criminal act is done by several people sharing a common intention, each of them can be held responsible as if he had done it alone.",
+      "ur": "جب کئی افراد مشترکہ نیت کے ساتھ کوئی مجرمانہ فعل کریں تو ان میں سے ہر ایک کو یوں ذمہ دار ٹھہرایا جا سکتا ہے گویا اس نے وہ فعل اکیلے کیا ہو۔",
+      "sd": "جڏهن ڪيترائي ماڻهو گڏيل نيت سان ڪو مجرمانه عمل ڪن ته انهن مان هر هڪ کي ائين ذميوار قرار ڏئي سگهجي ٿو ڄڻ ان اهو اڪيلي ڪيو هجي."
+     },
+     "terms": [
+      {
+       "term": "common intention",
+       "meaning": {
+        "en": "A shared plan or purpose among several people to do an act.",
+        "ur": "کئی افراد کا کسی فعل کے لیے مشترکہ منصوبہ یا مقصد۔",
+        "sd": "ڪيترن ماڻهن جو ڪنهن عمل لاءِ گڏيل منصوبو يا مقصد."
+       }
+      }
+     ]
+    },
+    {
+     "id": "ppc-302",
+     "number": "Section 302",
+     "heading": "Punishment of qatl-i-amd",
+     "explanation": {
+      "en": "Deals with the punishment for intentional murder (qatl-i-amd). The consequences depend on the type of case (for example qisas or tazir) and on later amendments, so read the current text with a lawyer's help.",
+      "ur": "قتلِ عمد کی سزا سے متعلق ہے۔ نتائج مقدمے کی نوعیت (مثلاً قصاص یا تعزیر) اور بعد کی ترامیم پر منحصر ہیں، اس لیے موجودہ متن وکیل کی مدد سے پڑھیں۔",
+      "sd": "قتلِ عمد جي سزا بابت آهي. نتيجا ڪيس جي قسم (مثال طور قصاص يا تعزير) ۽ پوءِ جي ترميمن تي منحصر آهن، تنهن ڪري موجوده متن وڪيل جي مدد سان پڙهو."
+     },
+     "terms": [
+      {
+       "term": "qisas",
+       "meaning": {
+        "en": "Retaliation-based justice in cases of intentional harm.",
+        "ur": "جان بوجھ کر نقصان کے مقدمات میں بدلے پر مبنی انصاف۔",
+        "sd": "ارادي نقصان جي ڪيسن ۾ بدلي تي ٻڌل انصاف."
+       }
+      },
+      {
+       "term": "tazir",
+       "meaning": {
+        "en": "Discretionary punishment decided by the court under the law.",
+        "ur": "قانون کے تحت عدالت کی صوابدید پر دی جانے والی سزا۔",
+        "sd": "قانون تحت عدالت جي صوابديد تي ڏنل سزا."
+       }
+      }
+     ]
+    },
+    {
+     "id": "ppc-379",
+     "number": "Section 379",
+     "heading": "Punishment for theft",
+     "explanation": {
+      "en": "Theft means dishonestly taking movable property out of someone's possession without consent. This section sets the punishment (imprisonment, fine, or both). Check the current text for the exact limits.",
+      "ur": "چوری کا مطلب کسی کے قبضے سے منقولہ مال اس کی رضامندی کے بغیر بدنیتی سے لے لینا ہے۔ یہ دفعہ سزا (قید، جرمانہ یا دونوں) مقرر کرتی ہے۔ درست حدود کے لیے موجودہ متن دیکھیں۔",
+      "sd": "چوري جو مطلب ڪنهن جي قبضي مان منقول مال سندس رضامندي کانسواءِ بدنيتيءَ سان کڻڻ آهي. هي دفعو سزا (قيد، ڏنڊ يا ٻئي) مقرر ڪري ٿو. صحيح حدن لاءِ موجوده متن ڏسو."
+     }
+    },
+    {
+     "id": "ppc-420",
+     "number": "Section 420",
+     "heading": "Cheating and dishonestly inducing delivery of property",
+     "explanation": {
+      "en": "Applies when a person cheats someone and thereby dishonestly makes them hand over property or sign a valuable document. It is commonly invoked in fraud and false-promise cases.",
+      "ur": "اس وقت لاگو ہوتی ہے جب کوئی شخص دھوکا دے کر کسی کو بدنیتی سے مال حوالے کرنے یا قیمتی دستاویز پر دستخط کرنے پر آمادہ کرے۔ عموماً فراڈ اور جھوٹے وعدے کے مقدمات میں استعمال ہوتی ہے۔",
+      "sd": "ان وقت لاڳو ٿئي ٿو جڏهن ڪو شخص ٺڳي ڏئي ڪنهن کي بدنيتيءَ سان مال حوالي ڪرڻ يا قيمتي دستاويز تي صحيح ڪرڻ تي آماده ڪري. عام طور فراڊ ۽ ڪوڙي واعدي جي ڪيسن ۾ استعمال ٿئي ٿو."
+     },
+     "glossary": [
+      "cheating"
+     ]
+    },
+    {
+     "id": "ppc-506",
+     "number": "Section 506",
+     "heading": "Punishment for criminal intimidation",
+     "explanation": {
+      "en": "Threatening someone with injury to their person, reputation or property (or that of someone they care about) to alarm them or make them do or not do something is criminal intimidation. More serious threats carry higher punishment.",
+      "ur": "کسی کو اس کی جان، ساکھ یا مال (یا اس کے عزیز کی) کو نقصان پہنچانے کی دھمکی دے کر ڈرانا یا کوئی کام کرنے یا نہ کرنے پر مجبور کرنا مجرمانہ دھمکی ہے۔ زیادہ سنگین دھمکیوں پر سزا زیادہ ہے۔",
+      "sd": "ڪنهن کي سندس جان، ساک يا ملڪيت (يا سندس پيارن) کي نقصان پهچائڻ جي ڌمڪي ڏئي ڊيڄارڻ يا ڪو ڪم ڪرڻ يا نه ڪرڻ تي مجبور ڪرڻ مجرمانه ڌمڪي آهي. وڌيڪ سنگين ڌمڪين تي سزا وڌيڪ آهي."
+     }
+    },
+    {
+     "id": "ppc-509",
+     "number": "Section 509",
+     "heading": "Word, gesture or act intended to insult the modesty of a woman",
+     "explanation": {
+      "en": "Addresses words, sounds, gestures or objects intended to insult the modesty of a woman or invade her privacy. Harassment in digital spaces may also fall under the Prevention of Electronic Crimes Act, 2016.",
+      "ur": "عورت کی عزت و حیا کی توہین یا اس کی نجی زندگی میں مداخلت کے ارادے سے کہے گئے الفاظ، آوازوں، اشاروں یا اشیا سے متعلق ہے۔ ڈیجیٹل جگہوں پر ہراسانی الیکٹرانک جرائم کی روک تھام کے ایکٹ 2016 کے تحت بھی آ سکتی ہے۔",
+      "sd": "عورت جي عزت ۽ حيا جي توهين يا سندس خانگي زندگيءَ ۾ مداخلت جي ارادي سان چيل لفظن، آوازن، اشارن يا شين بابت آهي. ڊجيٽل جڳهن تي تنگ ڪرڻ پريوينشن آف اليڪٽرانڪ ڪرائمز ايڪٽ 2016 تحت به اچي سگهي ٿو."
+     },
+     "glossary": [
+      "harassment"
+     ]
+    }
+   ],
+   "sourceUrl": "https://pakistancode.gov.pk/",
+   "sourceName": "Pakistan Code (Government of Pakistan)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "abbreviation": "PPC",
+   "year": 1860,
+   "applicabilityNote": {
+    "en": "Federal law. It is understood to apply across the provinces and Islamabad; whether and how it applies in Gilgit-Baltistan and Azad Jammu & Kashmir must be checked separately.",
+    "ur": "وفاقی قانون۔ اسے صوبوں اور اسلام آباد میں لاگو سمجھا جاتا ہے؛ گلگت بلتستان اور آزاد جموں و کشمیر میں اس کا اطلاق اور طریقۂ اطلاق الگ سے دیکھنا ضروری ہے۔",
+    "sd": "وفاقي قانون. اهو صوبن ۽ اسلام آباد ۾ لاڳو سمجهيو وڃي ٿو؛ گلگت-بلتستان ۽ آزاد جمون ۽ ڪشمير ۾ ان جو لاڳو ٿيڻ ۽ طريقو الڳ چيڪ ڪرڻ گهرجي."
+   },
+   "featured": true,
+   "relatedLaws": [
+    "crpc-1898",
+    "qanun-e-shahadat-1984",
+    "peca-2016"
+   ],
+   "version": "Amended many times (including the Qisas and Diyat provisions). Check the official consolidated text."
+  },
+  {
+   "id": "crpc-1898",
+   "title": "Code of Criminal Procedure, 1898",
+   "category": "criminal",
+   "jurisdiction": "federal",
+   "appliesTo": [
+    "federal",
+    "sindh",
+    "punjab",
+    "kpk",
+    "balochistan",
+    "ict"
+   ],
+   "summary": {
+    "en": "The procedural law for criminal cases: how a crime is reported (FIR), investigated, how arrests, remand and bail work, and how trials and appeals proceed. Several amendments and related laws apply, so always check the current consolidated text.",
+    "ur": "فوجداری مقدمات کا طریقۂ کار: جرم کی اطلاع (ایف آئی آر)، تفتیش، گرفتاری، ریمانڈ اور ضمانت، اور مقدمے اور اپیل کا عمل۔ کئی ترامیم اور متعلقہ قوانین لاگو ہوتے ہیں، اس لیے ہمیشہ موجودہ مرتب شدہ متن دیکھیں۔",
+    "sd": "فوجداري ڪيسن جو طريقو: ڏوهه جي اطلاع (ايف آءِ آر)، تفتيش، گرفتاري، ريمانڊ ۽ ضمانت، ۽ ٻڌڻي ۽ اپيل جو عمل. ڪيتريون ترميمون ۽ لاڳاپيل قانون لاڳو ٿين ٿا، تنهن ڪري هميشه موجوده گڏيل متن ڏسو."
+   },
+   "keywords": [
+    "crpc",
+    "criminal procedure",
+    "fir",
+    "first information report",
+    "arrest",
+    "bail",
+    "remand",
+    "investigation",
+    "challan",
+    "police",
+    "magistrate",
+    "cognizable",
+    "justice of the peace"
+   ],
+   "sections": [
+    {
+     "id": "crpc-22a",
+     "number": "Section 22-A",
+     "heading": "Powers of Justice of the Peace",
+     "explanation": {
+      "en": "If the police refuse to register your complaint, one commonly used remedy is to apply to the Justice of the Peace (usually a Sessions Judge acting in that role), who can examine the matter and issue directions. Read the current text and case law with a lawyer.",
+      "ur": "اگر پولیس آپ کی شکایت درج کرنے سے انکار کرے تو ایک عام طور پر استعمال ہونے والا حل جسٹس آف دی پیس (عموماً سیشن جج اس حیثیت میں) سے رجوع ہے جو معاملہ دیکھ کر ہدایات جاری کر سکتا ہے۔ موجودہ متن اور عدالتی نظائر وکیل کے ساتھ پڑھیں۔",
+      "sd": "جيڪڏهن پوليس توهان جي شڪايت داخل ڪرڻ کان انڪار ڪري ته هڪ عام استعمال ٿيندڙ حل جسٽس آف دي پيس (عام طور سيشن جج ان حيثيت ۾) ڏانهن وڃڻ آهي جيڪو معاملو ڏسي هدايتون ڏئي سگهي ٿو. موجوده متن ۽ عدالتي نظيرن وڪيل سان پڙهو."
+     },
+     "glossary": [
+      "fir"
+     ]
+    },
+    {
+     "id": "crpc-61",
+     "number": "Section 61",
+     "heading": "Person arrested not to be detained more than twenty-four hours",
+     "explanation": {
+      "en": "A police officer cannot keep an arrested person in custody for more than 24 hours (excluding travel time to court) without a magistrate's order. It works together with Article 10 of the Constitution.",
+      "ur": "پولیس افسر گرفتار شخص کو مجسٹریٹ کے حکم کے بغیر 24 گھنٹے (عدالت تک سفر کا وقت چھوڑ کر) سے زیادہ حراست میں نہیں رکھ سکتا۔ یہ آئین کے آرٹیکل 10 کے ساتھ مل کر کام کرتی ہے۔",
+      "sd": "پوليس آفيسر گرفتار ٿيل شخص کي مئجسٽريٽ جي حڪم کانسواءِ 24 ڪلاڪن (عدالت تائين سفر جو وقت ڇڏي) کان وڌيڪ حراست ۾ رکي نٿو سگهي. هي آئين جي آرٽيڪل 10 سان گڏجي ڪم ڪري ٿو."
+     },
+     "glossary": [
+      "arrest",
+      "remand"
+     ]
+    },
+    {
+     "id": "crpc-154",
+     "number": "Section 154",
+     "heading": "Information in cognizable cases",
+     "explanation": {
+      "en": "This is the section on the First Information Report (FIR). When someone gives information to the police about a cognizable offence (a serious offence where police can act without a warrant), the police must record it and the informant should be given a copy. The FIR starts the investigation.",
+      "ur": "یہ فرسٹ انفارمیشن رپورٹ (ایف آئی آر) سے متعلق دفعہ ہے۔ جب کوئی شخص پولیس کو قابلِ دست اندازیٔ پولیس جرم کی اطلاع دے (سنگین جرم جس میں پولیس وارنٹ کے بغیر کارروائی کر سکتی ہے) تو پولیس کو اسے درج کرنا ہوتا ہے اور اطلاع دہندہ کو نقل ملنی چاہیے۔ ایف آئی آر سے تفتیش شروع ہوتی ہے۔",
+      "sd": "هي فرسٽ انفارميشن رپورٽ (ايف آءِ آر) بابت دفعو آهي. جڏهن ڪو شخص پوليس کي قابلِ دست اندازيءَ پوليس ڏوهه جي اطلاع ڏئي (سنگين ڏوهه جنهن ۾ پوليس وارنٽ کانسواءِ ڪارروائي ڪري سگهي ٿي) ته پوليس کي اهو درج ڪرڻو پوي ٿو ۽ اطلاع ڏيندڙ کي ان جي ڪاپي ملڻ گهرجي. ايف آءِ آر سان تفتيش شروع ٿئي ٿي."
+     },
+     "terms": [
+      {
+       "term": "cognizable offence",
+       "meaning": {
+        "en": "A serious offence for which police may arrest and investigate without a court's prior permission.",
+        "ur": "سنگین جرم جس میں پولیس عدالت کی پیشگی اجازت کے بغیر گرفتار اور تفتیش کر سکتی ہے۔",
+        "sd": "سنگين ڏوهه جنهن ۾ پوليس عدالت جي اڳواٽ اجازت کانسواءِ گرفتار ۽ تفتيش ڪري سگهي ٿي."
+       }
+      }
+     ],
+     "conditions": {
+      "en": "Non-cognizable matters are handled differently (usually with a magistrate's permission). A false FIR can itself be an offence.",
+      "ur": "ناقابلِ دست اندازی معاملات مختلف طریقے سے نمٹائے جاتے ہیں (عموماً مجسٹریٹ کی اجازت سے)۔ جھوٹی ایف آئی آر بذاتِ خود جرم ہو سکتی ہے۔",
+      "sd": "ناقابلِ دست اندازيءَ معاملا مختلف طريقي سان نبيريا وڃن ٿا (عام طور مئجسٽريٽ جي اجازت سان). ڪوڙي ايف آءِ آر پاڻ به ڏوهه ٿي سگهي ٿي."
+     },
+     "glossary": [
+      "fir",
+      "cognizable-offence"
+     ]
+    },
+    {
+     "id": "crpc-167",
+     "number": "Section 167",
+     "heading": "Procedure when investigation cannot be completed in twenty-four hours",
+     "explanation": {
+      "en": "If the investigation cannot be finished within 24 hours, the police present the accused before a magistrate, who may allow physical remand (police custody) for a limited period or send the accused to judicial custody.",
+      "ur": "اگر تفتیش 24 گھنٹے میں مکمل نہ ہو سکے تو پولیس ملزم کو مجسٹریٹ کے سامنے پیش کرتی ہے جو محدود مدت کے لیے جسمانی ریمانڈ (پولیس کی تحویل) دے سکتا ہے یا ملزم کو عدالتی تحویل میں بھیج سکتا ہے۔",
+      "sd": "جيڪڏهن تفتيش 24 ڪلاڪن ۾ پوري نه ٿي سگهي ته پوليس ملزم کي مئجسٽريٽ آڏو پيش ڪري ٿي جيڪو محدود مدت لاءِ جسماني ريمانڊ (پوليس جي حوالگي) ڏئي سگهي ٿو يا ملزم کي عدالتي حراست ۾ موڪلي سگهي ٿو."
+     },
+     "glossary": [
+      "remand"
+     ]
+    },
+    {
+     "id": "crpc-173",
+     "number": "Section 173",
+     "heading": "Report of police officer on completion of investigation",
+     "explanation": {
+      "en": "When the investigation ends, the police submit a report (commonly called the challan) to the court stating whether they found enough evidence to send the accused for trial.",
+      "ur": "تفتیش مکمل ہونے پر پولیس عدالت کو رپورٹ (عام طور پر چالان) پیش کرتی ہے جس میں بتایا جاتا ہے کہ ملزم کو مقدمے کے لیے بھیجنے کے لیے کافی شواہد ملے یا نہیں۔",
+      "sd": "تفتيش مڪمل ٿيڻ تي پوليس عدالت کي رپورٽ (عام طور چالان) پيش ڪري ٿي جنهن ۾ ٻڌايو وڃي ٿو ته ملزم کي ٻڌڻيءَ لاءِ موڪلڻ جا ڪافي ثبوت مليا يا نه."
+     }
+    },
+    {
+     "id": "crpc-496",
+     "number": "Section 496",
+     "heading": "In what cases bail to be taken",
+     "explanation": {
+      "en": "When a person is accused of a bailable offence, they can get bail as a matter of right. The police or the court must release them if they are ready to give bail.",
+      "ur": "جب کسی پر قابلِ ضمانت جرم کا الزام ہو تو اسے ضمانت حق کے طور پر مل سکتی ہے۔ اگر وہ ضمانت دینے کو تیار ہو تو پولیس یا عدالت کو اسے رہا کرنا ہوتا ہے۔",
+      "sd": "جڏهن ڪنهن تي قابلِ ضمانت ڏوهه جو الزام هجي ته کيس ضمانت حق طور ملي سگهي ٿي. جيڪڏهن هو ضمانت ڏيڻ لاءِ تيار هجي ته پوليس يا عدالت کي کيس آزاد ڪرڻو پوندو."
+     },
+     "terms": [
+      {
+       "term": "bailable offence",
+       "meaning": {
+        "en": "A less serious offence where bail is a right.",
+        "ur": "کم سنگین جرم جس میں ضمانت حق ہے۔",
+        "sd": "گهٽ سنگين ڏوهه جنهن ۾ ضمانت حق آهي."
+       }
+      }
+     ],
+     "glossary": [
+      "bail"
+     ]
+    },
+    {
+     "id": "crpc-497",
+     "number": "Section 497",
+     "heading": "When bail may be taken in case of non-bailable offence",
+     "explanation": {
+      "en": "For serious (non-bailable) offences, bail is not a right: the court decides on the facts, looking at whether there are reasonable grounds to believe the accused committed the offence and other factors. Courts treat cases involving women, minors and the sick or infirm with special consideration.",
+      "ur": "سنگین (ناقابلِ ضمانت) جرائم میں ضمانت حق نہیں: عدالت حقائق دیکھ کر فیصلہ کرتی ہے، اور یہ جانچتی ہے کہ کیا یہ یقین کرنے کے معقول اسباب ہیں کہ ملزم نے جرم کیا۔ خواتین، نابالغوں اور بیمار یا کمزور افراد کے مقدمات میں عدالتیں خصوصی رعایت پر غور کرتی ہیں۔",
+      "sd": "سنگين (ناقابلِ ضمانت) ڏوهن ۾ ضمانت حق ناهي: عدالت حقيقتن کي ڏسي فيصلو ڪري ٿي، ۽ جانچي ٿي ته ڇا اهو يقين ڪرڻ جا معقول سبب آهن ته ملزم ڏوهه ڪيو. عورتن، نابالغن ۽ بيمار يا ڪمزور ماڻهن جي ڪيسن ۾ عدالتون خاص رعايت تي غور ڪن ٿيون."
+     },
+     "terms": [
+      {
+       "term": "non-bailable offence",
+       "meaning": {
+        "en": "A serious offence where bail is decided by the court's discretion, not as a right.",
+        "ur": "سنگین جرم جس میں ضمانت عدالت کی صوابدید پر ہوتی ہے، حق کے طور پر نہیں۔",
+        "sd": "سنگين ڏوهه جنهن ۾ ضمانت عدالت جي صوابديد تي ٿئي ٿي، حق طور نه."
+       }
+      }
+     ],
+     "glossary": [
+      "bail"
+     ]
+    },
+    {
+     "id": "crpc-498",
+     "number": "Section 498",
+     "heading": "Power to direct admission to bail or reduction of bail",
+     "explanation": {
+      "en": "Gives the High Court and the Court of Session power to grant bail, including the commonly used “pre-arrest bail” (protective bail before arrest) where the court is satisfied that the case calls for it, and to reduce bail amounts. Read the current text and case law with a lawyer.",
+      "ur": "ہائی کورٹ اور سیشن کورٹ کو ضمانت دینے کا اختیار دیتی ہے، جس میں عام طور پر استعمال ہونے والی “ضمانتِ قبل از گرفتاری” (گرفتاری سے پہلے حفاظتی ضمانت) اور ضمانتی رقم میں کمی شامل ہے۔ موجودہ متن اور عدالتی نظائر وکیل کے ساتھ پڑھیں۔",
+      "sd": "هاءِ ڪورٽ ۽ سيشن ڪورٽ کي ضمانت ڏيڻ جو اختيار ڏئي ٿو، جنهن ۾ عام استعمال ٿيندڙ “گرفتاريءَ کان اڳ ضمانت” (حفاظتي ضمانت) ۽ ضمانت جي رقم گهٽائڻ شامل آهن. موجوده متن ۽ عدالتي نظيرون وڪيل سان پڙهو."
+     },
+     "glossary": [
+      "bail"
+     ]
+    }
+   ],
+   "sourceUrl": "https://pakistancode.gov.pk/",
+   "sourceName": "Pakistan Code (Government of Pakistan)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "abbreviation": "CrPC",
+   "year": 1898,
+   "applicabilityNote": {
+    "en": "Federal law. It is understood to apply across the provinces and Islamabad; whether and how it applies in Gilgit-Baltistan and Azad Jammu & Kashmir must be checked separately.",
+    "ur": "وفاقی قانون۔ اسے صوبوں اور اسلام آباد میں لاگو سمجھا جاتا ہے؛ گلگت بلتستان اور آزاد جموں و کشمیر میں اس کا اطلاق اور طریقۂ اطلاق الگ سے دیکھنا ضروری ہے۔",
+    "sd": "وفاقي قانون. اهو صوبن ۽ اسلام آباد ۾ لاڳو سمجهيو وڃي ٿو؛ گلگت-بلتستان ۽ آزاد جمون ۽ ڪشمير ۾ ان جو لاڳو ٿيڻ ۽ طريقو الڳ چيڪ ڪرڻ گهرجي."
+   },
+   "featured": true,
+   "relatedLaws": [
+    "constitution-1973",
+    "ppc-1860",
+    "police-order-2002",
+    "qanun-e-shahadat-1984",
+    "legal-aid-justice-authority-2020"
+   ],
+   "version": "Amended many times, including by provincial amendments in some provinces. Check the official consolidated text for your province."
+  },
+  {
+   "id": "qanun-e-shahadat-1984",
+   "title": "Qanun-e-Shahadat Order, 1984",
+   "category": "criminal",
+   "jurisdiction": "federal",
+   "appliesTo": [
+    "federal",
+    "sindh",
+    "punjab",
+    "kpk",
+    "balochistan",
+    "ict"
+   ],
+   "summary": {
+    "en": "The law of evidence: what a court accepts as proof, who must prove what, how witnesses are examined and how documents (including electronic records) are treated.",
+    "ur": "شہادت کا قانون: عدالت کن چیزوں کو ثبوت مانتی ہے، کس کو کیا ثابت کرنا ہوتا ہے، گواہوں سے کیسے پوچھ گچھ ہوتی ہے اور دستاویزات (بشمول برقی ریکارڈ) کو کیسے دیکھا جاتا ہے۔",
+    "sd": "شاهديءَ جو قانون: عدالت ڇا کي ثبوت مڃي ٿي، ڪنهن کي ڇا ثابت ڪرڻو آهي، شاهدن کان پڇا ڳاڇا ڪيئن ٿئي ٿي ۽ دستاويزن (بشمول اليڪٽرانڪ رڪارڊ) کي ڪيئن ڏٺو وڃي ٿو."
+   },
+   "keywords": [
+    "evidence",
+    "witness",
+    "proof",
+    "burden of proof",
+    "document",
+    "qanun-e-shahadat",
+    "qso"
+   ],
+   "sections": [],
+   "sourceUrl": "https://pakistancode.gov.pk/",
+   "sourceName": "Pakistan Code (Government of Pakistan)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "abbreviation": "QSO",
+   "year": 1984,
+   "applicabilityNote": {
+    "en": "Federal law. It is understood to apply across the provinces and Islamabad; whether and how it applies in Gilgit-Baltistan and Azad Jammu & Kashmir must be checked separately.",
+    "ur": "وفاقی قانون۔ اسے صوبوں اور اسلام آباد میں لاگو سمجھا جاتا ہے؛ گلگت بلتستان اور آزاد جموں و کشمیر میں اس کا اطلاق اور طریقۂ اطلاق الگ سے دیکھنا ضروری ہے۔",
+    "sd": "وفاقي قانون. اهو صوبن ۽ اسلام آباد ۾ لاڳو سمجهيو وڃي ٿو؛ گلگت-بلتستان ۽ آزاد جمون ۽ ڪشمير ۾ ان جو لاڳو ٿيڻ ۽ طريقو الڳ چيڪ ڪرڻ گهرجي."
+   },
+   "relatedLaws": [
+    "crpc-1898",
+    "ppc-1860"
+   ]
+  },
+  {
+   "id": "police-order-2002",
+   "title": "Police Order, 2002",
+   "category": "police",
+   "jurisdiction": "ict",
+   "appliesTo": [
+    "ict"
+   ],
+   "summary": {
+    "en": "Sets out the structure, duties and accountability of the police and includes provisions for complaints against police misconduct. Different provinces have since adopted their own police laws, so check which law applies where you live.",
+    "ur": "پولیس کی ساخت، فرائض اور جوابدہی بیان کرتا ہے اور پولیس کے ناروا طرزِ عمل کے خلاف شکایات کی شقیں رکھتا ہے۔ بعد میں مختلف صوبوں نے اپنے پولیس قوانین اپنائے ہیں، اس لیے دیکھیں کہ آپ کے علاقے میں کون سا قانون لاگو ہے۔",
+    "sd": "پوليس جو ڍانچو، فرض ۽ جوابدهي بيان ڪري ٿو ۽ پوليس جي ناجائز رويي خلاف شڪايتن جون شقون رکي ٿو. پوءِ مختلف صوبن پنهنجا پوليس قانون اپنايا آهن، تنهن ڪري ڏسو ته توهان جي علائقي ۾ ڪهڙو قانون لاڳو آهي."
+   },
+   "keywords": [
+    "police",
+    "complaint against police",
+    "misconduct",
+    "public safety commission",
+    "police order"
+   ],
+   "sections": [],
+   "sourceUrl": "https://pakistancode.gov.pk/",
+   "sourceName": "Pakistan Code (Government of Pakistan)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "abbreviation": "Police Order",
+   "year": 2002,
+   "applicabilityNote": {
+    "en": "Applicable to Islamabad Capital Territory as understood here. Provinces have adopted or restored their own police legislation (with amendments); verify the law for your province.",
+    "ur": "یہاں اسلام آباد کے لیے قابلِ اطلاق سمجھا گیا ہے۔ صوبوں نے اپنی پولیس قانون سازی (ترامیم کے ساتھ) اپنائی یا بحال کی ہے؛ اپنے صوبے کا قانون تصدیق کریں۔",
+    "sd": "هتي اسلام آباد لاءِ لاڳو سمجهيو ويو آهي. صوبن پنهنجي پوليس قانون سازي (ترميمن سان) اپنائي يا بحال ڪئي آهي؛ پنهنجي صوبي جو قانون تصديق ڪريو."
+   },
+   "relatedLaws": [
+    "crpc-1898"
+   ]
+  },
+  {
+   "id": "mvo-1965",
+   "title": "West Pakistan Motor Vehicles Ordinance, 1965",
+   "category": "traffic",
+   "jurisdiction": "federal",
+   "appliesTo": [
+    "federal",
+    "sindh",
+    "punjab",
+    "kpk",
+    "balochistan",
+    "ict"
+   ],
+   "summary": {
+    "en": "The main law on driving licences, vehicle registration, road rules and traffic offences. Provinces issue their own rules, fines and e-challan systems under it, so penalties differ by location.",
+    "ur": "ڈرائیونگ لائسنس، گاڑیوں کی رجسٹریشن، سڑک کے قواعد اور ٹریفک جرائم کا بنیادی قانون۔ صوبے اس کے تحت اپنے قواعد، جرمانے اور ای چالان نظام بناتے ہیں، اس لیے سزائیں مقام کے لحاظ سے مختلف ہیں۔",
+    "sd": "ڊرائيونگ لائسنس، گاڏين جي رجسٽريشن، روڊ جي قاعدن ۽ ٽريفڪ ڏوهن جو بنيادي قانون. صوبا ان تحت پنهنجا قاعدا، ڏنڊ ۽ اي چالان سرشتا ٺاهين ٿا، تنهن ڪري سزائون جڳهه مطابق مختلف آهن."
+   },
+   "keywords": [
+    "traffic",
+    "challan",
+    "driving licence",
+    "license",
+    "vehicle",
+    "registration",
+    "road",
+    "fine",
+    "motor vehicles"
+   ],
+   "sections": [],
+   "sourceUrl": "https://pakistancode.gov.pk/",
+   "sourceName": "Pakistan Code (Government of Pakistan)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "abbreviation": "MVO",
+   "year": 1965,
+   "applicabilityNote": {
+    "en": "Adapted by each province, which also issues its own rules and fines. Always check your provincial traffic authority.",
+    "ur": "ہر صوبے نے اسے اپنایا ہے اور اپنے قواعد و جرمانے بھی جاری کرتا ہے۔ اپنے صوبائی ٹریفک ادارے سے تصدیق کریں۔",
+    "sd": "هر صوبي ان کي اپنايو آهي ۽ پنهنجا قاعدا ۽ ڏنڊ به جاري ڪري ٿو. پنهنجي صوبائي ٽريفڪ اداري کان تصديق ڪريو."
+   }
+  },
+  {
+   "id": "cpc-1908",
+   "title": "Code of Civil Procedure, 1908",
+   "category": "civil",
+   "jurisdiction": "federal",
+   "appliesTo": [
+    "federal",
+    "sindh",
+    "punjab",
+    "kpk",
+    "balochistan",
+    "ict"
+   ],
+   "summary": {
+    "en": "The procedural law for civil cases (disputes about money, property, contracts and rights): how to file a suit, serve notice, get temporary orders such as injunctions, and enforce a decree. Provinces have made some local amendments.",
+    "ur": "دیوانی مقدمات (رقم، جائیداد، معاہدوں اور حقوق کے تنازعات) کا طریقۂ کار: دعویٰ دائر کرنا، نوٹس کی تعمیل، حکمِ امتناعی جیسے عارضی احکامات حاصل کرنا، اور ڈگری پر عمل درآمد۔ صوبوں نے کچھ مقامی ترامیم کی ہیں۔",
+    "sd": "ديواني ڪيسن (رقم، ملڪيت، معاهدن ۽ حقن جا تڪرار) جو طريقو: دعويٰ داخل ڪرڻ، نوٽيس جي تعميل، حڪمِ امتناعي جهڙا عارضي حڪم ڪرائڻ، ۽ ڊگريءَ تي عمل. صوبن ڪجهه مقامي ترميمون ڪيون آهن."
+   },
+   "keywords": [
+    "cpc",
+    "civil procedure",
+    "suit",
+    "plaint",
+    "injunction",
+    "decree",
+    "money recovery",
+    "summary suit",
+    "notice",
+    "execution"
+   ],
+   "sections": [
+    {
+     "id": "cpc-9",
+     "number": "Section 9",
+     "heading": "Courts to try all civil suits unless barred",
+     "explanation": {
+      "en": "Civil courts can hear every civil dispute unless the law expressly or by clear implication takes it away from them. If you have a civil right and nobody else has been given the power to decide, the civil court is usually the place to go.",
+      "ur": "دیوانی عدالتیں ہر دیوانی تنازع سن سکتی ہیں جب تک قانون صراحتاً یا واضح مفہوم کے ذریعے اسے ان سے الگ نہ کر دے۔ اگر آپ کا کوئی دیوانی حق ہے اور فیصلے کا اختیار کسی دوسرے ادارے کو نہیں دیا گیا تو عموماً دیوانی عدالت ہی جانے کی جگہ ہے۔",
+      "sd": "ديواني عدالتون هر ديواني تڪرار ٻڌي سگهن ٿيون جيستائين قانون صاف صاف يا واضح مفهوم سان ان کي انهن کان ڌار نه ڪري. جيڪڏهن توهان جو ڪو ديواني حق آهي ۽ فيصلي جو اختيار ٻئي ڪنهن کي ڏنل ناهي ته عام طور ديواني عدالت ئي وڃڻ جي جڳهه آهي."
+     }
+    },
+    {
+     "id": "cpc-80",
+     "number": "Section 80",
+     "heading": "Notice before suing the Government or a public officer",
+     "explanation": {
+      "en": "Before suing the Government or a public officer for something done in an official capacity, a written notice generally has to be given and a waiting period must pass, with limited exceptions. Check the current text for the waiting period and exceptions.",
+      "ur": "حکومت یا کسی سرکاری افسر کے خلاف اس کے سرکاری حیثیت میں کیے گئے کام پر دعویٰ کرنے سے پہلے عموماً تحریری نوٹس دینا اور انتظار کی مدت گزارنا ضروری ہے، محدود استثنا کے ساتھ۔ انتظار کی مدت اور استثنا کے لیے موجودہ متن دیکھیں۔",
+      "sd": "حڪومت يا ڪنهن سرڪاري آفيسر خلاف سندس سرڪاري حيثيت ۾ ڪيل ڪم تي دعويٰ ڪرڻ کان اڳ عام طور لکت وارو نوٽيس ڏيڻ ۽ انتظار جي مدت گذارڻ ضروري آهي، محدود استثنائن سان. انتظار جي مدت ۽ استثنائن لاءِ موجوده متن ڏسو."
+     },
+     "terms": [
+      {
+       "term": "notice",
+       "meaning": {
+        "en": "A written warning telling the other side what you claim and that you may sue.",
+        "ur": "تحریری اطلاع جو دوسرے فریق کو بتاتا ہے کہ آپ کیا دعویٰ کر رہے ہیں اور مقدمہ کر سکتے ہیں۔",
+        "sd": "لکت وارو اطلاع جيڪو ٻئي ڌر کي ٻڌائي ٿو ته توهان ڇا دعويٰ ڪري رهيا آهيو ۽ ڪيس ڪري سگهو ٿا."
+       }
+      }
+     ]
+    },
+    {
+     "id": "cpc-o37",
+     "number": "Order XXXVII",
+     "heading": "Summary procedure on negotiable instruments",
+     "explanation": {
+      "en": "A faster “summary suit” route for recovering money based on certain documents such as cheques, bills of exchange and promissory notes. The defendant needs the court's permission to defend. Check the current text and your province's amendments.",
+      "ur": "چیک، بل آف ایکسچینج اور پرامسری نوٹ جیسی بعض دستاویزات کی بنیاد پر رقم کی وصولی کا تیز تر “سمری سوٹ” راستہ۔ مدعا علیہ کو دفاع کے لیے عدالت کی اجازت درکار ہوتی ہے۔ موجودہ متن اور اپنے صوبے کی ترامیم دیکھیں۔",
+      "sd": "چيڪ، بل آف ايڪسچينج ۽ پرامسري نوٽ جهڙين ڪجهه دستاويزن جي بنياد تي رقم جي وصوليءَ جو تڪڙو “سمري سوٽ” رستو. مدعا عليه کي دفاع لاءِ عدالت جي اجازت گهرجي. موجوده متن ۽ پنهنجي صوبي جون ترميمون ڏسو."
+     },
+     "terms": [
+      {
+       "term": "summary suit",
+       "meaning": {
+        "en": "A shortened court process for clear money claims on specified documents.",
+        "ur": "مخصوص دستاویزات پر واضح رقم کے دعووں کے لیے مختصر عدالتی عمل۔",
+        "sd": "مخصوص دستاويزن تي واضح رقم جي دعوائن لاءِ مختصر عدالتي عمل."
+       }
+      }
+     ],
+     "glossary": [
+      "summons"
+     ]
+    },
+    {
+     "id": "cpc-o39",
+     "number": "Order XXXIX, Rules 1 and 2",
+     "heading": "Temporary injunctions",
+     "explanation": {
+      "en": "Lets a court order someone to stop (or sometimes do) something while the main case is pending — for example, to stop a person from selling or building on disputed property. The applicant usually has to show a prima facie case, that harm would be hard to undo, and that the balance of convenience favours them.",
+      "ur": "مقدمہ زیرِ سماعت ہونے کے دوران عدالت کسی کو کوئی کام روکنے (یا بعض اوقات کرنے) کا حکم دے سکتی ہے — مثلاً متنازع جائیداد بیچنے یا اس پر تعمیر سے روکنا۔ درخواست گزار کو عموماً ظاہری طور پر مضبوط مقدمہ، ناقابلِ تلافی نقصان کا خدشہ اور سہولت کا توازن اپنے حق میں ثابت کرنا ہوتا ہے۔",
+      "sd": "ڪيس هلندي عدالت ڪنهن کي ڪو ڪم روڪڻ (يا ڪڏهن ڪرڻ) جو حڪم ڏئي سگهي ٿي — مثال طور تڪراري ملڪيت وڪڻڻ يا ان تي اڏاوت ڪرڻ کان روڪڻ. درخواست ڏيندڙ کي عام طور ظاهري طور مضبوط ڪيس، ناقابلِ تلافي نقصان جو انديشو ۽ سهوليت جو توازن پنهنجي حق ۾ ثابت ڪرڻو پوي ٿو."
+     },
+     "terms": [
+      {
+       "term": "injunction",
+       "meaning": {
+        "en": "A court order to do or not do something.",
+        "ur": "کوئی کام کرنے یا نہ کرنے کا عدالتی حکم۔",
+        "sd": "ڪو ڪم ڪرڻ يا نه ڪرڻ جو عدالتي حڪم."
+       }
+      },
+      {
+       "term": "prima facie",
+       "meaning": {
+        "en": "“At first sight”: enough evidence to support the claim unless disproved.",
+        "ur": "“پہلی نظر میں”: دعوے کی حمایت کے لیے کافی شواہد جب تک رد نہ ہوں۔",
+        "sd": "“پهرين نظر ۾”: دعوائي جي حمايت لاءِ ڪافي ثبوت جيستائين رد نه ٿين."
+       }
+      }
+     ],
+     "glossary": [
+      "injunction"
+     ]
+    }
+   ],
+   "sourceUrl": "https://pakistancode.gov.pk/",
+   "sourceName": "Pakistan Code (Government of Pakistan)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "abbreviation": "CPC",
+   "year": 1908,
+   "applicabilityNote": {
+    "en": "Federal law. It is understood to apply across the provinces and Islamabad; whether and how it applies in Gilgit-Baltistan and Azad Jammu & Kashmir must be checked separately.",
+    "ur": "وفاقی قانون۔ اسے صوبوں اور اسلام آباد میں لاگو سمجھا جاتا ہے؛ گلگت بلتستان اور آزاد جموں و کشمیر میں اس کا اطلاق اور طریقۂ اطلاق الگ سے دیکھنا ضروری ہے۔",
+    "sd": "وفاقي قانون. اهو صوبن ۽ اسلام آباد ۾ لاڳو سمجهيو وڃي ٿو؛ گلگت-بلتستان ۽ آزاد جمون ۽ ڪشمير ۾ ان جو لاڳو ٿيڻ ۽ طريقو الڳ چيڪ ڪرڻ گهرجي."
+   },
+   "featured": true,
+   "relatedLaws": [
+    "contract-act-1872",
+    "specific-relief-act-1877",
+    "limitation-act-1908"
+   ],
+   "version": "Amended many times, including provincial amendments. Check the official consolidated text for your province."
+  },
+  {
+   "id": "contract-act-1872",
+   "title": "Contract Act, 1872",
+   "category": "civil",
+   "jurisdiction": "federal",
+   "appliesTo": [
+    "federal",
+    "sindh",
+    "punjab",
+    "kpk",
+    "balochistan",
+    "ict"
+   ],
+   "summary": {
+    "en": "Explains when a promise or agreement becomes a legally enforceable contract, what makes it valid or void, and what remedies (such as compensation) are available for breach.",
+    "ur": "بتاتا ہے کہ وعدہ یا معاہدہ کب قانونی طور پر قابلِ نفاذ معاہدہ بنتا ہے، کیا چیز اسے درست یا کالعدم بناتی ہے، اور خلاف ورزی پر کون سے علاج (جیسے ہرجانہ) دستیاب ہیں۔",
+    "sd": "وضاحت ڪري ٿو ته واعدو يا معاهدو ڪڏهن قانوني طور لاڳو ٿيڻ جوڳو معاهدو بڻجي ٿو، ڪهڙي شيءِ ان کي صحيح يا باطل بڻائي ٿي، ۽ ڀڃڪڙيءَ تي ڪهڙا علاج (جهڙوڪ معاوضو) دستياب آهن."
+   },
+   "keywords": [
+    "contract",
+    "agreement",
+    "breach",
+    "compensation",
+    "consideration",
+    "offer",
+    "acceptance",
+    "damages"
+   ],
+   "sections": [
+    {
+     "id": "ca-10",
+     "number": "Section 10",
+     "heading": "What agreements are contracts",
+     "explanation": {
+      "en": "Agreements are contracts when the parties are competent to contract, freely consent, have a lawful object and lawful consideration (something of value exchanged), and are not expressly declared void. Some contracts must also be in writing or registered.",
+      "ur": "معاہدے اس وقت قانونی معاہدے بنتے ہیں جب فریقین معاہدہ کرنے کے اہل ہوں، آزادانہ رضامندی دیں، مقصد اور عوض (تبادلے میں دی گئی قیمتی چیز) قانونی ہو، اور اسے صراحتاً کالعدم قرار نہ دیا گیا ہو۔ بعض معاہدوں کا تحریری یا رجسٹرڈ ہونا بھی ضروری ہے۔",
+      "sd": "معاهدا تڏهن قانوني معاهدا بڻجن ٿا جڏهن ڌريون معاهدو ڪرڻ جوڳيون هجن، آزاديءَ سان رضامندي ڏين، مقصد ۽ عوض (بدلي ۾ ڏنل قيمتي شيءِ) قانوني هجي، ۽ ان کي صاف طور باطل قرار نه ڏنو ويو هجي. ڪجهه معاهدن جو لکت ۾ يا رجسٽرڊ هجڻ به ضروري آهي."
+     },
+     "terms": [
+      {
+       "term": "consideration",
+       "meaning": {
+        "en": "Something of value each side gives or promises, such as money, goods or a promise to act.",
+        "ur": "ہر فریق کی طرف سے دی گئی یا وعدہ کی گئی قیمتی چیز، جیسے رقم، سامان یا کام کا وعدہ۔",
+        "sd": "هر ڌر طرفان ڏنل يا واعدو ڪيل قيمتي شيءِ، جهڙوڪ رقم، سامان يا ڪم جو واعدو."
+       }
+      }
+     ],
+     "glossary": [
+      "contract"
+     ]
+    },
+    {
+     "id": "ca-73",
+     "number": "Section 73",
+     "heading": "Compensation for loss or damage caused by breach of contract",
+     "explanation": {
+      "en": "If one party breaks a contract, the other can claim compensation for the loss that naturally arose from the breach (or that both sides knew was likely). It does not cover remote or indirect losses.",
+      "ur": "اگر ایک فریق معاہدہ توڑے تو دوسرا اس نقصان کے ہرجانے کا دعویٰ کر سکتا ہے جو خلاف ورزی سے فطری طور پر پیدا ہوا (یا جس کا دونوں کو امکان معلوم تھا)۔ دور کے یا بالواسطہ نقصانات اس میں شامل نہیں۔",
+      "sd": "جيڪڏهن هڪ ڌر معاهدو ڀڃي ته ٻي ڌر ان نقصان جي معاوضي جو دعويٰ ڪري سگهي ٿي جيڪو ڀڃڪڙيءَ مان فطري طور پيدا ٿيو (يا جنهن جو ٻنهي کي امڪان معلوم هو). پري جا يا اڻسڌا نقصان ان ۾ شامل ناهن."
+     },
+     "glossary": [
+      "contract"
+     ]
+    }
+   ],
+   "sourceUrl": "https://pakistancode.gov.pk/",
+   "sourceName": "Pakistan Code (Government of Pakistan)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "year": 1872,
+   "applicabilityNote": {
+    "en": "Federal law. It is understood to apply across the provinces and Islamabad; whether and how it applies in Gilgit-Baltistan and Azad Jammu & Kashmir must be checked separately.",
+    "ur": "وفاقی قانون۔ اسے صوبوں اور اسلام آباد میں لاگو سمجھا جاتا ہے؛ گلگت بلتستان اور آزاد جموں و کشمیر میں اس کا اطلاق اور طریقۂ اطلاق الگ سے دیکھنا ضروری ہے۔",
+    "sd": "وفاقي قانون. اهو صوبن ۽ اسلام آباد ۾ لاڳو سمجهيو وڃي ٿو؛ گلگت-بلتستان ۽ آزاد جمون ۽ ڪشمير ۾ ان جو لاڳو ٿيڻ ۽ طريقو الڳ چيڪ ڪرڻ گهرجي."
+   },
+   "relatedLaws": [
+    "cpc-1908",
+    "specific-relief-act-1877"
+   ]
+  },
+  {
+   "id": "specific-relief-act-1877",
+   "title": "Specific Relief Act, 1877",
+   "category": "civil",
+   "jurisdiction": "federal",
+   "appliesTo": [
+    "federal",
+    "sindh",
+    "punjab",
+    "kpk",
+    "balochistan",
+    "ict"
+   ],
+   "summary": {
+    "en": "Allows courts to declare rights and to order a person to do (specific performance) or stop doing (injunction) something, instead of only awarding money. Used in many property and contract disputes.",
+    "ur": "عدالتوں کو حقوق کا اعلان کرنے اور کسی کو کوئی کام کرنے (مخصوص عمل درآمد) یا روکنے (حکمِ امتناعی) کا حکم دینے کی اجازت دیتا ہے، محض رقم دلوانے کے بجائے۔ جائیداد اور معاہدوں کے کئی تنازعات میں استعمال ہوتا ہے۔",
+    "sd": "عدالتن کي حقن جو اعلان ڪرڻ ۽ ڪنهن کي ڪو ڪم ڪرڻ (مخصوص عمل درآمد) يا روڪڻ (حڪمِ امتناعي) جو حڪم ڏيڻ جي اجازت ڏئي ٿو، رڳو پئسا ڏياريندڙ ٿيڻ بدران. ملڪيت ۽ معاهدن جي ڪيترن تڪرارن ۾ استعمال ٿئي ٿو."
+   },
+   "keywords": [
+    "specific performance",
+    "injunction",
+    "declaration",
+    "declaratory suit",
+    "decree",
+    "property dispute"
+   ],
+   "sections": [
+    {
+     "id": "sra-42",
+     "number": "Section 42",
+     "heading": "Discretion of court as to declaration of status or right",
+     "explanation": {
+      "en": "A person with a legal right or character who is denied it can ask the court for a declaration (a formal statement) of that right — for example, a declaration of ownership. The court has discretion and will not grant it if a further relief could have been asked but wasn't.",
+      "ur": "جس شخص کا کوئی قانونی حق یا حیثیت ہو اور اس سے انکار کیا جائے تو وہ عدالت سے اس حق کا اعلان (رسمی بیان) مانگ سکتا ہے — مثلاً ملکیت کا اعلان۔ عدالت کو صوابدید حاصل ہے اور اگر مزید ریلیف مانگا جا سکتا تھا مگر نہیں مانگا گیا تو وہ اعلان نہیں دے گی۔",
+      "sd": "جنهن شخص جو ڪو قانوني حق يا حيثيت هجي ۽ ان کان انڪار ڪيو وڃي ته هو عدالت کان ان حق جو اعلان (رسمي بيان) گهري سگهي ٿو — مثال طور ملڪيت جو اعلان. عدالت کي صوابديد آهي ۽ جيڪڏهن وڌيڪ رليف گهري سگهجي ٿي پر نه گهري وئي هجي ته اها اعلان نه ڏيندي."
+     }
+    },
+    {
+     "id": "sra-54",
+     "number": "Section 54",
+     "heading": "Perpetual injunctions when granted",
+     "explanation": {
+      "en": "After a full hearing, a court can permanently forbid someone from violating your legal right (for example from interfering with your possession of property). It differs from a temporary injunction, which lasts only while the case is pending.",
+      "ur": "مکمل سماعت کے بعد عدالت کسی کو آپ کے قانونی حق کی خلاف ورزی (مثلاً جائیداد پر آپ کے قبضے میں مداخلت) سے ہمیشہ کے لیے روک سکتی ہے۔ یہ عارضی حکمِ امتناعی سے مختلف ہے جو صرف مقدمے کے دوران رہتا ہے۔",
+      "sd": "مڪمل ٻڌڻيءَ کانپوءِ عدالت ڪنهن کي توهان جي قانوني حق جي ڀڃڪڙي (مثال طور ملڪيت تي توهان جي قبضي ۾ مداخلت) کان هميشه لاءِ روڪي سگهي ٿي. هي عارضي حڪمِ امتناعي کان مختلف آهي جيڪو رڳو ڪيس هلڻ دوران رهي ٿو."
+     },
+     "glossary": [
+      "injunction"
+     ]
+    }
+   ],
+   "sourceUrl": "https://pakistancode.gov.pk/",
+   "sourceName": "Pakistan Code (Government of Pakistan)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "year": 1877,
+   "applicabilityNote": {
+    "en": "Federal law. It is understood to apply across the provinces and Islamabad; whether and how it applies in Gilgit-Baltistan and Azad Jammu & Kashmir must be checked separately.",
+    "ur": "وفاقی قانون۔ اسے صوبوں اور اسلام آباد میں لاگو سمجھا جاتا ہے؛ گلگت بلتستان اور آزاد جموں و کشمیر میں اس کا اطلاق اور طریقۂ اطلاق الگ سے دیکھنا ضروری ہے۔",
+    "sd": "وفاقي قانون. اهو صوبن ۽ اسلام آباد ۾ لاڳو سمجهيو وڃي ٿو؛ گلگت-بلتستان ۽ آزاد جمون ۽ ڪشمير ۾ ان جو لاڳو ٿيڻ ۽ طريقو الڳ چيڪ ڪرڻ گهرجي."
+   },
+   "relatedLaws": [
+    "cpc-1908",
+    "contract-act-1872"
+   ]
+  },
+  {
+   "id": "limitation-act-1908",
+   "title": "Limitation Act, 1908",
+   "category": "civil",
+   "jurisdiction": "federal",
+   "appliesTo": [
+    "federal",
+    "sindh",
+    "punjab",
+    "kpk",
+    "balochistan",
+    "ict"
+   ],
+   "summary": {
+    "en": "Sets the time limits within which a suit, appeal or application must be filed. Missing a deadline can end a claim, so check the limit that applies to your type of case as early as possible.",
+    "ur": "دعویٰ، اپیل یا درخواست دائر کرنے کی مقررہ مدتیں طے کرتا ہے۔ مدت گزر جانے سے دعویٰ ختم ہو سکتا ہے، اس لیے اپنی نوعیت کے مقدمے کی مدت جلد از جلد معلوم کریں۔",
+    "sd": "دعويٰ، اپيل يا درخواست داخل ڪرڻ جون مقرر مدتون طئه ڪري ٿو. مدت گذري وڃڻ سان دعويٰ ختم ٿي سگهي ٿو، تنهن ڪري پنهنجي قسم جي ڪيس جي مدت جلد کان جلد معلوم ڪريو."
+   },
+   "keywords": [
+    "limitation",
+    "time limit",
+    "deadline",
+    "time barred",
+    "appeal period"
+   ],
+   "sections": [],
+   "sourceUrl": "https://pakistancode.gov.pk/",
+   "sourceName": "Pakistan Code (Government of Pakistan)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "year": 1908,
+   "applicabilityNote": {
+    "en": "Federal law. It is understood to apply across the provinces and Islamabad; whether and how it applies in Gilgit-Baltistan and Azad Jammu & Kashmir must be checked separately.",
+    "ur": "وفاقی قانون۔ اسے صوبوں اور اسلام آباد میں لاگو سمجھا جاتا ہے؛ گلگت بلتستان اور آزاد جموں و کشمیر میں اس کا اطلاق اور طریقۂ اطلاق الگ سے دیکھنا ضروری ہے۔",
+    "sd": "وفاقي قانون. اهو صوبن ۽ اسلام آباد ۾ لاڳو سمجهيو وڃي ٿو؛ گلگت-بلتستان ۽ آزاد جمون ۽ ڪشمير ۾ ان جو لاڳو ٿيڻ ۽ طريقو الڳ چيڪ ڪرڻ گهرجي."
+   },
+   "relatedLaws": [
+    "cpc-1908"
+   ]
+  },
+  {
+   "id": "tpa-1882",
+   "title": "Transfer of Property Act, 1882",
+   "category": "property",
+   "jurisdiction": "federal",
+   "appliesTo": [
+    "federal",
+    "sindh",
+    "punjab",
+    "kpk",
+    "balochistan",
+    "ict"
+   ],
+   "summary": {
+    "en": "Governs how immovable property (land, houses) is transferred: sale, mortgage, lease, gift and exchange. It defines these transactions and says when documents must be written and registered.",
+    "ur": "غیر منقولہ جائیداد (زمین، مکان) کی منتقلی کا طریقہ: فروخت، رہن، پٹہ، ہبہ اور تبادلہ۔ یہ ان معاملات کی تعریف کرتا ہے اور بتاتا ہے کہ دستاویز کب تحریری اور رجسٹرڈ ہونا ضروری ہے۔",
+    "sd": "غير منقول ملڪيت (زمين، گهر) جي منتقليءَ جو طريقو: وڪرو، رهن، ليز، تحفو ۽ بدلو. هي انهن معاملن جي وصف ڪري ٿو ۽ ٻڌائي ٿو ته دستاويز ڪڏهن لکت ۾ ۽ رجسٽرڊ هجڻ ضروري آهي."
+   },
+   "keywords": [
+    "property",
+    "sale",
+    "lease",
+    "mortgage",
+    "gift",
+    "transfer",
+    "immovable",
+    "land",
+    "house",
+    "title"
+   ],
+   "sections": [
+    {
+     "id": "tpa-54",
+     "number": "Section 54",
+     "heading": "“Sale” defined",
+     "explanation": {
+      "en": "A sale transfers ownership of property for a price. For property of higher value, the transfer is made only by a registered instrument; for very low-value property, delivery of possession may be enough. Check the current monetary limits and your province's registration rules.",
+      "ur": "فروخت قیمت کے عوض جائیداد کی ملکیت کی منتقلی ہے۔ زیادہ مالیت کی جائیداد کی منتقلی صرف رجسٹرڈ دستاویز کے ذریعے ہوتی ہے؛ بہت کم مالیت میں قبضہ دینا کافی ہو سکتا ہے۔ موجودہ مالی حدود اور اپنے صوبے کے رجسٹریشن قواعد دیکھیں۔",
+      "sd": "وڪرو قيمت جي عوض ملڪيت جي مالڪيءَ جي منتقلي آهي. وڌيڪ قيمت واري ملڪيت جي منتقلي رڳو رجسٽرڊ دستاويز ذريعي ٿئي ٿي؛ تمام گهٽ قيمت ۾ قبضو ڏيڻ ڪافي ٿي سگهي ٿو. موجوده مالي حدون ۽ پنهنجي صوبي جا رجسٽريشن قاعدا ڏسو."
+     },
+     "terms": [
+      {
+       "term": "registered instrument",
+       "meaning": {
+        "en": "A written document officially recorded with the Sub-Registrar.",
+        "ur": "تحریری دستاویز جو سب رجسٹرار کے پاس سرکاری طور پر درج ہو۔",
+        "sd": "لکت وارو دستاويز جيڪو سب رجسٽرار وٽ سرڪاري طور درج ٿيل هجي."
+       }
+      }
+     ]
+    },
+    {
+     "id": "tpa-105",
+     "number": "Section 105",
+     "heading": "Lease defined",
+     "explanation": {
+      "en": "A lease transfers the right to enjoy property for a time in return for rent or another price. The giver is the lessor (landlord) and the taker is the lessee (tenant). Rented-premises laws of each province add specific tenant and landlord rules.",
+      "ur": "پٹہ کسی مدت کے لیے کرائے یا کسی اور قیمت کے عوض جائیداد سے فائدہ اٹھانے کا حق منتقل کرتا ہے۔ دینے والا لیسر (مالک مکان) اور لینے والا لیسی (کرایہ دار) ہے۔ ہر صوبے کے کرایہ دارانہ قوانین مخصوص قواعد شامل کرتے ہیں۔",
+      "sd": "ليز ڪنهن مدت لاءِ ڪرائي يا ٻي قيمت جي عوض ملڪيت مان فائدو وٺڻ جو حق منتقل ڪري ٿي. ڏيندڙ ليسر (مالڪ مڪان) ۽ وٺندڙ ليسي (ڪرائيدار) آهي. هر صوبي جا ڪرائي دارن جا قانون مخصوص قاعدا شامل ڪن ٿا."
+     },
+     "terms": [
+      {
+       "term": "lessor",
+       "meaning": {
+        "en": "The owner/landlord who gives the lease.",
+        "ur": "پٹہ دینے والا مالک/مالک مکان۔",
+        "sd": "ليز ڏيندڙ مالڪ/مالڪ مڪان."
+       }
+      },
+      {
+       "term": "lessee",
+       "meaning": {
+        "en": "The tenant who takes the lease.",
+        "ur": "پٹہ لینے والا کرایہ دار۔",
+        "sd": "ليز وٺندڙ ڪرائيدار."
+       }
+      }
+     ]
+    },
+    {
+     "id": "tpa-107",
+     "number": "Section 107",
+     "heading": "Leases how made",
+     "explanation": {
+      "en": "A lease of immovable property for more than one year must be made by a registered instrument; shorter leases can be made by a registered instrument or by delivery of possession. A written, registered tenancy agreement is safer for both sides.",
+      "ur": "ایک سال سے زیادہ مدت کا غیر منقولہ جائیداد کا پٹہ رجسٹرڈ دستاویز سے ہونا ضروری ہے؛ کم مدت کے پٹے رجسٹرڈ دستاویز یا قبضہ دینے سے ہو سکتے ہیں۔ تحریری اور رجسٹرڈ کرایہ نامہ دونوں فریقوں کے لیے زیادہ محفوظ ہے۔",
+      "sd": "هڪ سال کان وڌيڪ مدت جي غير منقول ملڪيت جي ليز رجسٽرڊ دستاويز سان ٿيڻ ضروري آهي؛ گهٽ مدت جون ليزون رجسٽرڊ دستاويز يا قبضو ڏيڻ سان ٿي سگهن ٿيون. لکت ۾ ۽ رجسٽرڊ ڪرائي نامو ٻنهي ڌرين لاءِ وڌيڪ محفوظ آهي."
+     },
+     "glossary": [
+      "tenant"
+     ]
+    }
+   ],
+   "sourceUrl": "https://pakistancode.gov.pk/",
+   "sourceName": "Pakistan Code (Government of Pakistan)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "abbreviation": "TPA",
+   "year": 1882,
+   "applicabilityNote": {
+    "en": "Federal law. It is understood to apply across the provinces and Islamabad; whether and how it applies in Gilgit-Baltistan and Azad Jammu & Kashmir must be checked separately.",
+    "ur": "وفاقی قانون۔ اسے صوبوں اور اسلام آباد میں لاگو سمجھا جاتا ہے؛ گلگت بلتستان اور آزاد جموں و کشمیر میں اس کا اطلاق اور طریقۂ اطلاق الگ سے دیکھنا ضروری ہے۔",
+    "sd": "وفاقي قانون. اهو صوبن ۽ اسلام آباد ۾ لاڳو سمجهيو وڃي ٿو؛ گلگت-بلتستان ۽ آزاد جمون ۽ ڪشمير ۾ ان جو لاڳو ٿيڻ ۽ طريقو الڳ چيڪ ڪرڻ گهرجي."
+   },
+   "relatedLaws": [
+    "registration-act-1908",
+    "sindh-rented-premises-1979",
+    "punjab-rented-premises-2009"
+   ]
+  },
+  {
+   "id": "registration-act-1908",
+   "title": "Registration Act, 1908",
+   "category": "property",
+   "jurisdiction": "federal",
+   "appliesTo": [
+    "federal",
+    "sindh",
+    "punjab",
+    "kpk",
+    "balochistan",
+    "ict"
+   ],
+   "summary": {
+    "en": "Explains which documents must be registered (such as many sale deeds and long leases), where and when to register them, and why registration protects your title.",
+    "ur": "بتاتا ہے کہ کون سی دستاویزات کا رجسٹرڈ ہونا لازم ہے (جیسے بہت سے بیع نامے اور طویل پٹے)، رجسٹریشن کہاں اور کب کرانی ہے، اور رجسٹریشن آپ کے حق کو کیسے تحفظ دیتی ہے۔",
+    "sd": "ٻڌائي ٿو ته ڪهڙن دستاويزن جو رجسٽرڊ ٿيڻ ضروري آهي (جهڙوڪ ڪيترائي وڪري نامي ۽ ڊگهيون ليزون)، رجسٽريشن ڪٿي ۽ ڪڏهن ڪرائڻي آهي، ۽ رجسٽريشن توهان جي حق کي ڪيئن تحفظ ڏئي ٿي."
+   },
+   "keywords": [
+    "registration",
+    "sub-registrar",
+    "sale deed",
+    "title",
+    "stamp duty",
+    "registered document"
+   ],
+   "sections": [
+    {
+     "id": "ra-17",
+     "number": "Section 17",
+     "heading": "Documents of which registration is compulsory",
+     "explanation": {
+      "en": "Lists documents that must be registered to be effective — for example, instruments that create or transfer rights in immovable property above a stated value, and leases for more than one year. An unregistered document of this kind may not be accepted as proof of the transaction.",
+      "ur": "ان دستاویزات کی فہرست دیتی ہے جن کا مؤثر ہونے کے لیے رجسٹرڈ ہونا لازم ہے — مثلاً مقررہ مالیت سے زیادہ غیر منقولہ جائیداد میں حقوق پیدا یا منتقل کرنے والی دستاویزات، اور ایک سال سے زائد پٹے۔ اس نوعیت کی غیر رجسٹرڈ دستاویز لین دین کے ثبوت کے طور پر قبول نہیں ہو سکتی۔",
+      "sd": "انهن دستاويزن جي لسٽ ڏئي ٿو جن جو اثرائتو ٿيڻ لاءِ رجسٽرڊ ٿيڻ ضروري آهي — مثال طور مقرر قيمت کان وڌيڪ غير منقول ملڪيت ۾ حق پيدا يا منتقل ڪندڙ دستاويز، ۽ هڪ سال کان وڌيڪ ليزون. هن قسم جو غير رجسٽرڊ دستاويز ٻٽاڪي جي ثبوت طور قبول نه ٿي سگهي."
+     }
+    }
+   ],
+   "sourceUrl": "https://pakistancode.gov.pk/",
+   "sourceName": "Pakistan Code (Government of Pakistan)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "year": 1908,
+   "applicabilityNote": {
+    "en": "Federal law. It is understood to apply across the provinces and Islamabad; whether and how it applies in Gilgit-Baltistan and Azad Jammu & Kashmir must be checked separately.",
+    "ur": "وفاقی قانون۔ اسے صوبوں اور اسلام آباد میں لاگو سمجھا جاتا ہے؛ گلگت بلتستان اور آزاد جموں و کشمیر میں اس کا اطلاق اور طریقۂ اطلاق الگ سے دیکھنا ضروری ہے۔",
+    "sd": "وفاقي قانون. اهو صوبن ۽ اسلام آباد ۾ لاڳو سمجهيو وڃي ٿو؛ گلگت-بلتستان ۽ آزاد جمون ۽ ڪشمير ۾ ان جو لاڳو ٿيڻ ۽ طريقو الڳ چيڪ ڪرڻ گهرجي."
+   },
+   "relatedLaws": [
+    "tpa-1882"
+   ]
+  },
+  {
+   "id": "sindh-rented-premises-1979",
+   "title": "Sindh Rented Premises Ordinance, 1979",
+   "category": "property",
+   "jurisdiction": "sindh",
+   "appliesTo": [
+    "sindh"
+   ],
+   "summary": {
+    "en": "The main tenancy law in Sindh: fair rent, tenant and landlord duties, the grounds on which a landlord can seek eviction, and the Rent Controller who decides such disputes.",
+    "ur": "سندھ میں کرایہ داری کا بنیادی قانون: مناسب کرایہ، کرایہ دار اور مالک مکان کے فرائض، بے دخلی کے وہ جواز جن پر مالک مکان درخواست دے سکتا ہے، اور رینٹ کنٹرولر جو ایسے تنازعات کا فیصلہ کرتا ہے۔",
+    "sd": "سنڌ ۾ ڪرائي داريءَ جو بنيادي قانون: مناسب ڪرايو، ڪرائيدار ۽ مالڪ مڪان جا فرض، بي دخلي جا اهي سبب جن تي مالڪ مڪان درخواست ڏئي سگهي ٿو، ۽ رينٽ ڪنٽرولر جيڪو اهڙن تڪرارن جو فيصلو ڪري ٿو."
+   },
+   "keywords": [
+    "tenant",
+    "landlord",
+    "rent",
+    "eviction",
+    "rent controller",
+    "sindh",
+    "ejectment",
+    "fair rent",
+    "tenancy"
+   ],
+   "sections": [],
+   "sourceUrl": "https://www.sindhlaws.gov.pk/",
+   "sourceName": "Sindh Laws portal (Government of Sindh)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "abbreviation": "SRPO",
+   "year": 1979,
+   "applicabilityNote": {
+    "en": "Applies to rented premises in Sindh as understood here; confirm the current text and any amendments.",
+    "ur": "یہاں سندھ میں کرائے کی عمارتوں پر لاگو سمجھا گیا ہے؛ موجودہ متن اور ترامیم کی تصدیق کریں۔",
+    "sd": "هتي سنڌ ۾ ڪرائي تي ڏنل عمارتن تي لاڳو سمجهيو ويو آهي؛ موجوده متن ۽ ترميمن جي تصديق ڪريو."
+   },
+   "featured": true,
+   "relatedLaws": [
+    "tpa-1882",
+    "registration-act-1908"
+   ]
+  },
+  {
+   "id": "punjab-rented-premises-2009",
+   "title": "Punjab Rented Premises Act, 2009",
+   "category": "property",
+   "jurisdiction": "punjab",
+   "appliesTo": [
+    "punjab"
+   ],
+   "summary": {
+    "en": "The tenancy law in Punjab. It covers tenancy agreements, rent, eviction and the Rent Tribunal. Check the current text for registration of tenancy agreements and eviction procedure.",
+    "ur": "پنجاب میں کرایہ داری کا قانون۔ اس میں کرایہ نامے، کرایہ، بے دخلی اور رینٹ ٹربیونل شامل ہیں۔ کرایہ ناموں کی رجسٹریشن اور بے دخلی کے طریقۂ کار کے لیے موجودہ متن دیکھیں۔",
+    "sd": "پنجاب ۾ ڪرائي داريءَ جو قانون. ان ۾ ڪرائي نامو، ڪرايو، بي دخلي ۽ رينٽ ٽربيونل شامل آهن. ڪرائي نامن جي رجسٽريشن ۽ بي دخليءَ جي طريقي لاءِ موجوده متن ڏسو."
+   },
+   "keywords": [
+    "tenant",
+    "landlord",
+    "rent",
+    "eviction",
+    "punjab",
+    "tribunal",
+    "tenancy agreement"
+   ],
+   "sections": [],
+   "sourceUrl": "https://punjablaws.gov.pk/",
+   "sourceName": "Punjab Laws portal (Government of Punjab)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "year": 2009,
+   "relatedLaws": [
+    "tpa-1882"
+   ]
+  },
+  {
+   "id": "ict-rent-restriction-2001",
+   "title": "Islamabad Rent Restriction Ordinance, 2001",
+   "category": "property",
+   "jurisdiction": "ict",
+   "appliesTo": [
+    "ict"
+   ],
+   "summary": {
+    "en": "The tenancy law for Islamabad Capital Territory covering rent, eviction and the Rent Controller.",
+    "ur": "اسلام آباد وفاقی دارالحکومت کے لیے کرایہ داری کا قانون جس میں کرایہ، بے دخلی اور رینٹ کنٹرولر شامل ہیں۔",
+    "sd": "اسلام آباد وفاقي دارالحڪومت لاءِ ڪرائي داريءَ جو قانون جنهن ۾ ڪرايو، بي دخلي ۽ رينٽ ڪنٽرولر شامل آهن."
+   },
+   "keywords": [
+    "tenant",
+    "landlord",
+    "rent",
+    "eviction",
+    "islamabad",
+    "ict",
+    "rent controller"
+   ],
+   "sections": [],
+   "sourceUrl": "https://pakistancode.gov.pk/",
+   "sourceName": "Pakistan Code (Government of Pakistan)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "year": 2001,
+   "relatedLaws": [
+    "tpa-1882"
+   ]
+  },
+  {
+   "id": "mflo-1961",
+   "title": "Muslim Family Laws Ordinance, 1961",
+   "category": "family",
+   "jurisdiction": "federal",
+   "appliesTo": [
+    "federal",
+    "sindh",
+    "punjab",
+    "kpk",
+    "balochistan",
+    "ict"
+   ],
+   "summary": {
+    "en": "Regulates several matters for Muslims: registration of marriage, notice and procedure for talaq, restrictions on a second marriage, maintenance, and the share of grandchildren whose parent died before the grandparent. It applies to Muslim citizens; other communities have their own personal laws.",
+    "ur": "مسلمانوں کے کئی معاملات کو منضبط کرتا ہے: نکاح کا اندراج، طلاق کا نوٹس اور طریقہ، دوسری شادی پر پابندیاں، نان نفقہ، اور ان پوتے/نواسوں کا حصہ جن کے والدین دادا/نانا سے پہلے فوت ہو گئے ہوں۔ یہ مسلمان شہریوں پر لاگو ہے؛ دیگر برادریوں کے اپنے شخصی قوانین ہیں۔",
+    "sd": "مسلمانن جي ڪيترن معاملن کي منظم ڪري ٿو: نڪاح جو اندراج، طلاق جو نوٽيس ۽ طريقو، ٻي شاديءَ تي پابنديون، نان نفقو، ۽ انهن پوٽن/ڏوهٽن جو حصو جن جا والدين ڏاڏي/ناني کان اڳ گذاري ويا هجن. هي مسلمان شهرين تي لاڳو آهي؛ ٻين برادرين جا پنهنجا ذاتي قانون آهن."
+   },
+   "keywords": [
+    "marriage",
+    "nikah",
+    "registration",
+    "talaq",
+    "divorce",
+    "polygamy",
+    "maintenance",
+    "inheritance",
+    "succession",
+    "arbitration council",
+    "union council",
+    "muslim"
+   ],
+   "sections": [
+    {
+     "id": "mflo-4",
+     "number": "Section 4",
+     "heading": "Succession",
+     "explanation": {
+      "en": "If a son or daughter dies before their parent, that person's children (the grandchildren) are treated as inheriting the share their parent would have received from the grandparent. Read the full section for the conditions.",
+      "ur": "اگر بیٹا یا بیٹی اپنے والد/والدہ سے پہلے فوت ہو جائے تو اس کی اولاد (پوتے/نواسے) کو وہ حصہ ملتا ہے جو اس کے والد/والدہ کو دادا/نانا کی جائیداد سے ملتا۔ شرائط کے لیے پوری دفعہ پڑھیں۔",
+      "sd": "جيڪڏهن پٽ يا ڌيءَ پنهنجي والد/والدہ کان اڳ گذاري وڃي ته ان جي اولاد (پوٽن/ڏوهٽن) کي اهو حصو ملي ٿو جيڪو سندن والد/والدہ کي ڏاڏي/ناني جي ملڪيت مان ملي ها. شرطن لاءِ پورو دفعو پڙهو."
+     },
+     "glossary": [
+      "inheritance"
+     ]
+    },
+    {
+     "id": "mflo-5",
+     "number": "Section 5",
+     "heading": "Registration of marriages",
+     "explanation": {
+      "en": "A Muslim marriage should be registered with the Union Council (or the relevant local authority). The Nikah Registrar who solemnises the marriage must record it in the prescribed form and give a copy to the parties. A registered nikahnama is key proof of marriage, dower and conditions.",
+      "ur": "مسلمان نکاح یونین کونسل (یا متعلقہ مقامی ادارے) میں رجسٹرڈ ہونا چاہیے۔ نکاح پڑھانے والے نکاح رجسٹرار کو مقررہ فارم میں اندراج کرنا اور فریقین کو نقل دینا ہوتی ہے۔ رجسٹرڈ نکاح نامہ نکاح، حق مہر اور شرائط کا بنیادی ثبوت ہے۔",
+      "sd": "مسلمان نڪاح يونين ڪائونسل (يا لاڳاپيل مقامي اداري) ۾ رجسٽرڊ ٿيڻ گهرجي. نڪاح پڙهائيندڙ نڪاح رجسٽرار کي مقرر فارم ۾ اندراج ڪرڻو ۽ ڌرين کي ڪاپي ڏيڻي پوي ٿي. رجسٽرڊ نڪاح نامو نڪاح، حق مهر ۽ شرطن جو بنيادي ثبوت آهي."
+     },
+     "terms": [
+      {
+       "term": "nikahnama",
+       "meaning": {
+        "en": "The marriage contract/certificate recording the nikah, dower and any conditions.",
+        "ur": "نکاح، حق مہر اور شرائط کو درج کرنے والا نکاح نامہ/سرٹیفکیٹ۔",
+        "sd": "نڪاح، حق مهر ۽ شرطن کي درج ڪندڙ نڪاح نامو/سرٽيفڪيٽ."
+       }
+      }
+     ],
+     "glossary": [
+      "dower",
+      "nikah"
+     ]
+    },
+    {
+     "id": "mflo-6",
+     "number": "Section 6",
+     "heading": "Polygamy",
+     "explanation": {
+      "en": "A man who already has a wife must not contract another marriage without first applying for written permission from the Arbitration Council and the application must state whether the existing wife's consent has been obtained. Marrying without permission has legal consequences. Check the current text.",
+      "ur": "جس مرد کی پہلے سے بیوی ہو وہ آربٹریشن کونسل سے تحریری اجازت کے لیے درخواست دیے بغیر دوسری شادی نہیں کر سکتا، اور درخواست میں بتانا ہوتا ہے کہ موجودہ بیوی کی رضامندی لی گئی ہے یا نہیں۔ اجازت کے بغیر شادی کے قانونی نتائج ہیں۔ موجودہ متن دیکھیں۔",
+      "sd": "جنهن مرد جي اڳ ۾ زال هجي اهو آربيٽريشن ڪائونسل کان لکت وارين اجازت لاءِ درخواست ڏيڻ کانسواءِ ٻي شادي نٿو ڪري سگهي، ۽ درخواست ۾ ٻڌائڻو پوي ٿو ته موجوده زال جي رضامندي ورتل آهي يا نه. اجازت کانسواءِ شاديءَ جا قانوني نتيجا آهن. موجوده متن ڏسو."
+     }
+    },
+    {
+     "id": "mflo-7",
+     "number": "Section 7",
+     "heading": "Talaq",
+     "explanation": {
+      "en": "A man who pronounces talaq must give written notice to the Chairman of the Union Council and supply a copy to his wife. The Council then tries reconciliation, and under this section the talaq generally takes effect after a waiting period (ninety days from the notice, unless the wife is pregnant, in which case the rules differ). Read the exact text.",
+      "ur": "جو مرد طلاق دے اسے یونین کونسل کے چیئرمین کو تحریری نوٹس دینا اور اس کی نقل بیوی کو دینا ہوتی ہے۔ کونسل مصالحت کی کوشش کرتی ہے اور اس دفعہ کے تحت طلاق عموماً انتظار کی مدت (نوٹس سے نوے دن، سوائے حمل کی صورت کے جہاں قواعد مختلف ہیں) کے بعد مؤثر ہوتی ہے۔ عین الفاظ پڑھیں۔",
+      "sd": "جيڪو مرد طلاق ڏئي ان کي يونين ڪائونسل جي چيئرمين کي لکت وارو نوٽيس ڏيڻو ۽ ان جي ڪاپي زال کي ڏيڻي پوي ٿي. ڪائونسل صلح جي ڪوشش ڪري ٿي ۽ هن دفعي تحت طلاق عام طور انتظار جي مدت (نوٽيس کان نوي ڏينهن، سواءِ حمل جي حالت جي جتي قاعدا مختلف آهن) کانپوءِ اثرائتي ٿئي ٿي. صحيح لفظ پڙهو."
+     },
+     "terms": [
+      {
+       "term": "Arbitration Council",
+       "meaning": {
+        "en": "A local body led by the Union Council chairman that tries to reconcile a couple.",
+        "ur": "مقامی ادارہ جس کی سربراہی یونین کونسل کا چیئرمین کرتا ہے اور جو جوڑے میں صلح کی کوشش کرتا ہے۔",
+        "sd": "مقامي اداره جنهن جي سربراهي يونين ڪائونسل جو چيئرمين ڪري ٿو ۽ جيڪو جوڙي ۾ صلح جي ڪوشش ڪري ٿو."
+       }
+      }
+     ],
+     "conditions": {
+      "en": "Failure to give notice can be an offence. A woman seeking to end a marriage has other routes (see the Dissolution of Muslim Marriages Act, 1939 and the Family Courts Act, 1964).",
+      "ur": "نوٹس نہ دینا جرم ہو سکتا ہے۔ جو عورت نکاح ختم کرانا چاہے اس کے پاس دیگر راستے ہیں (دیکھیں تنسیخِ نکاحِ مسلمانان ایکٹ 1939 اور فیملی کورٹس ایکٹ 1964)۔",
+      "sd": "نوٽيس نه ڏيڻ ڏوهه ٿي سگهي ٿو. جيڪا عورت نڪاح ختم ڪرائڻ چاهي ان وٽ ٻيا رستا آهن (ڏسو ڊزولوشن آف مسلم ميريجز ايڪٽ 1939 ۽ فئملي ڪورٽس ايڪٽ 1964)."
+     },
+     "glossary": [
+      "divorce"
+     ]
+    },
+    {
+     "id": "mflo-9",
+     "number": "Section 9",
+     "heading": "Maintenance",
+     "explanation": {
+      "en": "If a husband fails to maintain his wife (or fails to treat co-wives equitably), the wife can apply to the Chairman of the Union Council, which can decide on maintenance. Many maintenance claims are also brought in the Family Court. Read the current text.",
+      "ur": "اگر شوہر اپنی بیوی کا نان نفقہ ادا نہ کرے (یا ایک سے زیادہ بیویوں میں انصاف نہ کرے) تو بیوی یونین کونسل کے چیئرمین کو درخواست دے سکتی ہے جو نان نفقہ پر فیصلہ کر سکتا ہے۔ نان نفقہ کے کئی دعوے فیملی کورٹ میں بھی کیے جاتے ہیں۔ موجودہ متن دیکھیں۔",
+      "sd": "جيڪڏهن مڙس پنهنجي زال جو نان نفقو نه ڏئي (يا هڪ کان وڌيڪ زالن ۾ انصاف نه ڪري) ته زال يونين ڪائونسل جي چيئرمين کي درخواست ڏئي سگهي ٿي جيڪو نان نفقي تي فيصلو ڪري سگهي ٿو. نان نفقي جا ڪيترائي دعوائون فئملي ڪورٽ ۾ به ڪيون وڃن ٿيون. موجوده متن ڏسو."
+     },
+     "glossary": [
+      "maintenance"
+     ]
+    }
+   ],
+   "sourceUrl": "https://pakistancode.gov.pk/",
+   "sourceName": "Pakistan Code (Government of Pakistan)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "abbreviation": "MFLO",
+   "year": 1961,
+   "applicabilityNote": {
+    "en": "Applies to Muslims. Federal law understood to apply in the provinces and Islamabad; confirm applicability in Gilgit-Baltistan and Azad Jammu & Kashmir.",
+    "ur": "مسلمانوں پر لاگو۔ وفاقی قانون جو صوبوں اور اسلام آباد میں لاگو سمجھا جاتا ہے؛ گلگت بلتستان اور آزاد جموں و کشمیر میں اطلاق کی تصدیق کریں۔",
+    "sd": "مسلمانن تي لاڳو. وفاقي قانون جيڪو صوبن ۽ اسلام آباد ۾ لاڳو سمجهيو وڃي ٿو؛ گلگت-بلتستان ۽ آزاد جمون ۽ ڪشمير ۾ لاڳو ٿيڻ جي تصديق ڪريو."
+   },
+   "featured": true,
+   "relatedLaws": [
+    "dissolution-muslim-marriages-1939",
+    "family-courts-act-1964",
+    "guardians-wards-1890",
+    "dowry-bridal-gifts-1976"
+   ]
+  },
+  {
+   "id": "dissolution-muslim-marriages-1939",
+   "title": "Dissolution of Muslim Marriages Act, 1939",
+   "category": "family",
+   "jurisdiction": "federal",
+   "appliesTo": [
+    "federal",
+    "sindh",
+    "punjab",
+    "kpk",
+    "balochistan",
+    "ict"
+   ],
+   "summary": {
+    "en": "Lists the grounds on which a Muslim woman can ask a court to dissolve her marriage (for example, if the husband's whereabouts are unknown, he fails to maintain her, or treats her with cruelty). It works alongside the right to khula and the Family Courts Act, 1964.",
+    "ur": "ان بنیادوں کی فہرست دیتا ہے جن پر مسلمان عورت عدالت سے نکاح ختم کرنے کی درخواست کر سکتی ہے (مثلاً شوہر کا پتہ نہ ہونا، نان نفقہ نہ دینا یا ظلم کرنا)۔ یہ خلع کے حق اور فیملی کورٹس ایکٹ 1964 کے ساتھ مل کر کام کرتا ہے۔",
+    "sd": "انهن بنيادن جي لسٽ ڏئي ٿو جن تي مسلمان عورت عدالت کان نڪاح ختم ڪرڻ جي درخواست ڪري سگهي ٿي (مثال طور مڙس جو پتو نه هئڻ، نان نفقو نه ڏيڻ يا ظلم ڪرڻ). هي خلع جي حق ۽ فئملي ڪورٽس ايڪٽ 1964 سان گڏجي ڪم ڪري ٿو."
+   },
+   "keywords": [
+    "divorce",
+    "dissolution",
+    "khula",
+    "cruelty",
+    "maintenance",
+    "tanseekh",
+    "muslim woman",
+    "marriage"
+   ],
+   "sections": [
+    {
+     "id": "dmma-2",
+     "number": "Section 2",
+     "heading": "Grounds for decree for dissolution of marriage",
+     "explanation": {
+      "en": "A woman married under Muslim law can seek a decree dissolving her marriage on specific grounds, such as the husband being missing for a period, failing to provide maintenance, imprisonment for a long term, failing to perform marital obligations, cruelty, and certain other grounds listed in the section. Read the exact list and time periods in the official text.",
+      "ur": "مسلمان قانون کے تحت نکاح کرنے والی عورت مخصوص بنیادوں پر نکاح کی تنسیخ کی ڈگری مانگ سکتی ہے، مثلاً شوہر کا ایک مدت تک لاپتہ ہونا، نان نفقہ ادا نہ کرنا، طویل قید، ازدواجی ذمہ داریاں ادا نہ کرنا، ظلم، اور دفعہ میں درج دیگر بنیادیں۔ درست فہرست اور مدتیں سرکاری متن میں پڑھیں۔",
+      "sd": "مسلمان قانون تحت نڪاح ڪندڙ عورت مخصوص بنيادن تي نڪاح جي تنسيخ جي ڊگري گهري سگهي ٿي، مثال طور مڙس جو هڪ مدت تائين لاپتا هئڻ، نان نفقو نه ڏيڻ، ڊگهي قيد، ازدواجي ذميواريون ادا نه ڪرڻ، ظلم، ۽ دفعي ۾ ڏنل ٻيا بنياد. صحيح لسٽ ۽ مدتون سرڪاري متن ۾ پڙهو."
+     },
+     "terms": [
+      {
+       "term": "dissolution of marriage",
+       "meaning": {
+        "en": "A court decree ending a marriage.",
+        "ur": "عدالتی ڈگری جو نکاح ختم کرتی ہے۔",
+        "sd": "عدالتي ڊگري جيڪا نڪاح ختم ڪري ٿي."
+       }
+      }
+     ],
+     "glossary": [
+      "divorce",
+      "khula"
+     ]
+    }
+   ],
+   "sourceUrl": "https://pakistancode.gov.pk/",
+   "sourceName": "Pakistan Code (Government of Pakistan)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "year": 1939,
+   "applicabilityNote": {
+    "en": "Federal law. It is understood to apply across the provinces and Islamabad; whether and how it applies in Gilgit-Baltistan and Azad Jammu & Kashmir must be checked separately.",
+    "ur": "وفاقی قانون۔ اسے صوبوں اور اسلام آباد میں لاگو سمجھا جاتا ہے؛ گلگت بلتستان اور آزاد جموں و کشمیر میں اس کا اطلاق اور طریقۂ اطلاق الگ سے دیکھنا ضروری ہے۔",
+    "sd": "وفاقي قانون. اهو صوبن ۽ اسلام آباد ۾ لاڳو سمجهيو وڃي ٿو؛ گلگت-بلتستان ۽ آزاد جمون ۽ ڪشمير ۾ ان جو لاڳو ٿيڻ ۽ طريقو الڳ چيڪ ڪرڻ گهرجي."
+   },
+   "relatedLaws": [
+    "mflo-1961",
+    "family-courts-act-1964"
+   ]
+  },
+  {
+   "id": "family-courts-act-1964",
+   "title": "West Pakistan Family Courts Act, 1964",
+   "category": "family",
+   "jurisdiction": "federal",
+   "appliesTo": [
+    "federal",
+    "sindh",
+    "punjab",
+    "kpk",
+    "balochistan",
+    "ict"
+   ],
+   "summary": {
+    "en": "Creates Family Courts that hear marriage, dissolution (including khula), dower, maintenance, custody of children and related disputes. It requires the court to attempt reconciliation and aims at quicker, simpler procedure than ordinary civil courts.",
+    "ur": "فیملی کورٹس قائم کرتا ہے جو نکاح، تنسیخ (بشمول خلع)، حق مہر، نان نفقہ، بچوں کی تحویل اور متعلقہ تنازعات سنتی ہیں۔ عدالت پر مصالحت کی کوشش لازم ہے اور عام دیوانی عدالتوں کے مقابلے میں تیز اور سادہ طریقۂ کار کا ہدف ہے۔",
+    "sd": "فئملي ڪورٽون قائم ڪري ٿو جيڪي نڪاح، تنسيخ (بشمول خلع)، حق مهر، نان نفقي، ٻارن جي سنڀال ۽ لاڳاپيل تڪرارن کي ٻڌن ٿيون. عدالت تي صلح جي ڪوشش لازمي آهي ۽ عام ديواني عدالتن جي ڀيٽ ۾ تڪڙي ۽ سادي طريقي جو مقصد آهي."
+   },
+   "keywords": [
+    "family court",
+    "khula",
+    "dower",
+    "mehr",
+    "maintenance",
+    "custody",
+    "guardianship",
+    "reconciliation",
+    "divorce",
+    "dissolution"
+   ],
+   "sections": [
+    {
+     "id": "fca-5",
+     "number": "Section 5 and the Schedule",
+     "heading": "Jurisdiction",
+     "explanation": {
+      "en": "Family Courts have exclusive jurisdiction over the matters listed in the Schedule to the Act, such as dissolution of marriage (including khula), dower, maintenance, restitution of conjugal rights, custody and guardianship of children, and the return of dowry or bridal gifts. Check the current Schedule.",
+      "ur": "فیملی کورٹس کو ایکٹ کے شیڈول میں درج معاملات پر خصوصی اختیارِ سماعت حاصل ہے، جیسے تنسیخِ نکاح (بشمول خلع)، حق مہر، نان نفقہ، رجوعِ ازدواجی حقوق، بچوں کی تحویل و سرپرستی، اور جہیز یا تحائف کی واپسی۔ موجودہ شیڈول دیکھیں۔",
+      "sd": "فئملي ڪورٽن کي ايڪٽ جي شيڊول ۾ درج معاملن تي خاص ٻڌڻيءَ جو اختيار آهي، جهڙوڪ نڪاح جي تنسيخ (بشمول خلع)، حق مهر، نان نفقو، ازدواجي حقن جي بحالي، ٻارن جي سنڀال ۽ سرپرستي، ۽ جهيز يا تحفن جي واپسي. موجوده شيڊول ڏسو."
+     },
+     "glossary": [
+      "khula",
+      "dower",
+      "maintenance",
+      "custody"
+     ]
+    },
+    {
+     "id": "fca-10",
+     "number": "Section 10",
+     "heading": "Pre-trial reconciliation",
+     "explanation": {
+      "en": "Before and during a family case the court is required to try to bring the parties to a compromise. In suits for dissolution of marriage the court has particular duties to attempt reconciliation, and in a khula case the court's powers and the effect on dower are set out in this section. Read the exact text.",
+      "ur": "خاندانی مقدمے سے پہلے اور اس کے دوران عدالت پر فریقین میں صلح کرانے کی کوشش لازم ہے۔ تنسیخِ نکاح کے دعووں میں مصالحت کی خصوصی ذمہ داریاں ہیں، اور خلع کے مقدمے میں عدالت کے اختیارات اور حق مہر پر اثر اس دفعہ میں بیان ہیں۔ عین الفاظ پڑھیں۔",
+      "sd": "خانداني ڪيس کان اڳ ۽ ان دوران عدالت تي ڌرين ۾ صلح ڪرائڻ جي ڪوشش لازمي آهي. نڪاح جي تنسيخ جي دعوائن ۾ صلح جون خاص ذميواريون آهن، ۽ خلع جي ڪيس ۾ عدالت جا اختيار ۽ حق مهر تي اثر هن دفعي ۾ ڏنل آهن. صحيح لفظ پڙهو."
+     },
+     "glossary": [
+      "khula"
+     ]
+    }
+   ],
+   "sourceUrl": "https://pakistancode.gov.pk/",
+   "sourceName": "Pakistan Code (Government of Pakistan)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "year": 1964,
+   "applicabilityNote": {
+    "en": "Federal law. It is understood to apply across the provinces and Islamabad; whether and how it applies in Gilgit-Baltistan and Azad Jammu & Kashmir must be checked separately.",
+    "ur": "وفاقی قانون۔ اسے صوبوں اور اسلام آباد میں لاگو سمجھا جاتا ہے؛ گلگت بلتستان اور آزاد جموں و کشمیر میں اس کا اطلاق اور طریقۂ اطلاق الگ سے دیکھنا ضروری ہے۔",
+    "sd": "وفاقي قانون. اهو صوبن ۽ اسلام آباد ۾ لاڳو سمجهيو وڃي ٿو؛ گلگت-بلتستان ۽ آزاد جمون ۽ ڪشمير ۾ ان جو لاڳو ٿيڻ ۽ طريقو الڳ چيڪ ڪرڻ گهرجي."
+   },
+   "featured": true,
+   "relatedLaws": [
+    "mflo-1961",
+    "dissolution-muslim-marriages-1939",
+    "guardians-wards-1890",
+    "dowry-bridal-gifts-1976"
+   ]
+  },
+  {
+   "id": "guardians-wards-1890",
+   "title": "Guardians and Wards Act, 1890",
+   "category": "family",
+   "jurisdiction": "federal",
+   "appliesTo": [
+    "federal",
+    "sindh",
+    "punjab",
+    "kpk",
+    "balochistan",
+    "ict"
+   ],
+   "summary": {
+    "en": "Governs the appointment of guardians for minors and decisions about their custody. Courts treat the welfare of the child as the leading consideration.",
+    "ur": "نابالغ بچوں کے سرپرست مقرر کرنے اور ان کی تحویل کے فیصلوں کو منضبط کرتا ہے۔ عدالتیں بچے کی فلاح کو سب سے اہم پہلو سمجھتی ہیں۔",
+    "sd": "نابالغ ٻارن لاءِ سرپرست مقرر ڪرڻ ۽ سندن سنڀال بابت فيصلن کي منظم ڪري ٿو. عدالتون ٻار جي ڀلائيءَ کي سڀ کان اهم پاسو سمجهن ٿيون."
+   },
+   "keywords": [
+    "guardian",
+    "ward",
+    "custody",
+    "minor",
+    "welfare of the child",
+    "guardianship",
+    "hizanat"
+   ],
+   "sections": [
+    {
+     "id": "gwa-17",
+     "number": "Section 17",
+     "heading": "Matters to be considered by the court in appointing guardian",
+     "explanation": {
+      "en": "In appointing a guardian the court considers what is for the welfare of the minor, taking into account the minor's age, sex and religion, the character and capacity of the proposed guardian, existing relationships, and the minor's own preference if old enough to form one.",
+      "ur": "سرپرست مقرر کرتے وقت عدالت دیکھتی ہے کہ نابالغ کی فلاح کس میں ہے، اور نابالغ کی عمر، جنس اور مذہب، مجوزہ سرپرست کے کردار و اہلیت، موجودہ رشتے، اور اگر نابالغ اتنا بڑا ہو تو اس کی اپنی ترجیح کو مدِنظر رکھتی ہے۔",
+      "sd": "سرپرست مقرر ڪرڻ وقت عدالت ڏسي ٿي ته نابالغ جي ڀلائي ڪنهن ۾ آهي، ۽ نابالغ جي عمر، جنس ۽ مذهب، تجويز ڪيل سرپرست جي ڪردار ۽ اهليت، موجوده رشتن، ۽ جيڪڏهن نابالغ ايترو وڏو هجي ته سندس پنهنجي ترجيح کي ڌيان ۾ رکي ٿي."
+     },
+     "glossary": [
+      "custody"
+     ]
+    },
+    {
+     "id": "gwa-25",
+     "number": "Section 25",
+     "heading": "Title of guardian to custody of ward",
+     "explanation": {
+      "en": "If a ward leaves or is removed from the custody of the guardian, the court can order the ward to be returned if it is for the ward's welfare. Welfare of the child, not the parents' preference, is the central test.",
+      "ur": "اگر نابالغ سرپرست کی تحویل سے نکل جائے یا نکال دیا جائے تو عدالت بچے کی فلاح کے مطابق ہو تو اسے واپس لوٹانے کا حکم دے سکتی ہے۔ بنیادی کسوٹی بچے کی فلاح ہے، والدین کی ترجیح نہیں۔",
+      "sd": "جيڪڏهن نابالغ سرپرست جي سنڀال مان نڪري وڃي يا ڪڍيو وڃي ته عدالت ٻار جي ڀلائيءَ مطابق هجي ته کيس واپس ڪرڻ جو حڪم ڏئي سگهي ٿي. بنيادي ڪسوٽي ٻار جي ڀلائي آهي، والدين جي ترجيح نه."
+     },
+     "glossary": [
+      "custody"
+     ]
+    }
+   ],
+   "sourceUrl": "https://pakistancode.gov.pk/",
+   "sourceName": "Pakistan Code (Government of Pakistan)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "year": 1890,
+   "applicabilityNote": {
+    "en": "Federal law. It is understood to apply across the provinces and Islamabad; whether and how it applies in Gilgit-Baltistan and Azad Jammu & Kashmir must be checked separately.",
+    "ur": "وفاقی قانون۔ اسے صوبوں اور اسلام آباد میں لاگو سمجھا جاتا ہے؛ گلگت بلتستان اور آزاد جموں و کشمیر میں اس کا اطلاق اور طریقۂ اطلاق الگ سے دیکھنا ضروری ہے۔",
+    "sd": "وفاقي قانون. اهو صوبن ۽ اسلام آباد ۾ لاڳو سمجهيو وڃي ٿو؛ گلگت-بلتستان ۽ آزاد جمون ۽ ڪشمير ۾ ان جو لاڳو ٿيڻ ۽ طريقو الڳ چيڪ ڪرڻ گهرجي."
+   },
+   "relatedLaws": [
+    "family-courts-act-1964",
+    "mflo-1961"
+   ]
+  },
+  {
+   "id": "dowry-bridal-gifts-1976",
+   "title": "Dowry and Bridal Gifts (Restriction) Act, 1976",
+   "category": "family",
+   "jurisdiction": "federal",
+   "appliesTo": [
+    "federal",
+    "sindh",
+    "punjab",
+    "kpk",
+    "balochistan",
+    "ict"
+   ],
+   "summary": {
+    "en": "Limits dowry and bridal gifts and requires that gifts given to the bride be treated as her property. Disputes about return of dowry and gifts commonly go to the Family Court.",
+    "ur": "جہیز اور دلہن کے تحائف کو محدود کرتا ہے اور لازم کرتا ہے کہ دلہن کو دیے گئے تحائف اس کی ملکیت سمجھے جائیں۔ جہیز اور تحائف کی واپسی کے تنازعات عموماً فیملی کورٹ میں جاتے ہیں۔",
+    "sd": "جهيز ۽ ڪنوار جي تحفن کي محدود ڪري ٿو ۽ لازمي ڪري ٿو ته ڪنوار کي ڏنل تحفا سندس ملڪيت سمجهيا وڃن. جهيز ۽ تحفن جي واپسيءَ جا تڪرار عام طور فئملي ڪورٽ ۾ وڃن ٿا."
+   },
+   "keywords": [
+    "dowry",
+    "jahez",
+    "bridal gifts",
+    "marriage",
+    "property of the bride"
+   ],
+   "sections": [],
+   "sourceUrl": "https://pakistancode.gov.pk/",
+   "sourceName": "Pakistan Code (Government of Pakistan)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "year": 1976,
+   "applicabilityNote": {
+    "en": "Federal law. It is understood to apply across the provinces and Islamabad; whether and how it applies in Gilgit-Baltistan and Azad Jammu & Kashmir must be checked separately.",
+    "ur": "وفاقی قانون۔ اسے صوبوں اور اسلام آباد میں لاگو سمجھا جاتا ہے؛ گلگت بلتستان اور آزاد جموں و کشمیر میں اس کا اطلاق اور طریقۂ اطلاق الگ سے دیکھنا ضروری ہے۔",
+    "sd": "وفاقي قانون. اهو صوبن ۽ اسلام آباد ۾ لاڳو سمجهيو وڃي ٿو؛ گلگت-بلتستان ۽ آزاد جمون ۽ ڪشمير ۾ ان جو لاڳو ٿيڻ ۽ طريقو الڳ چيڪ ڪرڻ گهرجي."
+   },
+   "relatedLaws": [
+    "family-courts-act-1964",
+    "mflo-1961"
+   ]
+  },
+  {
+   "id": "succession-act-1925",
+   "title": "Succession Act, 1925",
+   "category": "family",
+   "jurisdiction": "federal",
+   "appliesTo": [
+    "federal",
+    "sindh",
+    "punjab",
+    "kpk",
+    "balochistan",
+    "ict"
+   ],
+   "summary": {
+    "en": "Provides rules on inheritance by will and on intestate succession for people to whom it applies, primarily non-Muslims. Muslim inheritance follows Islamic personal law as applied in Pakistan (see MFLO 1961, Section 4).",
+    "ur": "ان لوگوں کے لیے وصیت اور بلا وصیت وراثت کے قواعد دیتا ہے جن پر یہ لاگو ہے، بنیادی طور پر غیر مسلم۔ مسلمانوں کی وراثت پاکستان میں رائج اسلامی شخصی قانون کے مطابق ہوتی ہے (دیکھیں عائلی قوانین آرڈیننس 1961، دفعہ 4)۔",
+    "sd": "انهن ماڻهن لاءِ وصيت ۽ بي وصيت وراثت جا قاعدا ڏئي ٿو جن تي هي لاڳو آهي، بنيادي طور غير مسلمن. مسلمانن جي وراثت پاڪستان ۾ رائج اسلامي ذاتي قانون مطابق ٿئي ٿي (ڏسو عائلي قانون آرڊيننس 1961، دفعو 4)."
+   },
+   "keywords": [
+    "inheritance",
+    "will",
+    "succession",
+    "intestate",
+    "non-muslim",
+    "heirs",
+    "probate",
+    "succession certificate"
+   ],
+   "sections": [],
+   "sourceUrl": "https://pakistancode.gov.pk/",
+   "sourceName": "Pakistan Code (Government of Pakistan)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "year": 1925,
+   "applicabilityNote": {
+    "en": "Federal law. It is understood to apply across the provinces and Islamabad; whether and how it applies in Gilgit-Baltistan and Azad Jammu & Kashmir must be checked separately.",
+    "ur": "وفاقی قانون۔ اسے صوبوں اور اسلام آباد میں لاگو سمجھا جاتا ہے؛ گلگت بلتستان اور آزاد جموں و کشمیر میں اس کا اطلاق اور طریقۂ اطلاق الگ سے دیکھنا ضروری ہے۔",
+    "sd": "وفاقي قانون. اهو صوبن ۽ اسلام آباد ۾ لاڳو سمجهيو وڃي ٿو؛ گلگت-بلتستان ۽ آزاد جمون ۽ ڪشمير ۾ ان جو لاڳو ٿيڻ ۽ طريقو الڳ چيڪ ڪرڻ گهرجي."
+   },
+   "relatedLaws": [
+    "mflo-1961"
+   ]
+  },
+  {
+   "id": "sindh-child-marriage-2013",
+   "title": "Sindh Child Marriage Restraint Act, 2013",
+   "category": "family",
+   "jurisdiction": "sindh",
+   "appliesTo": [
+    "sindh"
+   ],
+   "summary": {
+    "en": "Provincial law in Sindh that restrains child marriage and sets the minimum marriage age at 18 for both boys and girls, with penalties. Rules differ in other provinces, so check the law for your own province.",
+    "ur": "سندھ کا صوبائی قانون جو کم عمری کی شادی کو روکتا ہے اور لڑکوں اور لڑکیوں دونوں کے لیے شادی کی کم از کم عمر 18 سال مقرر کرتا ہے، سزاؤں کے ساتھ۔ دوسرے صوبوں میں قواعد مختلف ہیں، اس لیے اپنے صوبے کا قانون دیکھیں۔",
+    "sd": "سنڌ جو صوبائي قانون جيڪو ننڍي عمر جي شاديءَ کي روڪي ٿو ۽ ڇوڪرن ۽ ڇوڪرين ٻنهي لاءِ شاديءَ جي گهٽ ۾ گهٽ عمر 18 سال مقرر ڪري ٿو، سزائن سان. ٻين صوبن ۾ قاعدا مختلف آهن، تنهن ڪري پنهنجي صوبي جو قانون ڏسو."
+   },
+   "keywords": [
+    "child marriage",
+    "minimum age",
+    "underage marriage",
+    "sindh",
+    "marriage age",
+    "18"
+   ],
+   "sections": [],
+   "sourceUrl": "https://www.sindhlaws.gov.pk/",
+   "sourceName": "Sindh Laws portal (Government of Sindh)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "year": 2013,
+   "applicabilityNote": {
+    "en": "Sindh only. Other provinces and territories have different laws and ages; verify before relying on this.",
+    "ur": "صرف سندھ۔ دیگر صوبوں اور علاقوں کے قوانین اور عمریں مختلف ہیں؛ بھروسا کرنے سے پہلے تصدیق کریں۔",
+    "sd": "رڳو سنڌ. ٻين صوبن ۽ علائقن جا قانون ۽ عمرون مختلف آهن؛ ڀروسو ڪرڻ کان اڳ تصديق ڪريو."
+   },
+   "relatedLaws": [
+    "mflo-1961"
+   ]
+  },
+  {
+   "id": "payment-of-wages-1936",
+   "title": "Payment of Wages Act, 1936",
+   "category": "labour",
+   "jurisdiction": "federal",
+   "appliesTo": [
+    "federal",
+    "sindh",
+    "punjab",
+    "kpk",
+    "balochistan",
+    "ict"
+   ],
+   "summary": {
+    "en": "Requires employers to pay wages on time and limits deductions from wages. A worker whose wages are delayed or wrongly deducted can claim before the authority appointed under the Act. Provinces have their own versions or amendments.",
+    "ur": "آجروں پر وقت پر اجرت ادا کرنا لازم کرتا ہے اور اجرت سے کٹوتیوں کو محدود کرتا ہے۔ جس کارکن کی اجرت میں تاخیر ہو یا غلط کٹوتی ہو وہ ایکٹ کے تحت مقرر اتھارٹی کے سامنے دعویٰ کر سکتا ہے۔ صوبوں کے اپنے ورژن یا ترامیم ہیں۔",
+    "sd": "ملازمن تي وقت تي اجرت ڏيڻ لازمي ڪري ٿو ۽ اجرت مان ڪٽوتين کي محدود ڪري ٿو. جنهن ڪم ڪندڙ جي اجرت ۾ دير ٿئي يا غلط ڪٽوتي ٿئي اهو ايڪٽ تحت مقرر اٿارٽيءَ آڏو دعويٰ ڪري سگهي ٿو. صوبن جا پنهنجا ورزن يا ترميمون آهن."
+   },
+   "keywords": [
+    "wages",
+    "salary",
+    "deduction",
+    "delay",
+    "labour",
+    "worker",
+    "employer",
+    "payment"
+   ],
+   "sections": [],
+   "sourceUrl": "https://pakistancode.gov.pk/",
+   "sourceName": "Pakistan Code (Government of Pakistan)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "year": 1936,
+   "applicabilityNote": {
+    "en": "Federal law. It is understood to apply across the provinces and Islamabad; whether and how it applies in Gilgit-Baltistan and Azad Jammu & Kashmir must be checked separately.",
+    "ur": "وفاقی قانون۔ اسے صوبوں اور اسلام آباد میں لاگو سمجھا جاتا ہے؛ گلگت بلتستان اور آزاد جموں و کشمیر میں اس کا اطلاق اور طریقۂ اطلاق الگ سے دیکھنا ضروری ہے۔",
+    "sd": "وفاقي قانون. اهو صوبن ۽ اسلام آباد ۾ لاڳو سمجهيو وڃي ٿو؛ گلگت-بلتستان ۽ آزاد جمون ۽ ڪشمير ۾ ان جو لاڳو ٿيڻ ۽ طريقو الڳ چيڪ ڪرڻ گهرجي."
+   },
+   "relatedLaws": [
+    "ira-2012",
+    "sindh-standing-orders-2015"
+   ]
+  },
+  {
+   "id": "ira-2012",
+   "title": "Industrial Relations Act, 2012",
+   "category": "labour",
+   "jurisdiction": "federal",
+   "appliesTo": [
+    "ict",
+    "federal"
+   ],
+   "summary": {
+    "en": "Covers trade unions, collective bargaining, industrial disputes and unfair labour practices in establishments to which it applies (mainly in Islamabad and inter-provincial establishments). Provinces have their own industrial relations laws for provincial matters.",
+    "ur": "اس کے لاگو اداروں (بنیادی طور پر اسلام آباد اور بین الصوبائی اداروں) میں ٹریڈ یونینوں، اجتماعی سودے بازی، صنعتی تنازعات اور غیر منصفانہ مزدور طریقوں کا احاطہ کرتا ہے۔ صوبائی معاملات کے لیے صوبوں کے اپنے قوانین ہیں۔",
+    "sd": "ان جي لاڳو ادارن (بنيادي طور اسلام آباد ۽ بين الصوبائي ادارن) ۾ ٽريڊ يونين، اجتماعي سودابازي، صنعتي تڪرارن ۽ غير منصفانه مزدور طريقن کي ڍڪي ٿو. صوبائي معاملن لاءِ صوبن جا پنهنجا قانون آهن."
+   },
+   "keywords": [
+    "trade union",
+    "collective bargaining",
+    "strike",
+    "industrial dispute",
+    "labour",
+    "nirc",
+    "unfair labour practice"
+   ],
+   "sections": [],
+   "sourceUrl": "https://pakistancode.gov.pk/",
+   "sourceName": "Pakistan Code (Government of Pakistan)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "abbreviation": "IRA",
+   "year": 2012,
+   "applicabilityNote": {
+    "en": "Mainly for Islamabad and trans-provincial establishments. Provincial establishments are covered by provincial industrial relations laws.",
+    "ur": "بنیادی طور پر اسلام آباد اور بین الصوبائی اداروں کے لیے۔ صوبائی اداروں پر صوبائی صنعتی تعلقات کے قوانین لاگو ہیں۔",
+    "sd": "بنيادي طور اسلام آباد ۽ بين الصوبائي ادارن لاءِ. صوبائي ادارن تي صوبائي صنعتي لاڳاپن جا قانون لاڳو آهن."
+   },
+   "relatedLaws": [
+    "payment-of-wages-1936"
+   ]
+  },
+  {
+   "id": "sindh-standing-orders-2015",
+   "title": "Sindh Terms of Employment (Standing Orders) Act, 2015",
+   "category": "labour",
+   "jurisdiction": "sindh",
+   "appliesTo": [
+    "sindh"
+   ],
+   "summary": {
+    "en": "Sets basic terms of employment in covered Sindh establishments: appointment letters, working conditions, leave, misconduct procedures and termination. Check the current text for who is covered.",
+    "ur": "سندھ کے احاطہ شدہ اداروں میں ملازمت کی بنیادی شرائط طے کرتا ہے: تقرری نامے، کام کے حالات، رخصت، بدعنوانی/بدانتظامی کے طریقۂ کار اور برخاستگی۔ کون شامل ہے اس کے لیے موجودہ متن دیکھیں۔",
+    "sd": "سنڌ جي ڍڪيل ادارن ۾ نوڪريءَ جون بنيادي شرطون طئه ڪري ٿو: تقرري جا خط، ڪم جا حالتون، موڪل، بدانتظامي جا طريقا ۽ برطرفي. ڪير ڍڪيل آهي ان لاءِ موجوده متن ڏسو."
+   },
+   "keywords": [
+    "employment",
+    "standing orders",
+    "termination",
+    "appointment letter",
+    "leave",
+    "dismissal",
+    "sindh",
+    "worker",
+    "labour"
+   ],
+   "sections": [],
+   "sourceUrl": "https://www.sindhlaws.gov.pk/",
+   "sourceName": "Sindh Laws portal (Government of Sindh)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "year": 2015,
+   "relatedLaws": [
+    "payment-of-wages-1936"
+   ]
+  },
+  {
+   "id": "sindh-consumer-protection-2014",
+   "title": "Sindh Consumer Protection Act, 2014",
+   "category": "consumer",
+   "jurisdiction": "sindh",
+   "appliesTo": [
+    "sindh"
+   ],
+   "summary": {
+    "en": "Protects consumers in Sindh against defective goods, deficient services and unfair practices, and provides for Consumer Courts where a consumer can file a complaint. Check the current text for the procedure and time limits.",
+    "ur": "سندھ میں صارفین کو ناقص اشیا، ناکافی خدمات اور غیر منصفانہ طرزِ عمل سے تحفظ دیتا ہے اور کنزیومر کورٹس فراہم کرتا ہے جہاں صارف شکایت دائر کر سکتا ہے۔ طریقۂ کار اور مدتوں کے لیے موجودہ متن دیکھیں۔",
+    "sd": "سنڌ ۾ صارفن کي خراب شين، ناقص خدمتن ۽ غير منصفانه طريقن کان تحفظ ڏئي ٿو ۽ ڪنزيومر ڪورٽون مهيا ڪري ٿو جتي صارف شڪايت داخل ڪري سگهي ٿو. طريقي ۽ مدتن لاءِ موجوده متن ڏسو."
+   },
+   "keywords": [
+    "consumer",
+    "defective goods",
+    "refund",
+    "warranty",
+    "consumer court",
+    "complaint",
+    "sindh",
+    "unfair practice",
+    "service"
+   ],
+   "sections": [],
+   "sourceUrl": "https://www.sindhlaws.gov.pk/",
+   "sourceName": "Sindh Laws portal (Government of Sindh)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "year": 2014,
+   "featured": true,
+   "relatedLaws": [
+    "contract-act-1872"
+   ]
+  },
+  {
+   "id": "punjab-consumer-protection-2005",
+   "title": "Punjab Consumer Protection Act, 2005",
+   "category": "consumer",
+   "jurisdiction": "punjab",
+   "appliesTo": [
+    "punjab"
+   ],
+   "summary": {
+    "en": "Protects consumers in Punjab and provides for Consumer Courts. It covers defective products, misleading advertisements and poor service. Check the current text for time limits.",
+    "ur": "پنجاب میں صارفین کو تحفظ دیتا ہے اور کنزیومر کورٹس فراہم کرتا ہے۔ ناقص مصنوعات، گمراہ کن اشتہارات اور ناقص خدمات اس میں شامل ہیں۔ مدتوں کے لیے موجودہ متن دیکھیں۔",
+    "sd": "پنجاب ۾ صارفن کي تحفظ ڏئي ٿو ۽ ڪنزيومر ڪورٽون مهيا ڪري ٿو. خراب پراڊڪٽس، گمراهه ڪندڙ اشتهار ۽ خراب خدمتون ان ۾ شامل آهن. مدتن لاءِ موجوده متن ڏسو."
+   },
+   "keywords": [
+    "consumer",
+    "defective product",
+    "refund",
+    "misleading advertisement",
+    "consumer court",
+    "punjab"
+   ],
+   "sections": [],
+   "sourceUrl": "https://punjablaws.gov.pk/",
+   "sourceName": "Punjab Laws portal (Government of Punjab)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "year": 2005
+  },
+  {
+   "id": "ict-consumer-protection-1995",
+   "title": "Islamabad Capital Territory Consumer Protection Act, 1995",
+   "category": "consumer",
+   "jurisdiction": "ict",
+   "appliesTo": [
+    "ict"
+   ],
+   "summary": {
+    "en": "Consumer protection law for Islamabad Capital Territory, covering defective goods and unfair practices and providing a complaint process.",
+    "ur": "اسلام آباد وفاقی دارالحکومت کے لیے صارفین کے تحفظ کا قانون جو ناقص اشیا اور غیر منصفانہ طرزِ عمل کا احاطہ کرتا اور شکایت کا طریقہ فراہم کرتا ہے۔",
+    "sd": "اسلام آباد وفاقي دارالحڪومت لاءِ صارفن جي تحفظ جو قانون جيڪو خراب شين ۽ غير منصفانه طريقن کي ڍڪي ٿو ۽ شڪايت جو طريقو مهيا ڪري ٿو."
+   },
+   "keywords": [
+    "consumer",
+    "islamabad",
+    "defective goods",
+    "complaint"
+   ],
+   "sections": [],
+   "sourceUrl": "https://pakistancode.gov.pk/",
+   "sourceName": "Pakistan Code (Government of Pakistan)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "year": 1995
+  },
+  {
+   "id": "wafaqi-mohtasib-1983",
+   "title": "Establishment of the Office of Wafaqi Mohtasib (Ombudsman) Order, 1983",
+   "category": "administrative",
+   "jurisdiction": "federal",
+   "appliesTo": [
+    "federal",
+    "sindh",
+    "punjab",
+    "kpk",
+    "balochistan",
+    "ict"
+   ],
+   "summary": {
+    "en": "Creates the Federal Ombudsman (Wafaqi Mohtasib), an office where anyone can complain free of charge about maladministration by federal government agencies — for example delay, neglect, or unfair treatment. Provinces have their own Ombudsman offices for provincial departments.",
+    "ur": "وفاقی محتسب (وفاقی محتسب) کا دفتر قائم کرتا ہے جہاں کوئی بھی شخص وفاقی سرکاری اداروں کی بدانتظامی — مثلاً تاخیر، غفلت یا ناانصافی — کے خلاف مفت شکایت کر سکتا ہے۔ صوبائی محکموں کے لیے صوبوں کے اپنے محتسب دفاتر ہیں۔",
+    "sd": "وفاقي محتسب جو آفيس قائم ڪري ٿو جتي ڪو به شخص وفاقي سرڪاري ادارن جي بدانتظاميءَ — مثال طور دير، غفلت يا ناانصافي — خلاف مفت شڪايت ڪري سگهي ٿو. صوبائي کاتن لاءِ صوبن جا پنهنجا محتسب آفيس آهن."
+   },
+   "keywords": [
+    "ombudsman",
+    "mohtasib",
+    "maladministration",
+    "complaint",
+    "government office",
+    "delay",
+    "federal"
+   ],
+   "sections": [],
+   "sourceUrl": "https://pakistancode.gov.pk/",
+   "sourceName": "Pakistan Code (Government of Pakistan)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "year": 1983,
+   "applicabilityNote": {
+    "en": "Federal law. It is understood to apply across the provinces and Islamabad; whether and how it applies in Gilgit-Baltistan and Azad Jammu & Kashmir must be checked separately.",
+    "ur": "وفاقی قانون۔ اسے صوبوں اور اسلام آباد میں لاگو سمجھا جاتا ہے؛ گلگت بلتستان اور آزاد جموں و کشمیر میں اس کا اطلاق اور طریقۂ اطلاق الگ سے دیکھنا ضروری ہے۔",
+    "sd": "وفاقي قانون. اهو صوبن ۽ اسلام آباد ۾ لاڳو سمجهيو وڃي ٿو؛ گلگت-بلتستان ۽ آزاد جمون ۽ ڪشمير ۾ ان جو لاڳو ٿيڻ ۽ طريقو الڳ چيڪ ڪرڻ گهرجي."
+   },
+   "featured": true,
+   "relatedLaws": [
+    "constitution-1973",
+    "rti-federal-2017"
+   ]
+  },
+  {
+   "id": "peca-2016",
+   "title": "Prevention of Electronic Crimes Act, 2016",
+   "category": "cyber",
+   "jurisdiction": "federal",
+   "appliesTo": [
+    "federal",
+    "sindh",
+    "punjab",
+    "kpk",
+    "balochistan",
+    "ict"
+   ],
+   "summary": {
+    "en": "Defines cyber offences such as unauthorised access to systems and data, identity misuse, offences against the dignity and modesty of a person, and cyber stalking, and sets out investigation powers and procedure. It was amended in 2025; always check the current consolidated text.",
+    "ur": "سائبر جرائم کی تعریف کرتا ہے جیسے نظام اور ڈیٹا تک غیر مجاز رسائی، شناخت کا غلط استعمال، کسی شخص کے وقار اور حیا کے خلاف جرائم، اور سائبر اسٹاکنگ، اور تفتیشی اختیارات اور طریقۂ کار طے کرتا ہے۔ 2025 میں اس میں ترمیم ہوئی؛ ہمیشہ موجودہ مرتب شدہ متن دیکھیں۔",
+    "sd": "سائبر ڏوهن جي وصف ڪري ٿو جهڙوڪ نظام ۽ ڊيٽا تائين غير مجاز رسائي، شناخت جو غلط استعمال، ڪنهن شخص جي وقار ۽ حيا خلاف ڏوهه، ۽ سائبر اسٽاڪنگ، ۽ تفتيشي اختيار ۽ طريقو مقرر ڪري ٿو. 2025 ۾ ان ۾ ترميم ٿي؛ هميشه موجوده گڏيل متن ڏسو."
+   },
+   "keywords": [
+    "cybercrime",
+    "peca",
+    "online harassment",
+    "hacking",
+    "identity theft",
+    "cyber stalking",
+    "fia",
+    "nr3c",
+    "social media",
+    "blackmail",
+    "digital"
+   ],
+   "sections": [
+    {
+     "id": "peca-16",
+     "number": "Section 16",
+     "heading": "Unauthorised use of identity information",
+     "explanation": {
+      "en": "Using, obtaining or selling another person's identity information (for example, a CNIC number or photographs) without authority and for gain or harm can be an offence. Section numbering should be confirmed in the current text.",
+      "ur": "کسی دوسرے شخص کی شناختی معلومات (مثلاً شناختی کارڈ نمبر یا تصاویر) کو اختیار کے بغیر فائدے یا نقصان کی نیت سے استعمال کرنا، حاصل کرنا یا بیچنا جرم ہو سکتا ہے۔ دفعہ کا نمبر موجودہ متن میں تصدیق کریں۔",
+      "sd": "ڪنهن ٻئي شخص جي سڃاڻپ جي معلومات (مثال طور شناختي ڪارڊ نمبر يا تصويرون) اختيار کانسواءِ فائدي يا نقصان جي نيت سان استعمال ڪرڻ، حاصل ڪرڻ يا وڪڻڻ ڏوهه ٿي سگهي ٿو. دفعي جو نمبر موجوده متن ۾ تصديق ڪريو."
+     }
+    },
+    {
+     "id": "peca-20",
+     "number": "Section 20",
+     "heading": "Offences against dignity of a natural person",
+     "explanation": {
+      "en": "Intentionally publishing or displaying false or intimidating information about a person that harms their reputation or privacy can be an offence. Check the current text and amendments.",
+      "ur": "کسی شخص کے بارے میں جان بوجھ کر جھوٹی یا خوفزدہ کرنے والی معلومات شائع یا ظاہر کرنا جو اس کی ساکھ یا نجی زندگی کو نقصان پہنچائے جرم ہو سکتا ہے۔ موجودہ متن اور ترامیم دیکھیں۔",
+      "sd": "ڪنهن شخص بابت ڄاڻي واڻي ڪوڙي يا ڊيڄاريندڙ معلومات شايع يا ڏيکارڻ جيڪا سندس ساک يا خانگي زندگيءَ کي نقصان پهچائي ڏوهه ٿي سگهي ٿي. موجوده متن ۽ ترميمون ڏسو."
+     }
+    },
+    {
+     "id": "peca-21",
+     "number": "Section 21",
+     "heading": "Offences against modesty of a natural person and minor",
+     "explanation": {
+      "en": "Covers sharing or threatening to share sexually explicit or manipulated images of a person, including for blackmail. Victims can complain to the FIA's cybercrime wing. Check the current text.",
+      "ur": "کسی شخص کی جنسی طور پر نازیبا یا تبدیل شدہ تصاویر شیئر کرنے یا شیئر کرنے کی دھمکی دینے، بشمول بلیک میلنگ، کا احاطہ کرتی ہے۔ متاثرین ایف آئی اے کے سائبر کرائم ونگ میں شکایت کر سکتے ہیں۔ موجودہ متن دیکھیں۔",
+      "sd": "ڪنهن شخص جي جنسي طور نازيبا يا تبديل ٿيل تصويرن شيئر ڪرڻ يا شيئر ڪرڻ جي ڌمڪي ڏيڻ، بشمول بليڪ ميلنگ، کي ڍڪي ٿي. متاثر ايف آءِ اي جي سائبر ڪرائم ونگ ۾ شڪايت ڪري سگهن ٿا. موجوده متن ڏسو."
+     },
+     "glossary": [
+      "harassment"
+     ]
+    },
+    {
+     "id": "peca-24",
+     "number": "Section 24",
+     "heading": "Cyber stalking",
+     "explanation": {
+      "en": "Repeatedly following, contacting, monitoring or harassing a person through the internet or other electronic means, causing fear or distress, can be cyber stalking. Check the current text.",
+      "ur": "انٹرنیٹ یا دیگر برقی ذرائع سے کسی شخص کا بار بار پیچھا کرنا، رابطہ کرنا، نگرانی یا ہراساں کرنا جس سے خوف یا پریشانی پیدا ہو سائبر اسٹاکنگ ہو سکتا ہے۔ موجودہ متن دیکھیں۔",
+      "sd": "انٽرنيٽ يا ٻين اليڪٽرانڪ ذريعن سان ڪنهن شخص جو بار بار پيڇو ڪرڻ، رابطو ڪرڻ، نگراني يا تنگ ڪرڻ جنهن سان خوف يا پريشاني پيدا ٿئي سائبر اسٽاڪنگ ٿي سگهي ٿو. موجوده متن ڏسو."
+     },
+     "glossary": [
+      "harassment"
+     ]
+    }
+   ],
+   "sourceUrl": "https://pakistancode.gov.pk/",
+   "sourceName": "Pakistan Code (Government of Pakistan)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "abbreviation": "PECA",
+   "year": 2016,
+   "applicabilityNote": {
+    "en": "Federal law. It is understood to apply across the provinces and Islamabad; whether and how it applies in Gilgit-Baltistan and Azad Jammu & Kashmir must be checked separately.",
+    "ur": "وفاقی قانون۔ اسے صوبوں اور اسلام آباد میں لاگو سمجھا جاتا ہے؛ گلگت بلتستان اور آزاد جموں و کشمیر میں اس کا اطلاق اور طریقۂ اطلاق الگ سے دیکھنا ضروری ہے۔",
+    "sd": "وفاقي قانون. اهو صوبن ۽ اسلام آباد ۾ لاڳو سمجهيو وڃي ٿو؛ گلگت-بلتستان ۽ آزاد جمون ۽ ڪشمير ۾ ان جو لاڳو ٿيڻ ۽ طريقو الڳ چيڪ ڪرڻ گهرجي."
+   },
+   "featured": true,
+   "relatedLaws": [
+    "ppc-1860",
+    "qanun-e-shahadat-1984"
+   ],
+   "version": "Amended in 2025 (reported). The exact amendments and current section numbering must be checked on the official source."
+  },
+  {
+   "id": "workplace-harassment-2010",
+   "title": "Protection against Harassment of Women at the Workplace Act, 2010",
+   "category": "humanrights",
+   "jurisdiction": "federal",
+   "appliesTo": [
+    "federal",
+    "sindh",
+    "punjab",
+    "kpk",
+    "balochistan",
+    "ict"
+   ],
+   "summary": {
+    "en": "Requires organisations to adopt a code of conduct and set up an Inquiry Committee for harassment complaints, and allows complaints to the Ombudsman (federal or provincial). It protects the person complaining from retaliation. Check the current text and any later amendments on the official portal.",
+    "ur": "اداروں پر ضابطۂ اخلاق اپنانے اور ہراسانی کی شکایات کے لیے انکوائری کمیٹی بنانے کی پابندی لگاتا ہے، اور محتسب (وفاقی یا صوبائی) کو شکایت کی اجازت دیتا ہے۔ شکایت کرنے والے کو انتقامی کارروائی سے تحفظ دیتا ہے۔ موجودہ متن اور ترامیم دیکھیں۔",
+    "sd": "اداري تي ضابطه اخلاق اپنائڻ ۽ تنگ ڪرڻ جي شڪايتن لاءِ انڪوائري ڪميٽي ٺاهڻ جي پابندي رکي ٿو، ۽ محتسب (وفاقي يا صوبائي) کي شڪايت جي اجازت ڏئي ٿو. شڪايت ڪندڙ کي بدلي واري ڪارروائيءَ کان تحفظ ڏئي ٿو. موجوده متن ۽ ترميمون ڏسو."
+   },
+   "keywords": [
+    "harassment",
+    "workplace",
+    "women",
+    "inquiry committee",
+    "ombudsman",
+    "complaint",
+    "human rights",
+    "labour"
+   ],
+   "sections": [],
+   "sourceUrl": "https://pakistancode.gov.pk/",
+   "sourceName": "Pakistan Code (Government of Pakistan)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "year": 2010,
+   "applicabilityNote": {
+    "en": "Federal law. It is understood to apply across the provinces and Islamabad; whether and how it applies in Gilgit-Baltistan and Azad Jammu & Kashmir must be checked separately.",
+    "ur": "وفاقی قانون۔ اسے صوبوں اور اسلام آباد میں لاگو سمجھا جاتا ہے؛ گلگت بلتستان اور آزاد جموں و کشمیر میں اس کا اطلاق اور طریقۂ اطلاق الگ سے دیکھنا ضروری ہے۔",
+    "sd": "وفاقي قانون. اهو صوبن ۽ اسلام آباد ۾ لاڳو سمجهيو وڃي ٿو؛ گلگت-بلتستان ۽ آزاد جمون ۽ ڪشمير ۾ ان جو لاڳو ٿيڻ ۽ طريقو الڳ چيڪ ڪرڻ گهرجي."
+   },
+   "relatedLaws": [
+    "ppc-1860",
+    "peca-2016"
+   ]
+  },
+  {
+   "id": "sindh-domestic-violence-2013",
+   "title": "Sindh Domestic Violence (Prevention and Protection) Act, 2013",
+   "category": "humanrights",
+   "jurisdiction": "sindh",
+   "appliesTo": [
+    "sindh"
+   ],
+   "summary": {
+    "en": "Provides protection against domestic violence in Sindh, including protection orders, residence and monetary relief, and a complaint mechanism. Check the current text and how it is implemented in your district.",
+    "ur": "سندھ میں گھریلو تشدد سے تحفظ فراہم کرتا ہے، جس میں تحفظی احکامات، رہائش اور مالی ریلیف، اور شکایتی نظام شامل ہیں۔ موجودہ متن اور اپنے ضلع میں اس کا نفاذ دیکھیں۔",
+    "sd": "سنڌ ۾ گهريلو تشدد کان تحفظ مهيا ڪري ٿو، جنهن ۾ تحفظي حڪم، رهائش ۽ مالي رليف، ۽ شڪايت جو نظام شامل آهن. موجوده متن ۽ پنهنجي ضلعي ۾ ان جو لاڳو ٿيڻ ڏسو."
+   },
+   "keywords": [
+    "domestic violence",
+    "protection order",
+    "abuse",
+    "women",
+    "sindh",
+    "shelter",
+    "human rights"
+   ],
+   "sections": [],
+   "sourceUrl": "https://www.sindhlaws.gov.pk/",
+   "sourceName": "Sindh Laws portal (Government of Sindh)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "year": 2013,
+   "featured": true,
+   "relatedLaws": [
+    "ppc-1860",
+    "family-courts-act-1964"
+   ]
+  },
+  {
+   "id": "punjab-women-violence-2016",
+   "title": "Punjab Protection of Women against Violence Act, 2016",
+   "category": "humanrights",
+   "jurisdiction": "punjab",
+   "appliesTo": [
+    "punjab"
+   ],
+   "summary": {
+    "en": "Provides protection for women against violence in Punjab, including protection orders and a complaint process and shelters. Check the current text.",
+    "ur": "پنجاب میں خواتین کو تشدد سے تحفظ دیتا ہے، جس میں تحفظی احکامات، شکایتی عمل اور پناہ گاہیں شامل ہیں۔ موجودہ متن دیکھیں۔",
+    "sd": "پنجاب ۾ عورتن کي تشدد کان تحفظ ڏئي ٿو، جنهن ۾ تحفظي حڪم، شڪايت جو عمل ۽ پناهه گاهون شامل آهن. موجوده متن ڏسو."
+   },
+   "keywords": [
+    "violence against women",
+    "protection order",
+    "domestic violence",
+    "punjab",
+    "shelter"
+   ],
+   "sections": [],
+   "sourceUrl": "https://punjablaws.gov.pk/",
+   "sourceName": "Punjab Laws portal (Government of Punjab)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "year": 2016
+  },
+  {
+   "id": "legal-aid-justice-authority-2020",
+   "title": "Legal Aid and Justice Authority Act, 2020",
+   "category": "legalaid",
+   "jurisdiction": "federal",
+   "appliesTo": [
+    "federal",
+    "sindh",
+    "punjab",
+    "kpk",
+    "balochistan",
+    "ict"
+   ],
+   "summary": {
+    "en": "Establishes a federal authority to provide legal aid to people who cannot afford a lawyer, particularly vulnerable groups. Check the current text and the authority's website for how to apply and which cases are covered.",
+    "ur": "ایک وفاقی اتھارٹی قائم کرتا ہے جو ان لوگوں کو قانونی امداد فراہم کرے جو وکیل کا خرچ نہیں اٹھا سکتے، خصوصاً کمزور طبقات۔ درخواست کا طریقہ اور شامل مقدمات کے لیے موجودہ متن اور اتھارٹی کی ویب سائٹ دیکھیں۔",
+    "sd": "هڪ وفاقي اٿارٽي قائم ڪري ٿو جيڪا انهن ماڻهن کي قانوني مدد ڏئي جيڪي وڪيل جو خرچ نٿا ڀري سگهن، خاص طور ڪمزور طبقن کي. درخواست جو طريقو ۽ شامل ڪيس ڏسڻ لاءِ موجوده متن ۽ اٿارٽيءَ جي ويب سائيٽ ڏسو."
+   },
+   "keywords": [
+    "legal aid",
+    "free lawyer",
+    "poor",
+    "justice",
+    "access to justice",
+    "authority"
+   ],
+   "sections": [],
+   "sourceUrl": "https://pakistancode.gov.pk/",
+   "sourceName": "Pakistan Code (Government of Pakistan)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "year": 2020,
+   "applicabilityNote": {
+    "en": "Federal law. It is understood to apply across the provinces and Islamabad; whether and how it applies in Gilgit-Baltistan and Azad Jammu & Kashmir must be checked separately.",
+    "ur": "وفاقی قانون۔ اسے صوبوں اور اسلام آباد میں لاگو سمجھا جاتا ہے؛ گلگت بلتستان اور آزاد جموں و کشمیر میں اس کا اطلاق اور طریقۂ اطلاق الگ سے دیکھنا ضروری ہے۔",
+    "sd": "وفاقي قانون. اهو صوبن ۽ اسلام آباد ۾ لاڳو سمجهيو وڃي ٿو؛ گلگت-بلتستان ۽ آزاد جمون ۽ ڪشمير ۾ ان جو لاڳو ٿيڻ ۽ طريقو الڳ چيڪ ڪرڻ گهرجي."
+   },
+   "featured": true,
+   "relatedLaws": [
+    "constitution-1973",
+    "crpc-1898"
+   ]
+  },
+  {
+   "id": "rti-federal-2017",
+   "title": "Right of Access to Information Act, 2017",
+   "category": "government",
+   "jurisdiction": "federal",
+   "appliesTo": [
+    "federal",
+    "sindh",
+    "punjab",
+    "kpk",
+    "balochistan",
+    "ict"
+   ],
+   "summary": {
+    "en": "Lets citizens request records held by federal public bodies. A public body must respond within a set time, and a refusal can be taken to the Information Commission. It does not cover provincial departments, which have their own right-to-information laws.",
+    "ur": "شہریوں کو وفاقی عوامی اداروں کے ریکارڈ کی درخواست کا حق دیتا ہے۔ عوامی ادارے کو مقررہ وقت میں جواب دینا ہوتا ہے اور انکار کی صورت میں انفارمیشن کمیشن سے رجوع کیا جا سکتا ہے۔ صوبائی محکمے اس میں شامل نہیں؛ ان کے اپنے حقِ معلومات قوانین ہیں۔",
+    "sd": "شهرين کي وفاقي عوامي ادارن وٽ رڪارڊ جي درخواست ڪرڻ جو حق ڏئي ٿو. عوامي ادارو مقرر وقت ۾ جواب ڏيڻو آهي ۽ انڪار جي صورت ۾ انفارميشن ڪميشن ڏانهن وڃي سگهجي ٿو. صوبائي کاتا ان ۾ شامل ناهن؛ سندن پنهنجا ڄاڻ جي حق وارا قانون آهن."
+   },
+   "keywords": [
+    "right to information",
+    "rti",
+    "records",
+    "information commission",
+    "public body",
+    "request",
+    "government"
+   ],
+   "sections": [],
+   "sourceUrl": "https://pakistancode.gov.pk/",
+   "sourceName": "Pakistan Code (Government of Pakistan)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "year": 2017,
+   "applicabilityNote": {
+    "en": "Federal law. It is understood to apply across the provinces and Islamabad; whether and how it applies in Gilgit-Baltistan and Azad Jammu & Kashmir must be checked separately.",
+    "ur": "وفاقی قانون۔ اسے صوبوں اور اسلام آباد میں لاگو سمجھا جاتا ہے؛ گلگت بلتستان اور آزاد جموں و کشمیر میں اس کا اطلاق اور طریقۂ اطلاق الگ سے دیکھنا ضروری ہے۔",
+    "sd": "وفاقي قانون. اهو صوبن ۽ اسلام آباد ۾ لاڳو سمجهيو وڃي ٿو؛ گلگت-بلتستان ۽ آزاد جمون ۽ ڪشمير ۾ ان جو لاڳو ٿيڻ ۽ طريقو الڳ چيڪ ڪرڻ گهرجي."
+   },
+   "relatedLaws": [
+    "constitution-1973",
+    "rti-sindh-2016",
+    "rti-punjab-2013"
+   ]
+  },
+  {
+   "id": "rti-sindh-2016",
+   "title": "Sindh Transparency and Right to Information Act, 2016",
+   "category": "government",
+   "jurisdiction": "sindh",
+   "appliesTo": [
+    "sindh"
+   ],
+   "summary": {
+    "en": "The right-to-information law for Sindh public bodies: how to request records and how to complain to the Sindh Information Commission if refused.",
+    "ur": "سندھ کے عوامی اداروں کے لیے حقِ معلومات کا قانون: ریکارڈ کیسے مانگا جائے اور انکار پر سندھ انفارمیشن کمیشن میں شکایت کیسے کی جائے۔",
+    "sd": "سنڌ جي عوامي ادارن لاءِ ڄاڻ جي حق جو قانون: رڪارڊ ڪيئن گهرجي ۽ انڪار تي سنڌ انفارميشن ڪميشن ۾ شڪايت ڪيئن ڪجي."
+   },
+   "keywords": [
+    "right to information",
+    "rti",
+    "sindh",
+    "transparency",
+    "information commission"
+   ],
+   "sections": [],
+   "sourceUrl": "https://www.sindhlaws.gov.pk/",
+   "sourceName": "Sindh Laws portal (Government of Sindh)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "year": 2016,
+   "relatedLaws": [
+    "rti-federal-2017"
+   ]
+  },
+  {
+   "id": "rti-punjab-2013",
+   "title": "Punjab Transparency and Right to Information Act, 2013",
+   "category": "government",
+   "jurisdiction": "punjab",
+   "appliesTo": [
+    "punjab"
+   ],
+   "summary": {
+    "en": "The right-to-information law for Punjab public bodies, including how to request records and appeal to the Punjab Information Commission.",
+    "ur": "پنجاب کے عوامی اداروں کے لیے حقِ معلومات کا قانون، بشمول ریکارڈ مانگنے اور پنجاب انفارمیشن کمیشن میں اپیل کا طریقہ۔",
+    "sd": "پنجاب جي عوامي ادارن لاءِ ڄاڻ جي حق جو قانون، بشمول رڪارڊ گهرڻ ۽ پنجاب انفارميشن ڪميشن ۾ اپيل جو طريقو."
+   },
+   "keywords": [
+    "right to information",
+    "rti",
+    "punjab",
+    "transparency",
+    "information commission"
+   ],
+   "sections": [],
+   "sourceUrl": "https://punjablaws.gov.pk/",
+   "sourceName": "Punjab Laws portal (Government of Punjab)",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "year": 2013,
+   "relatedLaws": [
+    "rti-federal-2017"
+   ]
+  },
+  {
+   "id": "rti-kpk-2013",
+   "title": "Khyber Pakhtunkhwa Right to Information Act, 2013",
+   "category": "government",
+   "jurisdiction": "kpk",
+   "appliesTo": [
+    "kpk"
+   ],
+   "summary": {
+    "en": "The right-to-information law for Khyber Pakhtunkhwa public bodies, including how to request records and complain to the Information Commission.",
+    "ur": "خیبر پختونخوا کے عوامی اداروں کے لیے حقِ معلومات کا قانون، بشمول ریکارڈ مانگنے اور انفارمیشن کمیشن میں شکایت کا طریقہ۔",
+    "sd": "خيبر پختونخوا جي عوامي ادارن لاءِ ڄاڻ جي حق جو قانون، بشمول رڪارڊ گهرڻ ۽ انفارميشن ڪميشن ۾ شڪايت جو طريقو."
+   },
+   "keywords": [
+    "right to information",
+    "rti",
+    "khyber pakhtunkhwa",
+    "kpk",
+    "information commission"
+   ],
+   "sections": [],
+   "sourceUrl": "https://www.pakp.gov.pk/all-acts/",
+   "sourceName": "Provincial Assembly of Khyber Pakhtunkhwa – Acts",
+   "sourceUrlVerified": false,
+   "languages": [
+    "en",
+    "ur",
+    "sd"
+   ],
+   "verification": "source-linked",
+   "year": 2013,
+   "relatedLaws": [
+    "rti-federal-2017"
+   ]
+  }
+ ]
+}
